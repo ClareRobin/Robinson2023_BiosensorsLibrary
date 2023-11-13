@@ -1,0 +1,2328 @@
+Name,# Sequences,Description
+1,3,2 reads from C_rodentium_TCS1.fasta mapped to 1 using Bowtie2
+1,4,3 reads from C_rodentium_TCS2 (reversed).fasta mapped to 1 using Bowtie2
+1,5,4 reads from C_rodentium_TCS3.fasta mapped to 1 using Bowtie2
+1,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 1 using Bowtie2
+1,4,3 reads from C_rodentium_TCS6 (reversed).fasta mapped to 1 using Bowtie2
+1,3,2 reads from C_rodentium_TCS7 (reversed).fasta mapped to 1 using Bowtie2
+1,3,2 reads from C_rodentium_TCS8.fasta mapped to 1 using Bowtie2
+1,31,30 reads from C_rodentium_TCS9 (reversed).fasta mapped to 1 using Bowtie2
+1,10345,"10,344 reads from C_rodentium_TCS10 (reversed).fasta mapped to 1 using Bowtie2"
+1,6,5 reads from E_faecalis_TCS2 (reversed).fasta mapped to 1 using Bowtie2
+1,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 1 using Bowtie2
+1,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 1 using Bowtie2
+1,11,10 reads from E_tarda_TCS5 (reversed).fasta mapped to 1 using Bowtie2
+1,8,7 reads from E_tarda_TCS6.fasta mapped to 1 using Bowtie2
+1,11,10 reads from E_tarda_TCS7.fasta mapped to 1 using Bowtie2
+1,7,6 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 1 using Bowtie2
+1,6,5 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 1 using Bowtie2
+1,2,1 read from K_pneumonia_TCS4.fasta mapped to 1 using Bowtie2
+1,4,3 reads from K_pneumonia_TCS7.fasta mapped to 1 using Bowtie2
+1,184,183 reads from K_pneumoniae_TCS10.fasta mapped to 1 using Bowtie2
+1,27,26 reads from pCR15  PCR Product.fasta mapped to 1 using Bowtie2
+1,26,25 reads from pCR16  PCR Product.fasta mapped to 1 using Bowtie2
+1,9,8 reads from pCR17 PCR Product.fasta mapped to 1 using Bowtie2
+1,10,9 reads from pCR18  PCR Product.fasta mapped to 1 using Bowtie2
+1,31,30 reads from pCR21 PCR Product.fasta mapped to 1 using Bowtie2
+1,9,8 reads from pCR22  PCR Product.fasta mapped to 1 using Bowtie2
+1,10,9 reads from pCR23  PCR Product.fasta mapped to 1 using Bowtie2
+1,19,18 reads from pCR24 PCR Product.fasta mapped to 1 using Bowtie2
+1,56,55 reads from S_enterica_TCS3.fasta mapped to 1 using Bowtie2
+1,4,3 reads from S_enterica_TCS4.fasta mapped to 1 using Bowtie2
+1,3,2 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 1 using Bowtie2
+1,5,4 reads from V_cholera_TCS2 (reversed).fasta mapped to 1 using Bowtie2
+1,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 1 using Bowtie2
+2,2,1 read from B_frag_TCS3.fasta mapped to 2 using Bowtie2
+2,2,1 read from C_rodentium_TCS3.fasta mapped to 2 using Bowtie2
+2,2,1 read from C_rodentium_TCS4.fasta mapped to 2 using Bowtie2
+2,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 2 using Bowtie2
+2,5,4 reads from C_rodentium_TCS9 (reversed).fasta mapped to 2 using Bowtie2
+2,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 2 using Bowtie2
+2,1714,"1,713 reads from E_faecalis_TCS2 (reversed).fasta mapped to 2 using Bowtie2"
+2,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 2 using Bowtie2
+2,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 2 using Bowtie2
+2,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 2 using Bowtie2
+2,4,3 reads from K_pneumoniae_TCS10.fasta mapped to 2 using Bowtie2
+2,4,3 reads from pCR15  PCR Product.fasta mapped to 2 using Bowtie2
+2,7,6 reads from pCR16  PCR Product.fasta mapped to 2 using Bowtie2
+2,3,2 reads from pCR17 PCR Product.fasta mapped to 2 using Bowtie2
+2,4,3 reads from pCR21 PCR Product.fasta mapped to 2 using Bowtie2
+2,2,1 read from pCR22  PCR Product.fasta mapped to 2 using Bowtie2
+2,4,3 reads from pCR23  PCR Product.fasta mapped to 2 using Bowtie2
+2,3,2 reads from pCR24 PCR Product.fasta mapped to 2 using Bowtie2
+2,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 2 using Bowtie2
+3,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 3 using Bowtie2
+3,1914,"1,913 reads from C_rodentium_TCS8.fasta mapped to 3 using Bowtie2"
+3,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 3 using Bowtie2
+3,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 3 using Bowtie2
+3,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 3 using Bowtie2
+3,2,1 read from E_tarda_TCS6.fasta mapped to 3 using Bowtie2
+3,2,1 read from E_tarda_TCS7.fasta mapped to 3 using Bowtie2
+3,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 3 using Bowtie2
+3,2,1 read from L_gasseri_TCS1.fasta mapped to 3 using Bowtie2
+3,4,3 reads from pCR15  PCR Product.fasta mapped to 3 using Bowtie2
+3,5,4 reads from pCR16  PCR Product.fasta mapped to 3 using Bowtie2
+3,2,1 read from pCR17 PCR Product.fasta mapped to 3 using Bowtie2
+3,3,2 reads from pCR18  PCR Product.fasta mapped to 3 using Bowtie2
+3,6,5 reads from pCR21 PCR Product.fasta mapped to 3 using Bowtie2
+3,3,2 reads from pCR22  PCR Product.fasta mapped to 3 using Bowtie2
+3,4,3 reads from pCR23  PCR Product.fasta mapped to 3 using Bowtie2
+3,6,5 reads from pCR24 PCR Product.fasta mapped to 3 using Bowtie2
+3,4,3 reads from S_enterica_TCS5.fasta mapped to 3 using Bowtie2
+4,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 4 using Bowtie2
+4,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 4 using Bowtie2
+4,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 4 using Bowtie2
+4,2,1 read from E_tarda_TCS6.fasta mapped to 4 using Bowtie2
+4,3,2 reads from E_tarda_TCS7.fasta mapped to 4 using Bowtie2
+4,2,1 read from pCR15  PCR Product.fasta mapped to 4 using Bowtie2
+4,3,2 reads from pCR16  PCR Product.fasta mapped to 4 using Bowtie2
+4,3,2 reads from pCR21 PCR Product.fasta mapped to 4 using Bowtie2
+4,2,1 read from pCR22  PCR Product.fasta mapped to 4 using Bowtie2
+4,3,2 reads from pCR23  PCR Product.fasta mapped to 4 using Bowtie2
+4,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 4 using Bowtie2
+4,953,952 reads from V_cholera_TCS2 (reversed).fasta mapped to 4 using Bowtie2
+5,370,369 reads from B_frag_TCS3.fasta mapped to 5 using Bowtie2
+5,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 5 using Bowtie2
+5,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 5 using Bowtie2
+5,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 5 using Bowtie2
+5,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 5 using Bowtie2
+5,3,2 reads from E_tarda_TCS7.fasta mapped to 5 using Bowtie2
+5,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 5 using Bowtie2
+5,2,1 read from K_pneumoniae_TCS10.fasta mapped to 5 using Bowtie2
+5,2,1 read from pCR16  PCR Product.fasta mapped to 5 using Bowtie2
+6,499,498 reads from B_frag_TCS3.fasta mapped to 6 using Bowtie2
+6,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 6 using Bowtie2
+6,2,1 read from C_rodentium_TCS8.fasta mapped to 6 using Bowtie2
+6,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 6 using Bowtie2
+6,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 6 using Bowtie2
+6,3,2 reads from pCR15  PCR Product.fasta mapped to 6 using Bowtie2
+6,2,1 read from pCR16  PCR Product.fasta mapped to 6 using Bowtie2
+6,2,1 read from pCR18  PCR Product.fasta mapped to 6 using Bowtie2
+6,2,1 read from pCR24 PCR Product.fasta mapped to 6 using Bowtie2
+7,235,234 reads from B_frag_TCS3.fasta mapped to 7 using Bowtie2
+7,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 7 using Bowtie2
+7,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 7 using Bowtie2
+7,2,1 read from pCR15  PCR Product.fasta mapped to 7 using Bowtie2
+7,2,1 read from pCR22  PCR Product.fasta mapped to 7 using Bowtie2
+8,41,40 reads from B_producta_TCS1.fasta mapped to 8 using Bowtie2
+8,2,1 read from pCR23  PCR Product.fasta mapped to 8 using Bowtie2
+9,2,1 read from C_rodentium_TCS3.fasta mapped to 9 using Bowtie2
+9,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 9 using Bowtie2
+9,1569,"1,568 reads from C_rodentium_TCS9 (reversed).fasta mapped to 9 using Bowtie2"
+9,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 9 using Bowtie2
+9,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 9 using Bowtie2
+9,3,2 reads from E_tarda_TCS7.fasta mapped to 9 using Bowtie2
+9,29,28 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 9 using Bowtie2
+9,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 9 using Bowtie2
+9,2,1 read from K_pneumonia_TCS7.fasta mapped to 9 using Bowtie2
+9,2,1 read from K_pneumoniae_TCS10.fasta mapped to 9 using Bowtie2
+9,3,2 reads from pCR15  PCR Product.fasta mapped to 9 using Bowtie2
+9,3,2 reads from pCR16  PCR Product.fasta mapped to 9 using Bowtie2
+9,3,2 reads from pCR17 PCR Product.fasta mapped to 9 using Bowtie2
+9,2,1 read from pCR18  PCR Product.fasta mapped to 9 using Bowtie2
+9,4,3 reads from pCR21 PCR Product.fasta mapped to 9 using Bowtie2
+9,3,2 reads from pCR22  PCR Product.fasta mapped to 9 using Bowtie2
+9,4,3 reads from pCR24 PCR Product.fasta mapped to 9 using Bowtie2
+9,15,14 reads from S_enterica_TCS4.fasta mapped to 9 using Bowtie2
+9,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 9 using Bowtie2
+9,3,2 reads from V_cholera_TCS4.fasta mapped to 9 using Bowtie2
+9,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 9 using Bowtie2
+10,2,1 read from B_theta_TCS2.fasta mapped to 10 using Bowtie2
+10,1173,"1,172 reads from C_rodentium_TCS2 (reversed).fasta mapped to 10 using Bowtie2"
+10,2,1 read from C_rodentium_TCS3.fasta mapped to 10 using Bowtie2
+10,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 10 using Bowtie2
+10,3,2 reads from C_rodentium_TCS8.fasta mapped to 10 using Bowtie2
+10,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 10 using Bowtie2
+10,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 10 using Bowtie2
+10,2,1 read from E_tarda_TCS6.fasta mapped to 10 using Bowtie2
+10,3,2 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 10 using Bowtie2
+10,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 10 using Bowtie2
+10,5,4 reads from pCR15  PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR16  PCR Product.fasta mapped to 10 using Bowtie2
+10,3,2 reads from pCR17 PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR18  PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR21 PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR22  PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR23  PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from pCR24 PCR Product.fasta mapped to 10 using Bowtie2
+10,2,1 read from V_cholera_TCS4.fasta mapped to 10 using Bowtie2
+10,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 10 using Bowtie2
+11,2,1 read from B_producta_TCS6.fasta mapped to 11 using Bowtie2
+11,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 11 using Bowtie2
+11,2,1 read from C_rodentium_TCS3.fasta mapped to 11 using Bowtie2
+11,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 11 using Bowtie2
+11,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 11 using Bowtie2
+11,4,3 reads from E_tarda_TCS7.fasta mapped to 11 using Bowtie2
+11,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 11 using Bowtie2
+11,3,2 reads from pCR15  PCR Product.fasta mapped to 11 using Bowtie2
+11,2,1 read from pCR16  PCR Product.fasta mapped to 11 using Bowtie2
+11,3,2 reads from pCR18  PCR Product.fasta mapped to 11 using Bowtie2
+11,2,1 read from pCR21 PCR Product.fasta mapped to 11 using Bowtie2
+11,3,2 reads from pCR24 PCR Product.fasta mapped to 11 using Bowtie2
+11,3,2 reads from V_cholera_TCS2 (reversed).fasta mapped to 11 using Bowtie2
+11,1110,"1,109 reads from Y_enterocolitica_TCS3.fasta mapped to 11 using Bowtie2"
+12,2,1 read from B_theta_TCS2.fasta mapped to 12 using Bowtie2
+12,2,1 read from C_rodentium_TCS3.fasta mapped to 12 using Bowtie2
+12,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 12 using Bowtie2
+12,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 12 using Bowtie2
+12,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 12 using Bowtie2
+12,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 12 using Bowtie2
+12,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 12 using Bowtie2
+12,4,3 reads from E_tarda_TCS6.fasta mapped to 12 using Bowtie2
+12,5,4 reads from E_tarda_TCS7.fasta mapped to 12 using Bowtie2
+12,1752,"1,751 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 12 using Bowtie2"
+12,2,1 read from K_pneumoniae_TCS10.fasta mapped to 12 using Bowtie2
+12,2,1 read from L_plantarum_TCS2.fasta mapped to 12 using Bowtie2
+12,7,6 reads from pCR15  PCR Product.fasta mapped to 12 using Bowtie2
+12,8,7 reads from pCR16  PCR Product.fasta mapped to 12 using Bowtie2
+12,6,5 reads from pCR17 PCR Product.fasta mapped to 12 using Bowtie2
+12,3,2 reads from pCR18  PCR Product.fasta mapped to 12 using Bowtie2
+12,11,10 reads from pCR21 PCR Product.fasta mapped to 12 using Bowtie2
+12,3,2 reads from pCR22  PCR Product.fasta mapped to 12 using Bowtie2
+12,7,6 reads from pCR23  PCR Product.fasta mapped to 12 using Bowtie2
+12,7,6 reads from pCR24 PCR Product.fasta mapped to 12 using Bowtie2
+12,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 12 using Bowtie2
+12,2,1 read from V_cholera_TCS4.fasta mapped to 12 using Bowtie2
+12,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 12 using Bowtie2
+13,452,451 reads from C_rodentium_TCS5 (reversed).fasta mapped to 13 using Bowtie2
+13,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 13 using Bowtie2
+13,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 13 using Bowtie2
+13,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 13 using Bowtie2
+13,2,1 read from E_tarda_TCS6.fasta mapped to 13 using Bowtie2
+13,2,1 read from K_pneumonia_TCS7.fasta mapped to 13 using Bowtie2
+13,2,1 read from K_pneumonia_TCS8 (reversed).fasta mapped to 13 using Bowtie2
+13,2,1 read from pCR17 PCR Product.fasta mapped to 13 using Bowtie2
+13,2,1 read from pCR18  PCR Product.fasta mapped to 13 using Bowtie2
+13,2,1 read from pCR23  PCR Product.fasta mapped to 13 using Bowtie2
+13,2,1 read from V_cholera_TCS4.fasta mapped to 13 using Bowtie2
+14,5,4 reads from C_rodentium_TCS4.fasta mapped to 14 using Bowtie2
+14,2,1 read from C_rodentium_TCS8.fasta mapped to 14 using Bowtie2
+14,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 14 using Bowtie2
+14,277,276 reads from K_pneumonia_TCS7.fasta mapped to 14 using Bowtie2
+14,3,2 reads from pCR15  PCR Product.fasta mapped to 14 using Bowtie2
+14,2,1 read from pCR21 PCR Product.fasta mapped to 14 using Bowtie2
+14,2,1 read from pCR24 PCR Product.fasta mapped to 14 using Bowtie2
+15,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 15 using Bowtie2
+15,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 15 using Bowtie2
+15,71,70 reads from C_rodentium_TCS10 (reversed).fasta mapped to 15 using Bowtie2
+15,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 15 using Bowtie2
+15,7,6 reads from E_tarda_TCS5 (reversed).fasta mapped to 15 using Bowtie2
+15,3,2 reads from E_tarda_TCS7.fasta mapped to 15 using Bowtie2
+15,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 15 using Bowtie2
+15,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 15 using Bowtie2
+15,1707,"1,706 reads from K_pneumoniae_TCS10.fasta mapped to 15 using Bowtie2"
+15,3,2 reads from pCR15  PCR Product.fasta mapped to 15 using Bowtie2
+15,6,5 reads from pCR16  PCR Product.fasta mapped to 15 using Bowtie2
+15,3,2 reads from pCR17 PCR Product.fasta mapped to 15 using Bowtie2
+15,2,1 read from pCR18  PCR Product.fasta mapped to 15 using Bowtie2
+15,5,4 reads from pCR21 PCR Product.fasta mapped to 15 using Bowtie2
+15,2,1 read from pCR23  PCR Product.fasta mapped to 15 using Bowtie2
+15,5,4 reads from pCR24 PCR Product.fasta mapped to 15 using Bowtie2
+15,6,5 reads from S_enterica_TCS3.fasta mapped to 15 using Bowtie2
+15,2,1 read from S_enterica_TCS4.fasta mapped to 15 using Bowtie2
+15,3,2 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 15 using Bowtie2
+15,2,1 read from V_cholera_TCS4.fasta mapped to 15 using Bowtie2
+15,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 15 using Bowtie2
+15,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 15 using Bowtie2
+16,106,105 reads from E_faecalis_TCS2 (reversed).fasta mapped to 16 using Bowtie2
+16,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 16 using Bowtie2
+16,3,2 reads from pCR15  PCR Product.fasta mapped to 16 using Bowtie2
+16,2,1 read from pCR16  PCR Product.fasta mapped to 16 using Bowtie2
+16,2,1 read from pCR21 PCR Product.fasta mapped to 16 using Bowtie2
+17,2,1 read from C_rodentium_TCS8.fasta mapped to 17 using Bowtie2
+17,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 17 using Bowtie2
+17,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 17 using Bowtie2
+17,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 17 using Bowtie2
+17,712,711 reads from E_tarda_TCS7.fasta mapped to 17 using Bowtie2
+17,2,1 read from K_pneumoniae_TCS10.fasta mapped to 17 using Bowtie2
+17,7,6 reads from pCR15  PCR Product.fasta mapped to 17 using Bowtie2
+17,3,2 reads from pCR16  PCR Product.fasta mapped to 17 using Bowtie2
+17,3,2 reads from pCR18  PCR Product.fasta mapped to 17 using Bowtie2
+17,3,2 reads from pCR21 PCR Product.fasta mapped to 17 using Bowtie2
+17,2,1 read from pCR22  PCR Product.fasta mapped to 17 using Bowtie2
+17,3,2 reads from pCR23  PCR Product.fasta mapped to 17 using Bowtie2
+17,3,2 reads from pCR24 PCR Product.fasta mapped to 17 using Bowtie2
+17,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 17 using Bowtie2
+18,2,1 read from C_rodentium_TCS8.fasta mapped to 18 using Bowtie2
+18,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 18 using Bowtie2
+18,672,671 reads from E_tarda_TCS7.fasta mapped to 18 using Bowtie2
+18,2,1 read from K_pneumoniae_TCS10.fasta mapped to 18 using Bowtie2
+18,2,1 read from pCR15  PCR Product.fasta mapped to 18 using Bowtie2
+18,4,3 reads from pCR16  PCR Product.fasta mapped to 18 using Bowtie2
+18,2,1 read from pCR17 PCR Product.fasta mapped to 18 using Bowtie2
+18,2,1 read from pCR18  PCR Product.fasta mapped to 18 using Bowtie2
+18,3,2 reads from pCR21 PCR Product.fasta mapped to 18 using Bowtie2
+18,3,2 reads from pCR22  PCR Product.fasta mapped to 18 using Bowtie2
+19,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 19 using Bowtie2
+19,3,2 reads from C_rodentium_TCS6 (reversed).fasta mapped to 19 using Bowtie2
+19,5,4 reads from C_rodentium_TCS9 (reversed).fasta mapped to 19 using Bowtie2
+19,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 19 using Bowtie2
+19,3,2 reads from E_tarda_TCS7.fasta mapped to 19 using Bowtie2
+19,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 19 using Bowtie2
+19,641,640 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 19 using Bowtie2
+19,6,5 reads from pCR16  PCR Product.fasta mapped to 19 using Bowtie2
+19,3,2 reads from pCR17 PCR Product.fasta mapped to 19 using Bowtie2
+19,2,1 read from pCR18  PCR Product.fasta mapped to 19 using Bowtie2
+19,3,2 reads from pCR21 PCR Product.fasta mapped to 19 using Bowtie2
+19,2,1 read from pCR22  PCR Product.fasta mapped to 19 using Bowtie2
+19,4,3 reads from pCR23  PCR Product.fasta mapped to 19 using Bowtie2
+19,2,1 read from pCR24 PCR Product.fasta mapped to 19 using Bowtie2
+19,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 19 using Bowtie2
+20,2,1 read from B_frag_TCS3.fasta mapped to 20 using Bowtie2
+20,2,1 read from B_producta_TCS6.fasta mapped to 20 using Bowtie2
+20,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 20 using Bowtie2
+20,2,1 read from C_rodentium_TCS3.fasta mapped to 20 using Bowtie2
+20,3,2 reads from C_rodentium_TCS5 (reversed).fasta mapped to 20 using Bowtie2
+20,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 20 using Bowtie2
+20,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 20 using Bowtie2
+20,3,2 reads from E_tarda_TCS7.fasta mapped to 20 using Bowtie2
+20,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 20 using Bowtie2
+20,1010,"1,009 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 20 using Bowtie2"
+20,4,3 reads from pCR15  PCR Product.fasta mapped to 20 using Bowtie2
+20,5,4 reads from pCR16  PCR Product.fasta mapped to 20 using Bowtie2
+20,2,1 read from pCR17 PCR Product.fasta mapped to 20 using Bowtie2
+20,7,6 reads from pCR18  PCR Product.fasta mapped to 20 using Bowtie2
+20,2,1 read from pCR21 PCR Product.fasta mapped to 20 using Bowtie2
+20,2,1 read from pCR22  PCR Product.fasta mapped to 20 using Bowtie2
+20,2,1 read from pCR23  PCR Product.fasta mapped to 20 using Bowtie2
+20,3,2 reads from pCR24 PCR Product.fasta mapped to 20 using Bowtie2
+20,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 20 using Bowtie2
+21,124,123 reads from B_frag_TCS3.fasta mapped to 21 using Bowtie2
+21,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 21 using Bowtie2
+21,2,1 read from K_pneumoniae_TCS10.fasta mapped to 21 using Bowtie2
+21,2,1 read from pCR21 PCR Product.fasta mapped to 21 using Bowtie2
+22,8,7 reads from C_rodentium_TCS11 (reversed).fasta mapped to 22 using Bowtie2
+23,2,1 read from B_frag_TCS3.fasta mapped to 23 using Bowtie2
+23,566,565 reads from C_rodentium_TCS9 (reversed).fasta mapped to 23 using Bowtie2
+23,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 23 using Bowtie2
+23,2,1 read from E_tarda_TCS7.fasta mapped to 23 using Bowtie2
+23,11,10 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 23 using Bowtie2
+23,2,1 read from K_pneumonia_TCS5.fasta mapped to 23 using Bowtie2
+23,3,2 reads from pCR15  PCR Product.fasta mapped to 23 using Bowtie2
+23,3,2 reads from pCR16  PCR Product.fasta mapped to 23 using Bowtie2
+23,2,1 read from pCR21 PCR Product.fasta mapped to 23 using Bowtie2
+23,2,1 read from pCR24 PCR Product.fasta mapped to 23 using Bowtie2
+23,2,1 read from S_enterica_TCS1.fasta mapped to 23 using Bowtie2
+23,12,11 reads from S_enterica_TCS4.fasta mapped to 23 using Bowtie2
+24,7,6 reads from C_rodentium_TCS11 (reversed).fasta mapped to 24 using Bowtie2
+25,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 25 using Bowtie2
+25,128,127 reads from E_faecalis_TCS2 (reversed).fasta mapped to 25 using Bowtie2
+25,2,1 read from pCR15  PCR Product.fasta mapped to 25 using Bowtie2
+25,2,1 read from pCR21 PCR Product.fasta mapped to 25 using Bowtie2
+26,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 26 using Bowtie2
+26,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 26 using Bowtie2
+26,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 26 using Bowtie2
+26,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 26 using Bowtie2
+26,2,1 read from K_pneumonia_TCS7.fasta mapped to 26 using Bowtie2
+26,2,1 read from K_pneumoniae_TCS10.fasta mapped to 26 using Bowtie2
+26,2,1 read from pCR15  PCR Product.fasta mapped to 26 using Bowtie2
+26,2,1 read from pCR21 PCR Product.fasta mapped to 26 using Bowtie2
+26,2,1 read from pCR23  PCR Product.fasta mapped to 26 using Bowtie2
+26,487,486 reads from V_cholera_TCS4.fasta mapped to 26 using Bowtie2
+26,2,1 read from Y_enterocolitica_TCS1 (reversed).fasta mapped to 26 using Bowtie2
+27,2,1 read from C_rodentium_TCS1.fasta mapped to 27 using Bowtie2
+27,3,2 reads from C_rodentium_TCS5 (reversed).fasta mapped to 27 using Bowtie2
+27,2,1 read from C_rodentium_TCS8.fasta mapped to 27 using Bowtie2
+27,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 27 using Bowtie2
+27,2,1 read from K_pneumonia_TCS7.fasta mapped to 27 using Bowtie2
+27,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 27 using Bowtie2
+27,2,1 read from K_pneumoniae_TCS10.fasta mapped to 27 using Bowtie2
+27,2,1 read from L_plantarum_TCS2.fasta mapped to 27 using Bowtie2
+27,4,3 reads from pCR15  PCR Product.fasta mapped to 27 using Bowtie2
+27,2,1 read from pCR16  PCR Product.fasta mapped to 27 using Bowtie2
+27,2,1 read from pCR23  PCR Product.fasta mapped to 27 using Bowtie2
+27,2,1 read from pCR24 PCR Product.fasta mapped to 27 using Bowtie2
+27,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 27 using Bowtie2
+27,693,692 reads from V_cholera_TCS4.fasta mapped to 27 using Bowtie2
+27,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 27 using Bowtie2
+28,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 28 using Bowtie2
+28,70,69 reads from C_rodentium_TCS9 (reversed).fasta mapped to 28 using Bowtie2
+28,4,3 reads from E_tarda_TCS7.fasta mapped to 28 using Bowtie2
+28,9,8 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 28 using Bowtie2
+28,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 28 using Bowtie2
+28,2,1 read from pCR15  PCR Product.fasta mapped to 28 using Bowtie2
+28,2,1 read from pCR16  PCR Product.fasta mapped to 28 using Bowtie2
+28,2,1 read from pCR21 PCR Product.fasta mapped to 28 using Bowtie2
+28,478,477 reads from S_enterica_TCS4.fasta mapped to 28 using Bowtie2
+28,2,1 read from Y_enterocolitica_TCS1 (reversed).fasta mapped to 28 using Bowtie2
+28,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 28 using Bowtie2
+29,2,1 read from B_frag_TCS3.fasta mapped to 29 using Bowtie2
+29,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 29 using Bowtie2
+29,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 29 using Bowtie2
+29,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 29 using Bowtie2
+29,220,219 reads from C_rodentium_TCS8.fasta mapped to 29 using Bowtie2
+29,2,1 read from pCR16  PCR Product.fasta mapped to 29 using Bowtie2
+29,2,1 read from pCR17 PCR Product.fasta mapped to 29 using Bowtie2
+29,2,1 read from pCR21 PCR Product.fasta mapped to 29 using Bowtie2
+29,2,1 read from pCR23  PCR Product.fasta mapped to 29 using Bowtie2
+30,193,192 reads from C_rodentium_TCS7 (reversed).fasta mapped to 30 using Bowtie2
+30,2,1 read from pCR15  PCR Product.fasta mapped to 30 using Bowtie2
+30,2,1 read from pCR16  PCR Product.fasta mapped to 30 using Bowtie2
+31,2,1 read from C_rodentium_TCS8.fasta mapped to 31 using Bowtie2
+31,280,279 reads from E_faecalis_TCS2 (reversed).fasta mapped to 31 using Bowtie2
+31,2,1 read from pCR15  PCR Product.fasta mapped to 31 using Bowtie2
+31,2,1 read from pCR16  PCR Product.fasta mapped to 31 using Bowtie2
+31,3,2 reads from pCR23  PCR Product.fasta mapped to 31 using Bowtie2
+31,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 31 using Bowtie2
+32,2,1 read from pCR16  PCR Product.fasta mapped to 32 using Bowtie2
+32,2,1 read from pCR21 PCR Product.fasta mapped to 32 using Bowtie2
+32,2,1 read from pCR24 PCR Product.fasta mapped to 32 using Bowtie2
+32,206,205 reads from Y_enterocolitica_TCS3.fasta mapped to 32 using Bowtie2
+33,2,1 read from B_frag_TCS2.fasta mapped to 33 using Bowtie2
+33,2,1 read from B_frag_TCS3.fasta mapped to 33 using Bowtie2
+33,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 33 using Bowtie2
+33,2,1 read from C_rodentium_TCS8.fasta mapped to 33 using Bowtie2
+33,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 33 using Bowtie2
+33,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 33 using Bowtie2
+33,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 33 using Bowtie2
+33,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 33 using Bowtie2
+33,3,2 reads from E_tarda_TCS7.fasta mapped to 33 using Bowtie2
+33,609,608 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 33 using Bowtie2
+33,5,4 reads from pCR15  PCR Product.fasta mapped to 33 using Bowtie2
+33,3,2 reads from pCR16  PCR Product.fasta mapped to 33 using Bowtie2
+33,2,1 read from pCR17 PCR Product.fasta mapped to 33 using Bowtie2
+33,8,7 reads from pCR21 PCR Product.fasta mapped to 33 using Bowtie2
+33,2,1 read from pCR22  PCR Product.fasta mapped to 33 using Bowtie2
+33,3,2 reads from pCR23  PCR Product.fasta mapped to 33 using Bowtie2
+33,4,3 reads from pCR24 PCR Product.fasta mapped to 33 using Bowtie2
+34,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 34 using Bowtie2
+34,251,250 reads from C_rodentium_TCS9 (reversed).fasta mapped to 34 using Bowtie2
+34,4,3 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 34 using Bowtie2
+34,3,2 reads from pCR15  PCR Product.fasta mapped to 34 using Bowtie2
+34,2,1 read from pCR16  PCR Product.fasta mapped to 34 using Bowtie2
+34,2,1 read from pCR17 PCR Product.fasta mapped to 34 using Bowtie2
+34,2,1 read from pCR21 PCR Product.fasta mapped to 34 using Bowtie2
+34,2,1 read from pCR23  PCR Product.fasta mapped to 34 using Bowtie2
+34,2,1 read from R_gnavus_TCS5 (reversed).fasta mapped to 34 using Bowtie2
+34,2,1 read from S_enterica_TCS4.fasta mapped to 34 using Bowtie2
+35,63,62 reads from B_frag_TCS3.fasta mapped to 35 using Bowtie2
+36,94,93 reads from E_faecalis_TCS2 (reversed).fasta mapped to 36 using Bowtie2
+36,2,1 read from pCR16  PCR Product.fasta mapped to 36 using Bowtie2
+36,2,1 read from pCR18  PCR Product.fasta mapped to 36 using Bowtie2
+36,2,1 read from pCR21 PCR Product.fasta mapped to 36 using Bowtie2
+37,2,1 read from C_rodentium_TCS8.fasta mapped to 37 using Bowtie2
+37,16,15 reads from C_rodentium_TCS9 (reversed).fasta mapped to 37 using Bowtie2
+37,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 37 using Bowtie2
+37,2,1 read from E_tarda_TCS7.fasta mapped to 37 using Bowtie2
+37,223,222 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 37 using Bowtie2
+37,3,2 reads from S_enterica_TCS4.fasta mapped to 37 using Bowtie2
+38,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 38 using Bowtie2
+38,519,518 reads from C_rodentium_TCS9 (reversed).fasta mapped to 38 using Bowtie2
+38,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 38 using Bowtie2
+38,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 38 using Bowtie2
+38,2,1 read from E_tarda_TCS7.fasta mapped to 38 using Bowtie2
+38,7,6 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 38 using Bowtie2
+38,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 38 using Bowtie2
+38,3,2 reads from pCR15  PCR Product.fasta mapped to 38 using Bowtie2
+38,5,4 reads from pCR16  PCR Product.fasta mapped to 38 using Bowtie2
+38,2,1 read from pCR17 PCR Product.fasta mapped to 38 using Bowtie2
+38,2,1 read from pCR21 PCR Product.fasta mapped to 38 using Bowtie2
+38,2,1 read from pCR24 PCR Product.fasta mapped to 38 using Bowtie2
+38,9,8 reads from S_enterica_TCS4.fasta mapped to 38 using Bowtie2
+38,3,2 reads from V_cholera_TCS4.fasta mapped to 38 using Bowtie2
+39,2,1 read from C_rodentium_TCS1.fasta mapped to 39 using Bowtie2
+39,182,181 reads from C_rodentium_TCS4.fasta mapped to 39 using Bowtie2
+39,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 39 using Bowtie2
+39,4,3 reads from K_pneumonia_TCS7.fasta mapped to 39 using Bowtie2
+39,2,1 read from pCR15  PCR Product.fasta mapped to 39 using Bowtie2
+40,2,1 read from C_rodentium_TCS8.fasta mapped to 40 using Bowtie2
+40,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 40 using Bowtie2
+40,2,1 read from pCR21 PCR Product.fasta mapped to 40 using Bowtie2
+40,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 40 using Bowtie2
+40,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 40 using Bowtie2
+40,224,223 reads from V_cholera_TCS4.fasta mapped to 40 using Bowtie2
+41,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 41 using Bowtie2
+41,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 41 using Bowtie2
+41,97,96 reads from K_pneumonia_TCS7.fasta mapped to 41 using Bowtie2
+42,2,1 read from B_producta_TCS6.fasta mapped to 42 using Bowtie2
+42,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 42 using Bowtie2
+42,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 42 using Bowtie2
+42,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 42 using Bowtie2
+42,2,1 read from E_tarda_TCS6.fasta mapped to 42 using Bowtie2
+42,3,2 reads from E_tarda_TCS7.fasta mapped to 42 using Bowtie2
+42,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 42 using Bowtie2
+42,5,4 reads from pCR15  PCR Product.fasta mapped to 42 using Bowtie2
+42,6,5 reads from pCR16  PCR Product.fasta mapped to 42 using Bowtie2
+42,3,2 reads from pCR17 PCR Product.fasta mapped to 42 using Bowtie2
+42,3565,"3,564 reads from pCR21 PCR Product.fasta mapped to 42 using Bowtie2"
+42,5,4 reads from pCR22  PCR Product.fasta mapped to 42 using Bowtie2
+42,2,1 read from pCR23  PCR Product.fasta mapped to 42 using Bowtie2
+42,5,4 reads from pCR24 PCR Product.fasta mapped to 42 using Bowtie2
+43,77,76 reads from C_rodentium_TCS5 (reversed).fasta mapped to 43 using Bowtie2
+44,102,101 reads from B_frag_TCS3.fasta mapped to 44 using Bowtie2
+44,2,1 read from C_rodentium_TCS8.fasta mapped to 44 using Bowtie2
+44,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 44 using Bowtie2
+44,2,1 read from pCR16  PCR Product.fasta mapped to 44 using Bowtie2
+44,2,1 read from pCR18  PCR Product.fasta mapped to 44 using Bowtie2
+45,2,1 read from C_rodentium_TCS3.fasta mapped to 45 using Bowtie2
+45,82,81 reads from C_rodentium_TCS4.fasta mapped to 45 using Bowtie2
+45,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 45 using Bowtie2
+45,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 45 using Bowtie2
+45,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 45 using Bowtie2
+45,4,3 reads from K_pneumonia_TCS7.fasta mapped to 45 using Bowtie2
+46,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 46 using Bowtie2
+46,2,1 read from pCR15  PCR Product.fasta mapped to 46 using Bowtie2
+46,4,3 reads from pCR17 PCR Product.fasta mapped to 46 using Bowtie2
+46,3,2 reads from pCR21 PCR Product.fasta mapped to 46 using Bowtie2
+46,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 46 using Bowtie2
+46,383,382 reads from V_cholera_TCS4.fasta mapped to 46 using Bowtie2
+47,50,49 reads from E_faecalis_TCS3 (reversed).fasta mapped to 47 using Bowtie2
+48,2,1 read from B_producta_TCS6.fasta mapped to 48 using Bowtie2
+48,3,2 reads from C_rodentium_TCS8.fasta mapped to 48 using Bowtie2
+48,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 48 using Bowtie2
+48,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 48 using Bowtie2
+48,3,2 reads from E_tarda_TCS7.fasta mapped to 48 using Bowtie2
+48,2,1 read from K_pneumonia_TCS5.fasta mapped to 48 using Bowtie2
+48,4,3 reads from pCR16  PCR Product.fasta mapped to 48 using Bowtie2
+48,3,2 reads from pCR24 PCR Product.fasta mapped to 48 using Bowtie2
+48,365,364 reads from Y_enterocolitica_TCS3.fasta mapped to 48 using Bowtie2
+49,302,301 reads from E_tarda_TCS2 (reversed).fasta mapped to 49 using Bowtie2
+49,3,2 reads from pCR15  PCR Product.fasta mapped to 49 using Bowtie2
+49,2,1 read from pCR21 PCR Product.fasta mapped to 49 using Bowtie2
+50,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 50 using Bowtie2
+50,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 50 using Bowtie2
+50,223,222 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 50 using Bowtie2
+50,3,2 reads from pCR15  PCR Product.fasta mapped to 50 using Bowtie2
+50,2,1 read from pCR18  PCR Product.fasta mapped to 50 using Bowtie2
+50,3,2 reads from pCR22  PCR Product.fasta mapped to 50 using Bowtie2
+50,3,2 reads from pCR23  PCR Product.fasta mapped to 50 using Bowtie2
+50,2,1 read from pCR24 PCR Product.fasta mapped to 50 using Bowtie2
+50,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 50 using Bowtie2
+51,2,1 read from B_frag_TCS3.fasta mapped to 51 using Bowtie2
+51,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 51 using Bowtie2
+51,2,1 read from C_rodentium_TCS3.fasta mapped to 51 using Bowtie2
+51,363,362 reads from C_rodentium_TCS9 (reversed).fasta mapped to 51 using Bowtie2
+51,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 51 using Bowtie2
+51,8,7 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 51 using Bowtie2
+51,2,1 read from K_pneumonia_TCS5.fasta mapped to 51 using Bowtie2
+51,2,1 read from pCR15  PCR Product.fasta mapped to 51 using Bowtie2
+51,2,1 read from pCR16  PCR Product.fasta mapped to 51 using Bowtie2
+51,2,1 read from pCR23  PCR Product.fasta mapped to 51 using Bowtie2
+51,2,1 read from pCR24 PCR Product.fasta mapped to 51 using Bowtie2
+51,3,2 reads from S_enterica_TCS4.fasta mapped to 51 using Bowtie2
+52,2,1 read from C_rodentium_TCS3.fasta mapped to 52 using Bowtie2
+52,15,14 reads from C_rodentium_TCS9 (reversed).fasta mapped to 52 using Bowtie2
+52,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 52 using Bowtie2
+52,223,222 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 52 using Bowtie2
+52,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 52 using Bowtie2
+52,2,1 read from S_enterica_TCS4.fasta mapped to 52 using Bowtie2
+53,80,79 reads from C_rodentium_TCS4.fasta mapped to 53 using Bowtie2
+53,2,1 read from E_tarda_TCS7.fasta mapped to 53 using Bowtie2
+53,2,1 read from K_pneumonia_TCS7.fasta mapped to 53 using Bowtie2
+54,5,4 reads from C_perfringens_TCS2 (reversed).fasta mapped to 54 using Bowtie2
+55,2,1 read from pCR18  PCR Product.fasta mapped to 55 using Bowtie2
+55,2,1 read from pCR21 PCR Product.fasta mapped to 55 using Bowtie2
+55,46,45 reads from S_enterica_TCS1.fasta mapped to 55 using Bowtie2
+55,189,188 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 55 using Bowtie2
+56,293,292 reads from C_rodentium_TCS9 (reversed).fasta mapped to 56 using Bowtie2
+56,7,6 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 56 using Bowtie2
+56,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 56 using Bowtie2
+56,2,1 read from pCR17 PCR Product.fasta mapped to 56 using Bowtie2
+56,5,4 reads from S_enterica_TCS4.fasta mapped to 56 using Bowtie2
+57,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 57 using Bowtie2
+57,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 57 using Bowtie2
+57,38,37 reads from C_rodentium_TCS10 (reversed).fasta mapped to 57 using Bowtie2
+57,3,2 reads from E_tarda_TCS5 (reversed).fasta mapped to 57 using Bowtie2
+57,2,1 read from E_tarda_TCS7.fasta mapped to 57 using Bowtie2
+57,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 57 using Bowtie2
+57,2,1 read from K_pneumonia_TCS7.fasta mapped to 57 using Bowtie2
+57,14,13 reads from K_pneumoniae_TCS10.fasta mapped to 57 using Bowtie2
+57,3,2 reads from pCR15  PCR Product.fasta mapped to 57 using Bowtie2
+57,3,2 reads from pCR16  PCR Product.fasta mapped to 57 using Bowtie2
+57,2,1 read from pCR22  PCR Product.fasta mapped to 57 using Bowtie2
+57,2,1 read from pCR24 PCR Product.fasta mapped to 57 using Bowtie2
+57,424,423 reads from S_enterica_TCS3.fasta mapped to 57 using Bowtie2
+58,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 58 using Bowtie2
+58,303,302 reads from C_rodentium_TCS9 (reversed).fasta mapped to 58 using Bowtie2
+58,2,1 read from E_tarda_TCS6.fasta mapped to 58 using Bowtie2
+58,2,1 read from E_tarda_TCS7.fasta mapped to 58 using Bowtie2
+58,4,3 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 58 using Bowtie2
+58,3,2 reads from pCR15  PCR Product.fasta mapped to 58 using Bowtie2
+58,3,2 reads from pCR16  PCR Product.fasta mapped to 58 using Bowtie2
+58,3,2 reads from pCR21 PCR Product.fasta mapped to 58 using Bowtie2
+58,2,1 read from pCR23  PCR Product.fasta mapped to 58 using Bowtie2
+58,2,1 read from pCR24 PCR Product.fasta mapped to 58 using Bowtie2
+58,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 58 using Bowtie2
+58,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 58 using Bowtie2
+59,2,1 read from C_rodentium_TCS8.fasta mapped to 59 using Bowtie2
+59,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 59 using Bowtie2
+59,140,139 reads from C_rodentium_TCS10 (reversed).fasta mapped to 59 using Bowtie2
+59,2,1 read from K_pneumonia_TCS5.fasta mapped to 59 using Bowtie2
+59,5,4 reads from K_pneumoniae_TCS10.fasta mapped to 59 using Bowtie2
+59,2,1 read from pCR15  PCR Product.fasta mapped to 59 using Bowtie2
+59,3,2 reads from pCR16  PCR Product.fasta mapped to 59 using Bowtie2
+59,2,1 read from pCR17 PCR Product.fasta mapped to 59 using Bowtie2
+59,2,1 read from pCR22  PCR Product.fasta mapped to 59 using Bowtie2
+59,2,1 read from pCR23  PCR Product.fasta mapped to 59 using Bowtie2
+59,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 59 using Bowtie2
+60,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 60 using Bowtie2
+60,39,38 reads from E_faecalis_TCS2 (reversed).fasta mapped to 60 using Bowtie2
+60,2,1 read from pCR23  PCR Product.fasta mapped to 60 using Bowtie2
+61,7,6 reads from C_rodentium_TCS9 (reversed).fasta mapped to 61 using Bowtie2
+61,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 61 using Bowtie2
+61,187,186 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 61 using Bowtie2
+61,2,1 read from pCR15  PCR Product.fasta mapped to 61 using Bowtie2
+61,2,1 read from pCR23  PCR Product.fasta mapped to 61 using Bowtie2
+62,31,30 reads from C_rodentium_TCS5 (reversed).fasta mapped to 62 using Bowtie2
+63,10,9 reads from C_rodentium_TCS11 (reversed).fasta mapped to 63 using Bowtie2
+64,70,69 reads from E_faecalis_TCS2 (reversed).fasta mapped to 64 using Bowtie2
+64,2,1 read from pCR22  PCR Product.fasta mapped to 64 using Bowtie2
+65,2,1 read from E_tarda_TCS6.fasta mapped to 65 using Bowtie2
+65,2,1 read from E_tarda_TCS7.fasta mapped to 65 using Bowtie2
+65,2,1 read from K_pneumoniae_TCS10.fasta mapped to 65 using Bowtie2
+65,2,1 read from pCR15  PCR Product.fasta mapped to 65 using Bowtie2
+65,2,1 read from pCR21 PCR Product.fasta mapped to 65 using Bowtie2
+65,247,246 reads from S_enterica_TCS1.fasta mapped to 65 using Bowtie2
+65,124,123 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 65 using Bowtie2
+65,3,2 reads from V_cholera_TCS4.fasta mapped to 65 using Bowtie2
+65,2,1 read from Y_enterocolitica_TCS2.fasta mapped to 65 using Bowtie2
+66,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 66 using Bowtie2
+66,60,59 reads from E_faecalis_TCS2 (reversed).fasta mapped to 66 using Bowtie2
+66,2,1 read from pCR21 PCR Product.fasta mapped to 66 using Bowtie2
+66,2,1 read from pCR22  PCR Product.fasta mapped to 66 using Bowtie2
+67,3,2 reads from C_rodentium_TCS7 (reversed).fasta mapped to 67 using Bowtie2
+67,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 67 using Bowtie2
+67,359,358 reads from E_tarda_TCS2 (reversed).fasta mapped to 67 using Bowtie2
+67,2,1 read from K_pneumoniae_TCS10.fasta mapped to 67 using Bowtie2
+67,2,1 read from pCR17 PCR Product.fasta mapped to 67 using Bowtie2
+67,2,1 read from pCR18  PCR Product.fasta mapped to 67 using Bowtie2
+68,3,2 reads from C_rodentium_TCS6 (reversed).fasta mapped to 68 using Bowtie2
+68,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 68 using Bowtie2
+68,485,484 reads from C_rodentium_TCS10 (reversed).fasta mapped to 68 using Bowtie2
+68,5,4 reads from E_tarda_TCS6.fasta mapped to 68 using Bowtie2
+68,2,1 read from E_tarda_TCS7.fasta mapped to 68 using Bowtie2
+68,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 68 using Bowtie2
+68,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 68 using Bowtie2
+68,2,1 read from K_pneumonia_TCS7.fasta mapped to 68 using Bowtie2
+68,10,9 reads from K_pneumoniae_TCS10.fasta mapped to 68 using Bowtie2
+68,2,1 read from pCR15  PCR Product.fasta mapped to 68 using Bowtie2
+68,2,1 read from pCR16  PCR Product.fasta mapped to 68 using Bowtie2
+68,2,1 read from pCR17 PCR Product.fasta mapped to 68 using Bowtie2
+68,6,5 reads from pCR18  PCR Product.fasta mapped to 68 using Bowtie2
+68,9,8 reads from pCR21 PCR Product.fasta mapped to 68 using Bowtie2
+68,3,2 reads from pCR22  PCR Product.fasta mapped to 68 using Bowtie2
+68,4,3 reads from pCR23  PCR Product.fasta mapped to 68 using Bowtie2
+68,5,4 reads from pCR24 PCR Product.fasta mapped to 68 using Bowtie2
+68,6,5 reads from S_enterica_TCS3.fasta mapped to 68 using Bowtie2
+68,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 68 using Bowtie2
+69,2,1 read from C_rodentium_TCS3.fasta mapped to 69 using Bowtie2
+69,220,219 reads from C_rodentium_TCS9 (reversed).fasta mapped to 69 using Bowtie2
+69,5,4 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 69 using Bowtie2
+69,2,1 read from pCR15  PCR Product.fasta mapped to 69 using Bowtie2
+69,2,1 read from pCR16  PCR Product.fasta mapped to 69 using Bowtie2
+69,2,1 read from pCR17 PCR Product.fasta mapped to 69 using Bowtie2
+69,3,2 reads from pCR21 PCR Product.fasta mapped to 69 using Bowtie2
+69,3,2 reads from pCR22  PCR Product.fasta mapped to 69 using Bowtie2
+69,5,4 reads from S_enterica_TCS4.fasta mapped to 69 using Bowtie2
+70,252,251 reads from B_producta_TCS6.fasta mapped to 70 using Bowtie2
+70,2,1 read from C_rodentium_TCS8.fasta mapped to 70 using Bowtie2
+70,3,2 reads from pCR15  PCR Product.fasta mapped to 70 using Bowtie2
+70,2,1 read from pCR24 PCR Product.fasta mapped to 70 using Bowtie2
+70,3,2 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 70 using Bowtie2
+71,70,69 reads from C_rodentium_TCS5 (reversed).fasta mapped to 71 using Bowtie2
+71,2,1 read from E_tarda_TCS7.fasta mapped to 71 using Bowtie2
+71,2,1 read from pCR16  PCR Product.fasta mapped to 71 using Bowtie2
+72,2,1 read from B_producta_TCS6.fasta mapped to 72 using Bowtie2
+72,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 72 using Bowtie2
+72,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 72 using Bowtie2
+72,2,1 read from C_rodentium_TCS8.fasta mapped to 72 using Bowtie2
+72,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 72 using Bowtie2
+72,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 72 using Bowtie2
+72,3,2 reads from E_tarda_TCS6.fasta mapped to 72 using Bowtie2
+72,2,1 read from E_tarda_TCS7.fasta mapped to 72 using Bowtie2
+72,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 72 using Bowtie2
+72,5,4 reads from pCR15  PCR Product.fasta mapped to 72 using Bowtie2
+72,8,7 reads from pCR16  PCR Product.fasta mapped to 72 using Bowtie2
+72,3,2 reads from pCR17 PCR Product.fasta mapped to 72 using Bowtie2
+72,121,120 reads from pCR18  PCR Product.fasta mapped to 72 using Bowtie2
+72,7,6 reads from pCR21 PCR Product.fasta mapped to 72 using Bowtie2
+72,303,302 reads from pCR22  PCR Product.fasta mapped to 72 using Bowtie2
+72,269,268 reads from pCR23  PCR Product.fasta mapped to 72 using Bowtie2
+72,8402,"8,401 reads from pCR24 PCR Product.fasta mapped to 72 using Bowtie2"
+72,2,1 read from S_enterica_TCS1.fasta mapped to 72 using Bowtie2
+72,2,1 read from V_cholera_TCS4.fasta mapped to 72 using Bowtie2
+72,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 72 using Bowtie2
+73,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 73 using Bowtie2
+73,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 73 using Bowtie2
+73,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 73 using Bowtie2
+73,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 73 using Bowtie2
+73,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 73 using Bowtie2
+73,2,1 read from K_pneumoniae_TCS10.fasta mapped to 73 using Bowtie2
+73,2964,"2,963 reads from pCR15  PCR Product.fasta mapped to 73 using Bowtie2"
+73,280,279 reads from pCR16  PCR Product.fasta mapped to 73 using Bowtie2
+73,2,1 read from pCR17 PCR Product.fasta mapped to 73 using Bowtie2
+73,4,3 reads from pCR18  PCR Product.fasta mapped to 73 using Bowtie2
+73,7,6 reads from pCR21 PCR Product.fasta mapped to 73 using Bowtie2
+73,3,2 reads from pCR22  PCR Product.fasta mapped to 73 using Bowtie2
+73,5,4 reads from pCR24 PCR Product.fasta mapped to 73 using Bowtie2
+73,4,3 reads from Y_enterocolitica_TCS3.fasta mapped to 73 using Bowtie2
+74,128,127 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 74 using Bowtie2
+74,2,1 read from pCR21 PCR Product.fasta mapped to 74 using Bowtie2
+75,2,1 read from C_rodentium_TCS4.fasta mapped to 75 using Bowtie2
+75,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 75 using Bowtie2
+75,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 75 using Bowtie2
+75,204,203 reads from E_tarda_TCS4 (reversed).fasta mapped to 75 using Bowtie2
+75,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 75 using Bowtie2
+76,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 76 using Bowtie2
+76,18,17 reads from C_rodentium_TCS9 (reversed).fasta mapped to 76 using Bowtie2
+76,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 76 using Bowtie2
+76,245,244 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 76 using Bowtie2
+76,2,1 read from pCR15  PCR Product.fasta mapped to 76 using Bowtie2
+76,2,1 read from pCR24 PCR Product.fasta mapped to 76 using Bowtie2
+76,2,1 read from S_enterica_TCS4.fasta mapped to 76 using Bowtie2
+77,2,1 read from B_frag_TCS3.fasta mapped to 77 using Bowtie2
+77,144,143 reads from V_cholera_TCS2 (reversed).fasta mapped to 77 using Bowtie2
+78,2,1 read from K_pneumonia_TCS7.fasta mapped to 78 using Bowtie2
+78,247,246 reads from K_pneumonia_TCS9 (reversed).fasta mapped to 78 using Bowtie2
+78,2,1 read from pCR15  PCR Product.fasta mapped to 78 using Bowtie2
+78,3,2 reads from pCR17 PCR Product.fasta mapped to 78 using Bowtie2
+78,2,1 read from pCR22  PCR Product.fasta mapped to 78 using Bowtie2
+79,2,1 read from B_frag_TCS3.fasta mapped to 79 using Bowtie2
+79,2,1 read from C_rodentium_TCS8.fasta mapped to 79 using Bowtie2
+79,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 79 using Bowtie2
+79,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 79 using Bowtie2
+79,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 79 using Bowtie2
+79,2,1 read from E_tarda_TCS6.fasta mapped to 79 using Bowtie2
+79,2,1 read from E_tarda_TCS7.fasta mapped to 79 using Bowtie2
+79,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 79 using Bowtie2
+79,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 79 using Bowtie2
+79,2,1 read from K_pneumonia_TCS5.fasta mapped to 79 using Bowtie2
+79,2,1 read from K_pneumonia_TCS7.fasta mapped to 79 using Bowtie2
+79,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 79 using Bowtie2
+79,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 79 using Bowtie2
+79,5,4 reads from pCR15  PCR Product.fasta mapped to 79 using Bowtie2
+79,6,5 reads from pCR16  PCR Product.fasta mapped to 79 using Bowtie2
+79,3,2 reads from pCR17 PCR Product.fasta mapped to 79 using Bowtie2
+79,3,2 reads from pCR18  PCR Product.fasta mapped to 79 using Bowtie2
+79,4203,"4,202 reads from pCR21 PCR Product.fasta mapped to 79 using Bowtie2"
+79,2,1 read from pCR23  PCR Product.fasta mapped to 79 using Bowtie2
+79,2,1 read from pCR24 PCR Product.fasta mapped to 79 using Bowtie2
+79,2,1 read from S_enterica_TCS1.fasta mapped to 79 using Bowtie2
+80,313,312 reads from C_rodentium_TCS7 (reversed).fasta mapped to 80 using Bowtie2
+80,2,1 read from pCR23  PCR Product.fasta mapped to 80 using Bowtie2
+80,2,1 read from V_cholera_TCS4.fasta mapped to 80 using Bowtie2
+81,2,1 read from B_producta_TCS12.fasta mapped to 81 using Bowtie2
+81,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 81 using Bowtie2
+81,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 81 using Bowtie2
+81,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 81 using Bowtie2
+81,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 81 using Bowtie2
+81,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 81 using Bowtie2
+81,3,2 reads from E_tarda_TCS7.fasta mapped to 81 using Bowtie2
+81,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 81 using Bowtie2
+81,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 81 using Bowtie2
+81,3,2 reads from pCR15  PCR Product.fasta mapped to 81 using Bowtie2
+81,7,6 reads from pCR16  PCR Product.fasta mapped to 81 using Bowtie2
+81,7,6 reads from pCR17 PCR Product.fasta mapped to 81 using Bowtie2
+81,4,3 reads from pCR18  PCR Product.fasta mapped to 81 using Bowtie2
+81,8,7 reads from pCR21 PCR Product.fasta mapped to 81 using Bowtie2
+81,3,2 reads from pCR23  PCR Product.fasta mapped to 81 using Bowtie2
+81,5,4 reads from pCR24 PCR Product.fasta mapped to 81 using Bowtie2
+81,3,2 reads from V_cholera_TCS4.fasta mapped to 81 using Bowtie2
+81,2,1 read from Y_enterocolitica_TCS1 (reversed).fasta mapped to 81 using Bowtie2
+81,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 81 using Bowtie2
+82,2,1 read from B_caccae_TCS5 (reversed).fasta mapped to 82 using Bowtie2
+82,362,361 reads from C_rodentium_TCS6 (reversed).fasta mapped to 82 using Bowtie2
+82,2,1 read from C_rodentium_TCS8.fasta mapped to 82 using Bowtie2
+82,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 82 using Bowtie2
+82,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 82 using Bowtie2
+82,2,1 read from K_pneumonia_TCS7.fasta mapped to 82 using Bowtie2
+82,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 82 using Bowtie2
+82,2,1 read from pCR15  PCR Product.fasta mapped to 82 using Bowtie2
+82,2,1 read from pCR16  PCR Product.fasta mapped to 82 using Bowtie2
+82,2,1 read from pCR21 PCR Product.fasta mapped to 82 using Bowtie2
+82,2,1 read from S_enterica_TCS1.fasta mapped to 82 using Bowtie2
+82,2,1 read from V_cholera_TCS4.fasta mapped to 82 using Bowtie2
+83,4,3 reads from C_rodentium_TCS4.fasta mapped to 83 using Bowtie2
+83,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 83 using Bowtie2
+83,103,102 reads from K_pneumonia_TCS7.fasta mapped to 83 using Bowtie2
+83,2,1 read from pCR21 PCR Product.fasta mapped to 83 using Bowtie2
+84,62,61 reads from C_rodentium_TCS5 (reversed).fasta mapped to 84 using Bowtie2
+84,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 84 using Bowtie2
+84,2,1 read from pCR24 PCR Product.fasta mapped to 84 using Bowtie2
+84,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 84 using Bowtie2
+85,199,198 reads from C_rodentium_TCS9 (reversed).fasta mapped to 85 using Bowtie2
+85,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 85 using Bowtie2
+85,3,2 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 85 using Bowtie2
+85,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 85 using Bowtie2
+85,3,2 reads from pCR16  PCR Product.fasta mapped to 85 using Bowtie2
+85,3,2 reads from pCR24 PCR Product.fasta mapped to 85 using Bowtie2
+85,2,1 read from S_enterica_TCS4.fasta mapped to 85 using Bowtie2
+86,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 86 using Bowtie2
+86,2,1 read from K_pneumoniae_TCS10.fasta mapped to 86 using Bowtie2
+86,2,1 read from pCR23  PCR Product.fasta mapped to 86 using Bowtie2
+86,81,80 reads from S_enterica_TCS1.fasta mapped to 86 using Bowtie2
+86,197,196 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 86 using Bowtie2
+87,2,1 read from C_rodentium_TCS1.fasta mapped to 87 using Bowtie2
+87,279,278 reads from C_rodentium_TCS10 (reversed).fasta mapped to 87 using Bowtie2
+87,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 87 using Bowtie2
+87,2,1 read from E_tarda_TCS7.fasta mapped to 87 using Bowtie2
+87,3,2 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 87 using Bowtie2
+87,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 87 using Bowtie2
+87,4,3 reads from K_pneumoniae_TCS10.fasta mapped to 87 using Bowtie2
+87,5,4 reads from pCR15  PCR Product.fasta mapped to 87 using Bowtie2
+87,3,2 reads from pCR16  PCR Product.fasta mapped to 87 using Bowtie2
+87,2,1 read from pCR17 PCR Product.fasta mapped to 87 using Bowtie2
+87,3,2 reads from pCR21 PCR Product.fasta mapped to 87 using Bowtie2
+87,4,3 reads from pCR24 PCR Product.fasta mapped to 87 using Bowtie2
+87,3,2 reads from S_enterica_TCS3.fasta mapped to 87 using Bowtie2
+87,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 87 using Bowtie2
+87,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 87 using Bowtie2
+88,43,42 reads from E_faecalis_TCS2 (reversed).fasta mapped to 88 using Bowtie2
+88,2,1 read from pCR21 PCR Product.fasta mapped to 88 using Bowtie2
+89,2,1 read from B_theta_TCS2.fasta mapped to 89 using Bowtie2
+89,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 89 using Bowtie2
+89,2,1 read from C_rodentium_TCS4.fasta mapped to 89 using Bowtie2
+89,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 89 using Bowtie2
+89,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 89 using Bowtie2
+89,261,260 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 89 using Bowtie2
+89,2,1 read from L_plantarum_TCS2.fasta mapped to 89 using Bowtie2
+89,2,1 read from pCR15  PCR Product.fasta mapped to 89 using Bowtie2
+89,3,2 reads from pCR16  PCR Product.fasta mapped to 89 using Bowtie2
+89,2,1 read from pCR22  PCR Product.fasta mapped to 89 using Bowtie2
+89,5,4 reads from pCR24 PCR Product.fasta mapped to 89 using Bowtie2
+90,45,44 reads from B_frag_TCS3.fasta mapped to 90 using Bowtie2
+90,2,1 read from pCR24 PCR Product.fasta mapped to 90 using Bowtie2
+91,146,145 reads from C_rodentium_TCS9 (reversed).fasta mapped to 91 using Bowtie2
+91,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 91 using Bowtie2
+91,4,3 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 91 using Bowtie2
+91,2,1 read from pCR16  PCR Product.fasta mapped to 91 using Bowtie2
+91,2,1 read from pCR17 PCR Product.fasta mapped to 91 using Bowtie2
+91,4,3 reads from S_enterica_TCS4.fasta mapped to 91 using Bowtie2
+92,7,6 reads from C_rodentium_TCS4.fasta mapped to 92 using Bowtie2
+92,79,78 reads from K_pneumonia_TCS7.fasta mapped to 92 using Bowtie2
+92,3,2 reads from pCR16  PCR Product.fasta mapped to 92 using Bowtie2
+93,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 93 using Bowtie2
+93,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 93 using Bowtie2
+93,2,1 read from C_rodentium_TCS8.fasta mapped to 93 using Bowtie2
+93,2,1 read from E_faecalis_TCS1.fasta mapped to 93 using Bowtie2
+93,5,4 reads from E_tarda_TCS7.fasta mapped to 93 using Bowtie2
+93,324,323 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 93 using Bowtie2
+93,4,3 reads from pCR15  PCR Product.fasta mapped to 93 using Bowtie2
+93,2,1 read from pCR16  PCR Product.fasta mapped to 93 using Bowtie2
+93,3,2 reads from pCR17 PCR Product.fasta mapped to 93 using Bowtie2
+93,4,3 reads from pCR21 PCR Product.fasta mapped to 93 using Bowtie2
+93,3,2 reads from pCR22  PCR Product.fasta mapped to 93 using Bowtie2
+93,2,1 read from S_enterica_TCS4.fasta mapped to 93 using Bowtie2
+94,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 94 using Bowtie2
+94,191,190 reads from V_cholera_TCS4.fasta mapped to 94 using Bowtie2
+95,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 95 using Bowtie2
+95,49,48 reads from E_faecalis_TCS2 (reversed).fasta mapped to 95 using Bowtie2
+95,2,1 read from E_tarda_TCS7.fasta mapped to 95 using Bowtie2
+96,255,254 reads from C_rodentium_TCS6 (reversed).fasta mapped to 96 using Bowtie2
+96,2,1 read from E_tarda_TCS6.fasta mapped to 96 using Bowtie2
+96,2,1 read from E_tarda_TCS7.fasta mapped to 96 using Bowtie2
+96,2,1 read from K_pneumoniae_TCS10.fasta mapped to 96 using Bowtie2
+96,2,1 read from V_cholera_TCS4.fasta mapped to 96 using Bowtie2
+97,99,98 reads from C_rodentium_TCS1.fasta mapped to 97 using Bowtie2
+97,2,1 read from pCR16  PCR Product.fasta mapped to 97 using Bowtie2
+97,2,1 read from pCR21 PCR Product.fasta mapped to 97 using Bowtie2
+98,2,1 read from C_rodentium_TCS4.fasta mapped to 98 using Bowtie2
+98,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 98 using Bowtie2
+98,95,94 reads from Y_enterocolitica_TCS5.fasta mapped to 98 using Bowtie2
+99,29,28 reads from C_rodentium_TCS5 (reversed).fasta mapped to 99 using Bowtie2
+99,2,1 read from C_rodentium_TCS8.fasta mapped to 99 using Bowtie2
+100,2,1 read from pCR18  PCR Product.fasta mapped to 100 using Bowtie2
+101,179,178 reads from C_rodentium_TCS9 (reversed).fasta mapped to 101 using Bowtie2
+101,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 101 using Bowtie2
+101,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 101 using Bowtie2
+101,2,1 read from pCR21 PCR Product.fasta mapped to 101 using Bowtie2
+101,2,1 read from pCR22  PCR Product.fasta mapped to 101 using Bowtie2
+101,2,1 read from pCR24 PCR Product.fasta mapped to 101 using Bowtie2
+101,2,1 read from S_enterica_TCS4.fasta mapped to 101 using Bowtie2
+102,50,49 reads from B_frag_TCS3.fasta mapped to 102 using Bowtie2
+102,2,1 read from K_pneumoniae_TCS10.fasta mapped to 102 using Bowtie2
+103,2,1 read from B_producta_TCS6.fasta mapped to 103 using Bowtie2
+103,2,1 read from C_rodentium_TCS4.fasta mapped to 103 using Bowtie2
+103,65,64 reads from K_pneumonia_TCS7.fasta mapped to 103 using Bowtie2
+103,2,1 read from K_pneumoniae_TCS10.fasta mapped to 103 using Bowtie2
+104,3,2 reads from C_rodentium_TCS1.fasta mapped to 104 using Bowtie2
+104,2,1 read from C_rodentium_TCS3.fasta mapped to 104 using Bowtie2
+104,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 104 using Bowtie2
+104,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 104 using Bowtie2
+104,2,1 read from C_rodentium_TCS8.fasta mapped to 104 using Bowtie2
+104,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 104 using Bowtie2
+104,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 104 using Bowtie2
+104,2,1 read from E_tarda_TCS4 (reversed).fasta mapped to 104 using Bowtie2
+104,3,2 reads from E_tarda_TCS7.fasta mapped to 104 using Bowtie2
+104,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 104 using Bowtie2
+104,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 104 using Bowtie2
+104,2,1 read from pCR15  PCR Product.fasta mapped to 104 using Bowtie2
+104,7,6 reads from pCR16  PCR Product.fasta mapped to 104 using Bowtie2
+104,5,4 reads from pCR17 PCR Product.fasta mapped to 104 using Bowtie2
+104,99,98 reads from pCR18  PCR Product.fasta mapped to 104 using Bowtie2
+104,4,3 reads from pCR21 PCR Product.fasta mapped to 104 using Bowtie2
+104,277,276 reads from pCR22  PCR Product.fasta mapped to 104 using Bowtie2
+104,5961,"5,960 reads from pCR23  PCR Product.fasta mapped to 104 using Bowtie2"
+104,186,185 reads from pCR24 PCR Product.fasta mapped to 104 using Bowtie2
+104,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 104 using Bowtie2
+104,2,1 read from V_cholera_TCS4.fasta mapped to 104 using Bowtie2
+104,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 104 using Bowtie2
+104,3,2 reads from Y_enterocolitica_TCS5.fasta mapped to 104 using Bowtie2
+105,60,59 reads from B_producta_TCS12.fasta mapped to 105 using Bowtie2
+105,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 105 using Bowtie2
+105,2,1 read from E_tarda_TCS7.fasta mapped to 105 using Bowtie2
+105,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 105 using Bowtie2
+105,2,1 read from pCR23  PCR Product.fasta mapped to 105 using Bowtie2
+105,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 105 using Bowtie2
+106,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 106 using Bowtie2
+106,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 106 using Bowtie2
+106,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 106 using Bowtie2
+106,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 106 using Bowtie2
+106,226,225 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 106 using Bowtie2
+106,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 106 using Bowtie2
+106,2,1 read from pCR15  PCR Product.fasta mapped to 106 using Bowtie2
+106,2,1 read from pCR24 PCR Product.fasta mapped to 106 using Bowtie2
+107,2,1 read from B_producta_TCS6.fasta mapped to 107 using Bowtie2
+107,7,6 reads from C_rodentium_TCS9 (reversed).fasta mapped to 107 using Bowtie2
+107,136,135 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 107 using Bowtie2
+107,2,1 read from pCR17 PCR Product.fasta mapped to 107 using Bowtie2
+108,2,1 read from C_rodentium_TCS8.fasta mapped to 108 using Bowtie2
+108,17,16 reads from E_faecalis_TCS3 (reversed).fasta mapped to 108 using Bowtie2
+109,2,1 read from C_rodentium_TCS8.fasta mapped to 109 using Bowtie2
+109,266,265 reads from E_tarda_TCS6.fasta mapped to 109 using Bowtie2
+109,2,1 read from pCR23  PCR Product.fasta mapped to 109 using Bowtie2
+110,2,1 read from B_producta_TCS1.fasta mapped to 110 using Bowtie2
+110,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 110 using Bowtie2
+110,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 110 using Bowtie2
+110,4,3 reads from C_rodentium_TCS8.fasta mapped to 110 using Bowtie2
+110,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 110 using Bowtie2
+110,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 110 using Bowtie2
+110,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 110 using Bowtie2
+110,2,1 read from E_tarda_TCS6.fasta mapped to 110 using Bowtie2
+110,3,2 reads from E_tarda_TCS7.fasta mapped to 110 using Bowtie2
+110,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 110 using Bowtie2
+110,2,1 read from K_pneumonia_TCS7.fasta mapped to 110 using Bowtie2
+110,9,8 reads from pCR15  PCR Product.fasta mapped to 110 using Bowtie2
+110,16,15 reads from pCR16  PCR Product.fasta mapped to 110 using Bowtie2
+110,6,5 reads from pCR17 PCR Product.fasta mapped to 110 using Bowtie2
+110,4869,"4,868 reads from pCR21 PCR Product.fasta mapped to 110 using Bowtie2"
+110,5,4 reads from pCR22  PCR Product.fasta mapped to 110 using Bowtie2
+110,3,2 reads from pCR23  PCR Product.fasta mapped to 110 using Bowtie2
+110,3,2 reads from pCR24 PCR Product.fasta mapped to 110 using Bowtie2
+110,3,2 reads from V_cholera_TCS2 (reversed).fasta mapped to 110 using Bowtie2
+110,2,1 read from V_cholera_TCS4.fasta mapped to 110 using Bowtie2
+110,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 110 using Bowtie2
+111,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 111 using Bowtie2
+111,2,1 read from L_gasseri_TCS1.fasta mapped to 111 using Bowtie2
+111,2,1 read from pCR16  PCR Product.fasta mapped to 111 using Bowtie2
+111,101,100 reads from V_cholera_TCS2 (reversed).fasta mapped to 111 using Bowtie2
+112,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 112 using Bowtie2
+112,60,59 reads from S_enterica_TCS5.fasta mapped to 112 using Bowtie2
+113,60,59 reads from K_pneumonia_TCS7.fasta mapped to 113 using Bowtie2
+113,2,1 read from K_pneumoniae_TCS10.fasta mapped to 113 using Bowtie2
+113,2,1 read from pCR17 PCR Product.fasta mapped to 113 using Bowtie2
+114,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 114 using Bowtie2
+114,197,196 reads from E_tarda_TCS7.fasta mapped to 114 using Bowtie2
+114,2,1 read from K_pneumoniae_TCS10.fasta mapped to 114 using Bowtie2
+115,2,1 read from B_producta_TCS1.fasta mapped to 115 using Bowtie2
+115,2,1 read from E_tarda_TCS4 (reversed).fasta mapped to 115 using Bowtie2
+115,2,1 read from pCR16  PCR Product.fasta mapped to 115 using Bowtie2
+115,89,88 reads from V_cholera_TCS4.fasta mapped to 115 using Bowtie2
+116,5,4 reads from C_rodentium_TCS11 (reversed).fasta mapped to 116 using Bowtie2
+117,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 117 using Bowtie2
+117,100,99 reads from Y_enterocolitica_TCS5.fasta mapped to 117 using Bowtie2
+118,40,39 reads from B_producta_TCS12.fasta mapped to 118 using Bowtie2
+119,304,303 reads from C_rodentium_TCS6 (reversed).fasta mapped to 119 using Bowtie2
+119,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 119 using Bowtie2
+119,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 119 using Bowtie2
+119,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 119 using Bowtie2
+119,2,1 read from pCR16  PCR Product.fasta mapped to 119 using Bowtie2
+119,2,1 read from pCR24 PCR Product.fasta mapped to 119 using Bowtie2
+120,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 120 using Bowtie2
+120,119,118 reads from E_tarda_TCS7.fasta mapped to 120 using Bowtie2
+120,3,2 reads from pCR15  PCR Product.fasta mapped to 120 using Bowtie2
+120,2,1 read from pCR18  PCR Product.fasta mapped to 120 using Bowtie2
+120,2,1 read from pCR21 PCR Product.fasta mapped to 120 using Bowtie2
+121,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 121 using Bowtie2
+121,3,2 reads from pCR16  PCR Product.fasta mapped to 121 using Bowtie2
+121,68,67 reads from V_cholera_TCS4.fasta mapped to 121 using Bowtie2
+122,2,1 read from C_rodentium_TCS1.fasta mapped to 122 using Bowtie2
+122,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 122 using Bowtie2
+122,3,2 reads from C_rodentium_TCS6 (reversed).fasta mapped to 122 using Bowtie2
+122,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 122 using Bowtie2
+122,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 122 using Bowtie2
+122,2,1 read from E_tarda_TCS4 (reversed).fasta mapped to 122 using Bowtie2
+122,2,1 read from K_pneumoniae_TCS10.fasta mapped to 122 using Bowtie2
+122,2,1 read from pCR15  PCR Product.fasta mapped to 122 using Bowtie2
+122,7,6 reads from pCR16  PCR Product.fasta mapped to 122 using Bowtie2
+122,5,4 reads from pCR17 PCR Product.fasta mapped to 122 using Bowtie2
+122,2,1 read from pCR18  PCR Product.fasta mapped to 122 using Bowtie2
+122,3358,"3,357 reads from pCR21 PCR Product.fasta mapped to 122 using Bowtie2"
+122,2,1 read from pCR22  PCR Product.fasta mapped to 122 using Bowtie2
+122,4,3 reads from pCR24 PCR Product.fasta mapped to 122 using Bowtie2
+122,3,2 reads from V_cholera_TCS2 (reversed).fasta mapped to 122 using Bowtie2
+122,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 122 using Bowtie2
+123,2,1 read from B_caccae_TCS5 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from B_producta_TCS16 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from C_rodentium_TCS1.fasta mapped to 123 using Bowtie2
+123,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 123 using Bowtie2
+123,3,2 reads from C_rodentium_TCS3.fasta mapped to 123 using Bowtie2
+123,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from C_rodentium_TCS8.fasta mapped to 123 using Bowtie2
+123,5,4 reads from C_rodentium_TCS9 (reversed).fasta mapped to 123 using Bowtie2
+123,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from E_tarda_TCS7.fasta mapped to 123 using Bowtie2
+123,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from K_pneumonia_TCS7.fasta mapped to 123 using Bowtie2
+123,2,1 read from K_pneumoniae_TCS10.fasta mapped to 123 using Bowtie2
+123,5,4 reads from pCR15  PCR Product.fasta mapped to 123 using Bowtie2
+123,5,4 reads from pCR16  PCR Product.fasta mapped to 123 using Bowtie2
+123,2,1 read from pCR17 PCR Product.fasta mapped to 123 using Bowtie2
+123,4,3 reads from pCR18  PCR Product.fasta mapped to 123 using Bowtie2
+123,10,9 reads from pCR21 PCR Product.fasta mapped to 123 using Bowtie2
+123,2,1 read from pCR22  PCR Product.fasta mapped to 123 using Bowtie2
+123,6,5 reads from pCR23  PCR Product.fasta mapped to 123 using Bowtie2
+123,5,4 reads from pCR24 PCR Product.fasta mapped to 123 using Bowtie2
+123,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 123 using Bowtie2
+123,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 123 using Bowtie2
+123,2,1 read from V_cholera_TCS4.fasta mapped to 123 using Bowtie2
+123,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 123 using Bowtie2
+124,2,1 read from B_frag_TCS3.fasta mapped to 124 using Bowtie2
+124,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 124 using Bowtie2
+124,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 124 using Bowtie2
+124,6,5 reads from C_rodentium_TCS9 (reversed).fasta mapped to 124 using Bowtie2
+124,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 124 using Bowtie2
+124,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 124 using Bowtie2
+124,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 124 using Bowtie2
+124,2,1 read from E_tarda_TCS7.fasta mapped to 124 using Bowtie2
+124,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 124 using Bowtie2
+124,317,316 reads from pCR15  PCR Product.fasta mapped to 124 using Bowtie2
+124,3507,"3,506 reads from pCR16  PCR Product.fasta mapped to 124 using Bowtie2"
+124,2,1 read from pCR17 PCR Product.fasta mapped to 124 using Bowtie2
+124,3,2 reads from pCR18  PCR Product.fasta mapped to 124 using Bowtie2
+124,6,5 reads from pCR21 PCR Product.fasta mapped to 124 using Bowtie2
+124,3,2 reads from pCR22  PCR Product.fasta mapped to 124 using Bowtie2
+124,5,4 reads from pCR24 PCR Product.fasta mapped to 124 using Bowtie2
+124,2,1 read from S_enterica_TCS1.fasta mapped to 124 using Bowtie2
+124,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 124 using Bowtie2
+125,41,40 reads from K_pneumonia_TCS7.fasta mapped to 125 using Bowtie2
+126,39,38 reads from E_faecalis_TCS2 (reversed).fasta mapped to 126 using Bowtie2
+126,2,1 read from pCR16  PCR Product.fasta mapped to 126 using Bowtie2
+126,2,1 read from pCR17 PCR Product.fasta mapped to 126 using Bowtie2
+127,40,39 reads from V_cholera_TCS2 (reversed).fasta mapped to 127 using Bowtie2
+128,31,30 reads from B_frag_TCS3.fasta mapped to 128 using Bowtie2
+128,2,1 read from pCR23  PCR Product.fasta mapped to 128 using Bowtie2
+128,2,1 read from pCR24 PCR Product.fasta mapped to 128 using Bowtie2
+128,2,1 read from V_cholera_TCS4.fasta mapped to 128 using Bowtie2
+129,158,157 reads from B_producta_TCS6.fasta mapped to 129 using Bowtie2
+129,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 129 using Bowtie2
+129,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 129 using Bowtie2
+129,2,1 read from E_tarda_TCS6.fasta mapped to 129 using Bowtie2
+129,2,1 read from E_tarda_TCS7.fasta mapped to 129 using Bowtie2
+129,2,1 read from pCR15  PCR Product.fasta mapped to 129 using Bowtie2
+129,2,1 read from pCR21 PCR Product.fasta mapped to 129 using Bowtie2
+130,2,1 read from B_producta_TCS12.fasta mapped to 130 using Bowtie2
+130,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 130 using Bowtie2
+130,4,3 reads from C_rodentium_TCS3.fasta mapped to 130 using Bowtie2
+130,2,1 read from C_rodentium_TCS4.fasta mapped to 130 using Bowtie2
+130,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 130 using Bowtie2
+130,2,1 read from C_rodentium_TCS8.fasta mapped to 130 using Bowtie2
+130,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 130 using Bowtie2
+130,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 130 using Bowtie2
+130,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 130 using Bowtie2
+130,2,1 read from E_tarda_TCS6.fasta mapped to 130 using Bowtie2
+130,2,1 read from E_tarda_TCS7.fasta mapped to 130 using Bowtie2
+130,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 130 using Bowtie2
+130,3,2 reads from K_pneumonia_TCS7.fasta mapped to 130 using Bowtie2
+130,4432,"4,431 reads from pCR15  PCR Product.fasta mapped to 130 using Bowtie2"
+130,482,481 reads from pCR16  PCR Product.fasta mapped to 130 using Bowtie2
+130,3,2 reads from pCR17 PCR Product.fasta mapped to 130 using Bowtie2
+130,12,11 reads from pCR21 PCR Product.fasta mapped to 130 using Bowtie2
+130,5,4 reads from pCR23  PCR Product.fasta mapped to 130 using Bowtie2
+130,6,5 reads from pCR24 PCR Product.fasta mapped to 130 using Bowtie2
+130,2,1 read from Y_enterocolitica_TCS2.fasta mapped to 130 using Bowtie2
+130,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 130 using Bowtie2
+131,27,26 reads from B_producta_TCS12.fasta mapped to 131 using Bowtie2
+132,101,100 reads from C_rodentium_TCS9 (reversed).fasta mapped to 132 using Bowtie2
+132,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 132 using Bowtie2
+132,2,1 read from pCR21 PCR Product.fasta mapped to 132 using Bowtie2
+132,2,1 read from pCR24 PCR Product.fasta mapped to 132 using Bowtie2
+133,37,36 reads from B_frag_TCS3.fasta mapped to 133 using Bowtie2
+134,2,1 read from B_frag_TCS3.fasta mapped to 134 using Bowtie2
+134,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 134 using Bowtie2
+134,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 134 using Bowtie2
+134,95,94 reads from K_pneumoniae_TCS10.fasta mapped to 134 using Bowtie2
+134,2,1 read from pCR16  PCR Product.fasta mapped to 134 using Bowtie2
+134,2,1 read from pCR21 PCR Product.fasta mapped to 134 using Bowtie2
+135,83,82 reads from V_cholera_TCS4.fasta mapped to 135 using Bowtie2
+136,2,1 read from C_rodentium_TCS1.fasta mapped to 136 using Bowtie2
+136,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 136 using Bowtie2
+136,4,3 reads from C_rodentium_TCS7 (reversed).fasta mapped to 136 using Bowtie2
+136,2,1 read from C_rodentium_TCS8.fasta mapped to 136 using Bowtie2
+136,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 136 using Bowtie2
+136,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 136 using Bowtie2
+136,4,3 reads from E_faecalis_TCS2 (reversed).fasta mapped to 136 using Bowtie2
+136,2,1 read from E_tarda_TCS6.fasta mapped to 136 using Bowtie2
+136,2,1 read from K_pneumonia_TCS7.fasta mapped to 136 using Bowtie2
+136,389,388 reads from pCR15  PCR Product.fasta mapped to 136 using Bowtie2
+136,3831,"3,830 reads from pCR16  PCR Product.fasta mapped to 136 using Bowtie2"
+136,4,3 reads from pCR17 PCR Product.fasta mapped to 136 using Bowtie2
+136,3,2 reads from pCR18  PCR Product.fasta mapped to 136 using Bowtie2
+136,8,7 reads from pCR21 PCR Product.fasta mapped to 136 using Bowtie2
+136,4,3 reads from pCR22  PCR Product.fasta mapped to 136 using Bowtie2
+136,2,1 read from pCR23  PCR Product.fasta mapped to 136 using Bowtie2
+136,4,3 reads from pCR24 PCR Product.fasta mapped to 136 using Bowtie2
+136,2,1 read from S_enterica_TCS1.fasta mapped to 136 using Bowtie2
+136,2,1 read from V_cholera_TCS4.fasta mapped to 136 using Bowtie2
+137,181,180 reads from C_rodentium_TCS2 (reversed).fasta mapped to 137 using Bowtie2
+137,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 137 using Bowtie2
+137,2,1 read from K_pneumoniae_TCS10.fasta mapped to 137 using Bowtie2
+137,2,1 read from pCR21 PCR Product.fasta mapped to 137 using Bowtie2
+137,2,1 read from pCR23  PCR Product.fasta mapped to 137 using Bowtie2
+137,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 137 using Bowtie2
+138,3,2 reads from B_frag_TCS3.fasta mapped to 138 using Bowtie2
+138,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 138 using Bowtie2
+138,3,2 reads from C_rodentium_TCS8.fasta mapped to 138 using Bowtie2
+138,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 138 using Bowtie2
+138,3,2 reads from E_tarda_TCS7.fasta mapped to 138 using Bowtie2
+138,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 138 using Bowtie2
+138,2,1 read from K_pneumonia_TCS5.fasta mapped to 138 using Bowtie2
+138,2,1 read from K_pneumoniae_TCS10.fasta mapped to 138 using Bowtie2
+138,4,3 reads from pCR15  PCR Product.fasta mapped to 138 using Bowtie2
+138,2,1 read from pCR16  PCR Product.fasta mapped to 138 using Bowtie2
+138,2,1 read from pCR17 PCR Product.fasta mapped to 138 using Bowtie2
+138,5853,"5,852 reads from pCR18  PCR Product.fasta mapped to 138 using Bowtie2"
+138,6,5 reads from pCR21 PCR Product.fasta mapped to 138 using Bowtie2
+138,92,91 reads from pCR22  PCR Product.fasta mapped to 138 using Bowtie2
+138,89,88 reads from pCR23  PCR Product.fasta mapped to 138 using Bowtie2
+138,103,102 reads from pCR24 PCR Product.fasta mapped to 138 using Bowtie2
+138,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 138 using Bowtie2
+138,2,1 read from V_cholera_TCS4.fasta mapped to 138 using Bowtie2
+138,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 138 using Bowtie2
+139,40,39 reads from E_faecalis_TCS2 (reversed).fasta mapped to 139 using Bowtie2
+140,44,43 reads from K_pneumonia_TCS7.fasta mapped to 140 using Bowtie2
+140,2,1 read from pCR22  PCR Product.fasta mapped to 140 using Bowtie2
+141,115,114 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 141 using Bowtie2
+141,2,1 read from pCR15  PCR Product.fasta mapped to 141 using Bowtie2
+141,2,1 read from pCR17 PCR Product.fasta mapped to 141 using Bowtie2
+141,3,2 reads from pCR21 PCR Product.fasta mapped to 141 using Bowtie2
+141,2,1 read from pCR24 PCR Product.fasta mapped to 141 using Bowtie2
+142,3,2 reads from B_producta_TCS5.fasta mapped to 142 using Bowtie2
+143,3,2 reads from E_tarda_TCS7.fasta mapped to 143 using Bowtie2
+143,38,37 reads from L_gasseri_TCS1.fasta mapped to 143 using Bowtie2
+144,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 144 using Bowtie2
+144,18,17 reads from E_faecalis_TCS2 (reversed).fasta mapped to 144 using Bowtie2
+145,27,26 reads from E_faecalis_TCS2 (reversed).fasta mapped to 145 using Bowtie2
+146,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 146 using Bowtie2
+146,66,65 reads from E_tarda_TCS2 (reversed).fasta mapped to 146 using Bowtie2
+146,2,1 read from pCR21 PCR Product.fasta mapped to 146 using Bowtie2
+147,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 147 using Bowtie2
+147,93,92 reads from E_tarda_TCS7.fasta mapped to 147 using Bowtie2
+147,3,2 reads from pCR17 PCR Product.fasta mapped to 147 using Bowtie2
+147,2,1 read from S_enterica_TCS5.fasta mapped to 147 using Bowtie2
+148,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 148 using Bowtie2
+148,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 148 using Bowtie2
+148,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 148 using Bowtie2
+148,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 148 using Bowtie2
+148,2,1 read from E_tarda_TCS7.fasta mapped to 148 using Bowtie2
+148,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 148 using Bowtie2
+148,2,1 read from K_pneumoniae_TCS10.fasta mapped to 148 using Bowtie2
+148,2523,"2,522 reads from pCR15  PCR Product.fasta mapped to 148 using Bowtie2"
+148,289,288 reads from pCR16  PCR Product.fasta mapped to 148 using Bowtie2
+148,5,4 reads from pCR17 PCR Product.fasta mapped to 148 using Bowtie2
+148,6,5 reads from pCR21 PCR Product.fasta mapped to 148 using Bowtie2
+148,3,2 reads from pCR22  PCR Product.fasta mapped to 148 using Bowtie2
+148,2,1 read from pCR23  PCR Product.fasta mapped to 148 using Bowtie2
+148,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 148 using Bowtie2
+148,2,1 read from Y_enterocolitica_TCS1 (reversed).fasta mapped to 148 using Bowtie2
+149,98,97 reads from C_rodentium_TCS2 (reversed).fasta mapped to 149 using Bowtie2
+149,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 149 using Bowtie2
+149,2,1 read from pCR15  PCR Product.fasta mapped to 149 using Bowtie2
+150,148,147 reads from C_rodentium_TCS7 (reversed).fasta mapped to 150 using Bowtie2
+150,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 150 using Bowtie2
+151,109,108 reads from C_rodentium_TCS9 (reversed).fasta mapped to 151 using Bowtie2
+151,2,1 read from E_tarda_TCS7.fasta mapped to 151 using Bowtie2
+151,6,5 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 151 using Bowtie2
+151,2,1 read from pCR21 PCR Product.fasta mapped to 151 using Bowtie2
+152,2,1 read from pCR16  PCR Product.fasta mapped to 152 using Bowtie2
+152,57,56 reads from V_cholera_TCS4.fasta mapped to 152 using Bowtie2
+153,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 153 using Bowtie2
+153,51,50 reads from S_enterica_TCS1.fasta mapped to 153 using Bowtie2
+153,160,159 reads from S_enterica_TCS_ttrSRRIG.fasta mapped to 153 using Bowtie2
+154,50,49 reads from B_frag_TCS3.fasta mapped to 154 using Bowtie2
+154,2,1 read from pCR16  PCR Product.fasta mapped to 154 using Bowtie2
+155,2,1 read from B_frag_TCS3.fasta mapped to 155 using Bowtie2
+155,2,1 read from B_producta_TCS6.fasta mapped to 155 using Bowtie2
+155,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 155 using Bowtie2
+155,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 155 using Bowtie2
+155,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 155 using Bowtie2
+155,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 155 using Bowtie2
+155,3,2 reads from pCR15  PCR Product.fasta mapped to 155 using Bowtie2
+155,3,2 reads from pCR16  PCR Product.fasta mapped to 155 using Bowtie2
+155,2,1 read from pCR17 PCR Product.fasta mapped to 155 using Bowtie2
+155,4,3 reads from pCR21 PCR Product.fasta mapped to 155 using Bowtie2
+155,3,2 reads from pCR23  PCR Product.fasta mapped to 155 using Bowtie2
+155,2,1 read from S_enterica_TCS3.fasta mapped to 155 using Bowtie2
+156,2,1 read from B_producta_TCS12.fasta mapped to 156 using Bowtie2
+156,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 156 using Bowtie2
+156,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 156 using Bowtie2
+156,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 156 using Bowtie2
+156,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 156 using Bowtie2
+156,3,2 reads from E_tarda_TCS6.fasta mapped to 156 using Bowtie2
+156,2,1 read from E_tarda_TCS7.fasta mapped to 156 using Bowtie2
+156,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 156 using Bowtie2
+156,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 156 using Bowtie2
+156,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 156 using Bowtie2
+156,2,1 read from L_plantarum_TCS2.fasta mapped to 156 using Bowtie2
+156,445,444 reads from pCR15  PCR Product.fasta mapped to 156 using Bowtie2
+156,4708,"4,707 reads from pCR16  PCR Product.fasta mapped to 156 using Bowtie2"
+156,4,3 reads from pCR17 PCR Product.fasta mapped to 156 using Bowtie2
+156,2,1 read from pCR18  PCR Product.fasta mapped to 156 using Bowtie2
+156,11,10 reads from pCR21 PCR Product.fasta mapped to 156 using Bowtie2
+156,5,4 reads from pCR22  PCR Product.fasta mapped to 156 using Bowtie2
+156,5,4 reads from pCR24 PCR Product.fasta mapped to 156 using Bowtie2
+156,2,1 read from S_enterica_TCS3.fasta mapped to 156 using Bowtie2
+156,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 156 using Bowtie2
+156,3,2 reads from V_cholera_TCS2 (reversed).fasta mapped to 156 using Bowtie2
+156,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 156 using Bowtie2
+157,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 157 using Bowtie2
+157,72,71 reads from L_plantarum_TCS2.fasta mapped to 157 using Bowtie2
+158,4,3 reads from C_rodentium_TCS9 (reversed).fasta mapped to 158 using Bowtie2
+158,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 158 using Bowtie2
+158,77,76 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 158 using Bowtie2
+158,2,1 read from pCR21 PCR Product.fasta mapped to 158 using Bowtie2
+159,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 159 using Bowtie2
+159,107,106 reads from E_tarda_TCS7.fasta mapped to 159 using Bowtie2
+159,4,3 reads from pCR24 PCR Product.fasta mapped to 159 using Bowtie2
+160,78,77 reads from K_pneumonia_TCS7.fasta mapped to 160 using Bowtie2
+161,45,44 reads from C_rodentium_TCS8.fasta mapped to 161 using Bowtie2
+161,2,1 read from pCR17 PCR Product.fasta mapped to 161 using Bowtie2
+161,2,1 read from pCR21 PCR Product.fasta mapped to 161 using Bowtie2
+161,2,1 read from pCR24 PCR Product.fasta mapped to 161 using Bowtie2
+161,2,1 read from S_enterica_TCS5.fasta mapped to 161 using Bowtie2
+162,33,32 reads from E_faecalis_TCS2 (reversed).fasta mapped to 162 using Bowtie2
+162,2,1 read from pCR21 PCR Product.fasta mapped to 162 using Bowtie2
+163,37,36 reads from E_faecalis_TCS2 (reversed).fasta mapped to 163 using Bowtie2
+163,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 163 using Bowtie2
+163,2,1 read from pCR17 PCR Product.fasta mapped to 163 using Bowtie2
+163,2,1 read from pCR21 PCR Product.fasta mapped to 163 using Bowtie2
+164,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 164 using Bowtie2
+164,34,33 reads from K_pneumoniae_TCS10.fasta mapped to 164 using Bowtie2
+164,2,1 read from pCR17 PCR Product.fasta mapped to 164 using Bowtie2
+165,2,1 read from C_rodentium_TCS3.fasta mapped to 165 using Bowtie2
+165,2,1 read from pCR18  PCR Product.fasta mapped to 165 using Bowtie2
+165,83,82 reads from V_cholera_TCS2 (reversed).fasta mapped to 165 using Bowtie2
+166,4,3 reads from B_producta_TCS1.fasta mapped to 166 using Bowtie2
+168,144,143 reads from E_tarda_TCS2 (reversed).fasta mapped to 168 using Bowtie2
+168,2,1 read from E_tarda_TCS6.fasta mapped to 168 using Bowtie2
+168,2,1 read from pCR23  PCR Product.fasta mapped to 168 using Bowtie2
+169,19,18 reads from L_gasseri_TCS1.fasta mapped to 169 using Bowtie2
+170,5,4 reads from C_perfringens_TCS2 (reversed).fasta mapped to 170 using Bowtie2
+171,2,1 read from E_tarda_TCS7.fasta mapped to 171 using Bowtie2
+171,57,56 reads from Y_enterocolitica_TCS5.fasta mapped to 171 using Bowtie2
+172,2,1 read from B_producta_TCS6.fasta mapped to 172 using Bowtie2
+172,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 172 using Bowtie2
+172,238,237 reads from K_pneumonia_TCS5.fasta mapped to 172 using Bowtie2
+172,3,2 reads from pCR16  PCR Product.fasta mapped to 172 using Bowtie2
+173,11,10 reads from B_frag_TCS3.fasta mapped to 173 using Bowtie2
+174,86,85 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 174 using Bowtie2
+174,2,1 read from pCR16  PCR Product.fasta mapped to 174 using Bowtie2
+174,2,1 read from pCR21 PCR Product.fasta mapped to 174 using Bowtie2
+175,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 175 using Bowtie2
+175,27,26 reads from C_rodentium_TCS8.fasta mapped to 175 using Bowtie2
+176,355,354 reads from C_rodentium_TCS3.fasta mapped to 176 using Bowtie2
+176,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 176 using Bowtie2
+176,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 176 using Bowtie2
+177,2,1 read from E_tarda_TCS7.fasta mapped to 177 using Bowtie2
+177,95,94 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 177 using Bowtie2
+177,2,1 read from pCR16  PCR Product.fasta mapped to 177 using Bowtie2
+178,77,76 reads from Y_enterocolitica_TCS3.fasta mapped to 178 using Bowtie2
+179,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 179 using Bowtie2
+179,194,193 reads from E_tarda_TCS5 (reversed).fasta mapped to 179 using Bowtie2
+179,2,1 read from K_pneumoniae_TCS10.fasta mapped to 179 using Bowtie2
+180,26,25 reads from E_faecalis_TCS2 (reversed).fasta mapped to 180 using Bowtie2
+181,3,2 reads from C_rodentium_TCS11 (reversed).fasta mapped to 181 using Bowtie2
+182,47,46 reads from E_faecalis_TCS2 (reversed).fasta mapped to 182 using Bowtie2
+182,2,1 read from pCR15  PCR Product.fasta mapped to 182 using Bowtie2
+183,76,75 reads from L_plantarum_TCS2.fasta mapped to 183 using Bowtie2
+183,2,1 read from pCR15  PCR Product.fasta mapped to 183 using Bowtie2
+184,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 184 using Bowtie2
+185,2,1 read from B_producta_TCS16 (reversed).fasta mapped to 185 using Bowtie2
+185,2,1 read from C_rodentium_TCS3.fasta mapped to 185 using Bowtie2
+185,4,3 reads from C_rodentium_TCS8.fasta mapped to 185 using Bowtie2
+185,2,1 read from E_tarda_TCS7.fasta mapped to 185 using Bowtie2
+185,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 185 using Bowtie2
+185,4,3 reads from pCR15  PCR Product.fasta mapped to 185 using Bowtie2
+185,6,5 reads from pCR16  PCR Product.fasta mapped to 185 using Bowtie2
+185,2,1 read from pCR17 PCR Product.fasta mapped to 185 using Bowtie2
+185,77,76 reads from pCR18  PCR Product.fasta mapped to 185 using Bowtie2
+185,6,5 reads from pCR21 PCR Product.fasta mapped to 185 using Bowtie2
+185,5036,"5,035 reads from pCR22  PCR Product.fasta mapped to 185 using Bowtie2"
+185,143,142 reads from pCR23  PCR Product.fasta mapped to 185 using Bowtie2
+185,133,132 reads from pCR24 PCR Product.fasta mapped to 185 using Bowtie2
+185,2,1 read from S_enterica_TCS1.fasta mapped to 185 using Bowtie2
+185,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 185 using Bowtie2
+186,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 186 using Bowtie2
+186,2,1 read from pCR21 PCR Product.fasta mapped to 186 using Bowtie2
+186,61,60 reads from V_cholera_TCS2 (reversed).fasta mapped to 186 using Bowtie2
+187,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 187 using Bowtie2
+187,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 187 using Bowtie2
+187,120,119 reads from Y_enterocolitica_TCS5.fasta mapped to 187 using Bowtie2
+188,2,1 read from C_rodentium_TCS1.fasta mapped to 188 using Bowtie2
+188,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 188 using Bowtie2
+188,214,213 reads from C_rodentium_TCS10 (reversed).fasta mapped to 188 using Bowtie2
+188,2,1 read from E_tarda_TCS6.fasta mapped to 188 using Bowtie2
+188,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 188 using Bowtie2
+188,8,7 reads from K_pneumoniae_TCS10.fasta mapped to 188 using Bowtie2
+188,6,5 reads from pCR15  PCR Product.fasta mapped to 188 using Bowtie2
+188,2,1 read from pCR16  PCR Product.fasta mapped to 188 using Bowtie2
+188,2,1 read from pCR18  PCR Product.fasta mapped to 188 using Bowtie2
+188,2,1 read from pCR21 PCR Product.fasta mapped to 188 using Bowtie2
+188,2,1 read from pCR22  PCR Product.fasta mapped to 188 using Bowtie2
+188,2,1 read from pCR24 PCR Product.fasta mapped to 188 using Bowtie2
+189,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 189 using Bowtie2
+189,114,113 reads from C_rodentium_TCS6 (reversed).fasta mapped to 189 using Bowtie2
+189,2,1 read from K_pneumoniae_TCS10.fasta mapped to 189 using Bowtie2
+189,3,2 reads from pCR15  PCR Product.fasta mapped to 189 using Bowtie2
+190,29,28 reads from C_rodentium_TCS5 (reversed).fasta mapped to 190 using Bowtie2
+191,2,1 read from K_pneumonia_TCS5.fasta mapped to 191 using Bowtie2
+191,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 191 using Bowtie2
+191,2,1 read from pCR15  PCR Product.fasta mapped to 191 using Bowtie2
+191,72,71 reads from V_cholera_TCS4.fasta mapped to 191 using Bowtie2
+192,37,36 reads from B_frag_TCS3.fasta mapped to 192 using Bowtie2
+193,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 193 using Bowtie2
+193,67,66 reads from K_pneumonia_TCS5.fasta mapped to 193 using Bowtie2
+194,114,113 reads from C_rodentium_TCS2 (reversed).fasta mapped to 194 using Bowtie2
+194,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 194 using Bowtie2
+195,34,33 reads from B_frag_TCS3.fasta mapped to 195 using Bowtie2
+195,2,1 read from pCR16  PCR Product.fasta mapped to 195 using Bowtie2
+197,2,1 read from B_theta_TCS2.fasta mapped to 197 using Bowtie2
+197,363,362 reads from C_rodentium_TCS6 (reversed).fasta mapped to 197 using Bowtie2
+197,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 197 using Bowtie2
+197,2,1 read from pCR16  PCR Product.fasta mapped to 197 using Bowtie2
+197,3,2 reads from pCR24 PCR Product.fasta mapped to 197 using Bowtie2
+198,41,40 reads from V_cholera_TCS4.fasta mapped to 198 using Bowtie2
+199,72,71 reads from C_rodentium_TCS7 (reversed).fasta mapped to 199 using Bowtie2
+199,2,1 read from pCR15  PCR Product.fasta mapped to 199 using Bowtie2
+200,36,35 reads from B_frag_TCS3.fasta mapped to 200 using Bowtie2
+200,2,1 read from K_pneumoniae_TCS10.fasta mapped to 200 using Bowtie2
+201,17,16 reads from E_faecalis_TCS2 (reversed).fasta mapped to 201 using Bowtie2
+201,3,2 reads from pCR21 PCR Product.fasta mapped to 201 using Bowtie2
+202,2,1 read from E_tarda_TCS6.fasta mapped to 202 using Bowtie2
+202,46,45 reads from L_plantarum_TCS2.fasta mapped to 202 using Bowtie2
+202,2,1 read from pCR22  PCR Product.fasta mapped to 202 using Bowtie2
+203,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 203 using Bowtie2
+203,22,21 reads from E_faecalis_TCS2 (reversed).fasta mapped to 203 using Bowtie2
+204,136,135 reads from C_rodentium_TCS6 (reversed).fasta mapped to 204 using Bowtie2
+204,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 204 using Bowtie2
+204,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 204 using Bowtie2
+205,76,75 reads from C_rodentium_TCS9 (reversed).fasta mapped to 205 using Bowtie2
+205,4,3 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 205 using Bowtie2
+205,2,1 read from pCR21 PCR Product.fasta mapped to 205 using Bowtie2
+205,2,1 read from pCR23  PCR Product.fasta mapped to 205 using Bowtie2
+206,2,1 read from C_rodentium_TCS8.fasta mapped to 206 using Bowtie2
+206,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 206 using Bowtie2
+206,2,1 read from E_tarda_TCS7.fasta mapped to 206 using Bowtie2
+206,208,207 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 206 using Bowtie2
+206,3,2 reads from pCR16  PCR Product.fasta mapped to 206 using Bowtie2
+206,3,2 reads from pCR17 PCR Product.fasta mapped to 206 using Bowtie2
+206,3,2 reads from pCR21 PCR Product.fasta mapped to 206 using Bowtie2
+206,3,2 reads from pCR22  PCR Product.fasta mapped to 206 using Bowtie2
+206,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 206 using Bowtie2
+207,54,53 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 207 using Bowtie2
+207,2,1 read from pCR21 PCR Product.fasta mapped to 207 using Bowtie2
+207,2,1 read from V_cholera_TCS4.fasta mapped to 207 using Bowtie2
+208,18,17 reads from C_rodentium_TCS5 (reversed).fasta mapped to 208 using Bowtie2
+208,2,1 read from pCR21 PCR Product.fasta mapped to 208 using Bowtie2
+209,114,113 reads from C_rodentium_TCS6 (reversed).fasta mapped to 209 using Bowtie2
+210,16,15 reads from C_rodentium_TCS5 (reversed).fasta mapped to 210 using Bowtie2
+210,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 210 using Bowtie2
+211,2,1 read from C_rodentium_TCS3.fasta mapped to 211 using Bowtie2
+211,2,1 read from L_gasseri_TCS1.fasta mapped to 211 using Bowtie2
+211,2,1 read from pCR15  PCR Product.fasta mapped to 211 using Bowtie2
+211,2,1 read from pCR16  PCR Product.fasta mapped to 211 using Bowtie2
+211,2,1 read from pCR21 PCR Product.fasta mapped to 211 using Bowtie2
+211,68,67 reads from V_cholera_TCS4.fasta mapped to 211 using Bowtie2
+212,2,1 read from pCR24 PCR Product.fasta mapped to 212 using Bowtie2
+212,42,41 reads from V_cholera_TCS4.fasta mapped to 212 using Bowtie2
+213,4,3 reads from C_rodentium_TCS11 (reversed).fasta mapped to 213 using Bowtie2
+214,35,34 reads from L_plantarum_TCS2.fasta mapped to 214 using Bowtie2
+215,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 215 using Bowtie2
+215,83,82 reads from C_rodentium_TCS10 (reversed).fasta mapped to 215 using Bowtie2
+215,2,1 read from E_tarda_TCS6.fasta mapped to 215 using Bowtie2
+215,2,1 read from K_pneumoniae_TCS10.fasta mapped to 215 using Bowtie2
+215,4,3 reads from pCR15  PCR Product.fasta mapped to 215 using Bowtie2
+215,2,1 read from pCR21 PCR Product.fasta mapped to 215 using Bowtie2
+215,2,1 read from pCR22  PCR Product.fasta mapped to 215 using Bowtie2
+215,3,2 reads from pCR23  PCR Product.fasta mapped to 215 using Bowtie2
+215,2,1 read from pCR24 PCR Product.fasta mapped to 215 using Bowtie2
+215,2,1 read from S_enterica_TCS3.fasta mapped to 215 using Bowtie2
+216,62,61 reads from B_producta_TCS6.fasta mapped to 216 using Bowtie2
+216,2,1 read from pCR16  PCR Product.fasta mapped to 216 using Bowtie2
+217,2,1 read from C_rodentium_TCS3.fasta mapped to 217 using Bowtie2
+217,96,95 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 217 using Bowtie2
+218,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 218 using Bowtie2
+218,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 218 using Bowtie2
+218,2,1 read from pCR16  PCR Product.fasta mapped to 218 using Bowtie2
+218,33,32 reads from Y_enterocolitica_TCS3.fasta mapped to 218 using Bowtie2
+219,50,49 reads from K_pneumonia_TCS7.fasta mapped to 219 using Bowtie2
+219,2,1 read from pCR23  PCR Product.fasta mapped to 219 using Bowtie2
+220,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 220 using Bowtie2
+220,2,1 read from pCR16  PCR Product.fasta mapped to 220 using Bowtie2
+220,2,1 read from pCR22  PCR Product.fasta mapped to 220 using Bowtie2
+220,2,1 read from pCR23  PCR Product.fasta mapped to 220 using Bowtie2
+220,68,67 reads from V_cholera_TCS4.fasta mapped to 220 using Bowtie2
+221,2,1 read from B_producta_TCS6.fasta mapped to 221 using Bowtie2
+221,71,70 reads from C_rodentium_TCS9 (reversed).fasta mapped to 221 using Bowtie2
+221,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 221 using Bowtie2
+221,2,1 read from S_enterica_TCS4.fasta mapped to 221 using Bowtie2
+222,33,32 reads from K_pneumonia_TCS4.fasta mapped to 222 using Bowtie2
+223,12,11 reads from B_frag_TCS3.fasta mapped to 223 using Bowtie2
+224,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 224 using Bowtie2
+224,2,1 read from C_rodentium_TCS3.fasta mapped to 224 using Bowtie2
+224,3,2 reads from C_rodentium_TCS6 (reversed).fasta mapped to 224 using Bowtie2
+224,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 224 using Bowtie2
+224,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 224 using Bowtie2
+224,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 224 using Bowtie2
+224,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 224 using Bowtie2
+224,2,1 read from L_gasseri_TCS1.fasta mapped to 224 using Bowtie2
+224,2,1 read from L_plantarum_TCS2.fasta mapped to 224 using Bowtie2
+224,7,6 reads from pCR15  PCR Product.fasta mapped to 224 using Bowtie2
+224,6,5 reads from pCR16  PCR Product.fasta mapped to 224 using Bowtie2
+224,4,3 reads from pCR17 PCR Product.fasta mapped to 224 using Bowtie2
+224,2,1 read from pCR18  PCR Product.fasta mapped to 224 using Bowtie2
+224,2,1 read from pCR21 PCR Product.fasta mapped to 224 using Bowtie2
+224,3,2 reads from pCR22  PCR Product.fasta mapped to 224 using Bowtie2
+224,2,1 read from pCR23  PCR Product.fasta mapped to 224 using Bowtie2
+224,4,3 reads from pCR24 PCR Product.fasta mapped to 224 using Bowtie2
+225,54,53 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 225 using Bowtie2
+225,2,1 read from pCR18  PCR Product.fasta mapped to 225 using Bowtie2
+226,18,17 reads from B_frag_TCS2.fasta mapped to 226 using Bowtie2
+227,92,91 reads from C_rodentium_TCS6 (reversed).fasta mapped to 227 using Bowtie2
+227,2,1 read from pCR24 PCR Product.fasta mapped to 227 using Bowtie2
+228,150,149 reads from E_tarda_TCS6.fasta mapped to 228 using Bowtie2
+229,78,77 reads from K_pneumonia_TCS5.fasta mapped to 229 using Bowtie2
+229,2,1 read from pCR16  PCR Product.fasta mapped to 229 using Bowtie2
+229,2,1 read from pCR21 PCR Product.fasta mapped to 229 using Bowtie2
+229,2,1 read from S_enterica_TCS_ttrSRRIG.fasta mapped to 229 using Bowtie2
+230,42,41 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 230 using Bowtie2
+231,51,50 reads from C_rodentium_TCS6 (reversed).fasta mapped to 231 using Bowtie2
+232,3,2 reads from C_rodentium_TCS11 (reversed).fasta mapped to 232 using Bowtie2
+233,8,7 reads from E_faecalis_TCS2 (reversed).fasta mapped to 233 using Bowtie2
+233,2,1 read from pCR24 PCR Product.fasta mapped to 233 using Bowtie2
+234,28,27 reads from E_faecalis_TCS2 (reversed).fasta mapped to 234 using Bowtie2
+235,57,56 reads from B_producta_TCS6.fasta mapped to 235 using Bowtie2
+235,2,1 read from pCR21 PCR Product.fasta mapped to 235 using Bowtie2
+235,2,1 read from pCR23  PCR Product.fasta mapped to 235 using Bowtie2
+236,43,42 reads from Y_enterocolitica_TCS3.fasta mapped to 236 using Bowtie2
+237,21,20 reads from K_pneumonia_TCS7.fasta mapped to 237 using Bowtie2
+238,125,124 reads from E_tarda_TCS6.fasta mapped to 238 using Bowtie2
+238,2,1 read from pCR21 PCR Product.fasta mapped to 238 using Bowtie2
+239,83,82 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 239 using Bowtie2
+240,11,10 reads from E_faecalis_TCS2 (reversed).fasta mapped to 240 using Bowtie2
+240,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 240 using Bowtie2
+241,2,1 read from B_frag_TCS3.fasta mapped to 241 using Bowtie2
+241,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 241 using Bowtie2
+241,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 241 using Bowtie2
+241,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 241 using Bowtie2
+241,2,1 read from C_rodentium_TCS8.fasta mapped to 241 using Bowtie2
+241,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 241 using Bowtie2
+241,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 241 using Bowtie2
+241,5,4 reads from E_faecalis_TCS2 (reversed).fasta mapped to 241 using Bowtie2
+241,4,3 reads from E_tarda_TCS7.fasta mapped to 241 using Bowtie2
+241,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 241 using Bowtie2
+241,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 241 using Bowtie2
+241,2,1 read from K_pneumoniae_TCS10.fasta mapped to 241 using Bowtie2
+241,6,5 reads from pCR15  PCR Product.fasta mapped to 241 using Bowtie2
+241,8,7 reads from pCR16  PCR Product.fasta mapped to 241 using Bowtie2
+241,2,1 read from pCR17 PCR Product.fasta mapped to 241 using Bowtie2
+241,2,1 read from pCR18  PCR Product.fasta mapped to 241 using Bowtie2
+241,9,8 reads from pCR21 PCR Product.fasta mapped to 241 using Bowtie2
+241,5,4 reads from pCR22  PCR Product.fasta mapped to 241 using Bowtie2
+241,4,3 reads from pCR23  PCR Product.fasta mapped to 241 using Bowtie2
+241,4,3 reads from pCR24 PCR Product.fasta mapped to 241 using Bowtie2
+241,2,1 read from S_enterica_TCS3.fasta mapped to 241 using Bowtie2
+241,3,2 reads from V_cholera_TCS2 (reversed).fasta mapped to 241 using Bowtie2
+241,4,3 reads from V_cholera_TCS4.fasta mapped to 241 using Bowtie2
+242,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 242 using Bowtie2
+242,76,75 reads from K_pneumoniae_TCS10.fasta mapped to 242 using Bowtie2
+243,2,1 read from pCR17 PCR Product.fasta mapped to 243 using Bowtie2
+243,37,36 reads from R_gnavus_TCS5 (reversed).fasta mapped to 243 using Bowtie2
+244,58,57 reads from K_pneumonia_TCS7.fasta mapped to 244 using Bowtie2
+245,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 245 using Bowtie2
+245,44,43 reads from V_cholera_TCS4.fasta mapped to 245 using Bowtie2
+246,54,53 reads from C_rodentium_TCS9 (reversed).fasta mapped to 246 using Bowtie2
+247,19,18 reads from E_faecalis_TCS2 (reversed).fasta mapped to 247 using Bowtie2
+248,10,9 reads from B_producta_TCS12.fasta mapped to 248 using Bowtie2
+249,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 249 using Bowtie2
+249,50,49 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 249 using Bowtie2
+250,18,17 reads from B_producta_TCS16 (reversed).fasta mapped to 250 using Bowtie2
+251,46,45 reads from B_caccae_TCS5 (reversed).fasta mapped to 251 using Bowtie2
+252,40,39 reads from C_rodentium_TCS2 (reversed).fasta mapped to 252 using Bowtie2
+253,12,11 reads from E_faecalis_TCS2 (reversed).fasta mapped to 253 using Bowtie2
+255,51,50 reads from C_rodentium_TCS10 (reversed).fasta mapped to 255 using Bowtie2
+255,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 255 using Bowtie2
+255,2,1 read from pCR16  PCR Product.fasta mapped to 255 using Bowtie2
+255,2,1 read from pCR21 PCR Product.fasta mapped to 255 using Bowtie2
+255,2,1 read from pCR24 PCR Product.fasta mapped to 255 using Bowtie2
+256,42,41 reads from C_rodentium_TCS10 (reversed).fasta mapped to 256 using Bowtie2
+256,2,1 read from E_tarda_TCS7.fasta mapped to 256 using Bowtie2
+256,2,1 read from K_pneumoniae_TCS10.fasta mapped to 256 using Bowtie2
+256,2,1 read from pCR16  PCR Product.fasta mapped to 256 using Bowtie2
+257,118,117 reads from C_rodentium_TCS10 (reversed).fasta mapped to 257 using Bowtie2
+257,2,1 read from E_tarda_TCS7.fasta mapped to 257 using Bowtie2
+257,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 257 using Bowtie2
+257,2,1 read from pCR15  PCR Product.fasta mapped to 257 using Bowtie2
+257,2,1 read from pCR16  PCR Product.fasta mapped to 257 using Bowtie2
+257,3,2 reads from pCR21 PCR Product.fasta mapped to 257 using Bowtie2
+257,2,1 read from pCR22  PCR Product.fasta mapped to 257 using Bowtie2
+257,2,1 read from pCR24 PCR Product.fasta mapped to 257 using Bowtie2
+257,4,3 reads from S_enterica_TCS3.fasta mapped to 257 using Bowtie2
+258,54,53 reads from E_tarda_TCS5 (reversed).fasta mapped to 258 using Bowtie2
+258,2,1 read from S_enterica_TCS1.fasta mapped to 258 using Bowtie2
+259,16,15 reads from E_faecalis_TCS2 (reversed).fasta mapped to 259 using Bowtie2
+259,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 259 using Bowtie2
+260,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 260 using Bowtie2
+260,93,92 reads from K_pneumoniae_TCS10.fasta mapped to 260 using Bowtie2
+260,3,2 reads from pCR16  PCR Product.fasta mapped to 260 using Bowtie2
+261,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 261 using Bowtie2
+261,48,47 reads from K_pneumoniae_TCS10.fasta mapped to 261 using Bowtie2
+262,22,21 reads from B_producta_TCS16 (reversed).fasta mapped to 262 using Bowtie2
+263,64,63 reads from C_rodentium_TCS6 (reversed).fasta mapped to 263 using Bowtie2
+263,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 263 using Bowtie2
+264,19,18 reads from L_gasseri_TCS1.fasta mapped to 264 using Bowtie2
+265,2,1 read from C_rodentium_TCS8.fasta mapped to 265 using Bowtie2
+265,2,1 read from S_enterica_TCS4.fasta mapped to 265 using Bowtie2
+265,95,94 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 265 using Bowtie2
+266,41,40 reads from C_rodentium_TCS8.fasta mapped to 266 using Bowtie2
+267,15,14 reads from B_frag_TCS3.fasta mapped to 267 using Bowtie2
+268,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 268 using Bowtie2
+268,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 268 using Bowtie2
+268,51,50 reads from K_pneumoniae_TCS10.fasta mapped to 268 using Bowtie2
+268,2,1 read from pCR24 PCR Product.fasta mapped to 268 using Bowtie2
+268,2,1 read from S_enterica_TCS3.fasta mapped to 268 using Bowtie2
+269,62,61 reads from E_tarda_TCS6.fasta mapped to 269 using Bowtie2
+270,26,25 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 270 using Bowtie2
+271,15,14 reads from L_gasseri_TCS1.fasta mapped to 271 using Bowtie2
+273,36,35 reads from C_rodentium_TCS7 (reversed).fasta mapped to 273 using Bowtie2
+274,62,61 reads from E_tarda_TCS7.fasta mapped to 274 using Bowtie2
+274,3,2 reads from pCR17 PCR Product.fasta mapped to 274 using Bowtie2
+275,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 275 using Bowtie2
+276,19,18 reads from E_faecalis_TCS2 (reversed).fasta mapped to 276 using Bowtie2
+277,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 277 using Bowtie2
+277,70,69 reads from K_pneumoniae_TCS10.fasta mapped to 277 using Bowtie2
+278,32,31 reads from E_tarda_TCS7.fasta mapped to 278 using Bowtie2
+278,2,1 read from pCR15  PCR Product.fasta mapped to 278 using Bowtie2
+279,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 279 using Bowtie2
+279,73,72 reads from L_plantarum_TCS2.fasta mapped to 279 using Bowtie2
+279,2,1 read from pCR21 PCR Product.fasta mapped to 279 using Bowtie2
+280,37,36 reads from B_producta_TCS6.fasta mapped to 280 using Bowtie2
+280,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 280 using Bowtie2
+280,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 280 using Bowtie2
+281,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 281 using Bowtie2
+282,42,41 reads from C_rodentium_TCS7 (reversed).fasta mapped to 282 using Bowtie2
+282,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 282 using Bowtie2
+283,27,26 reads from E_faecalis_TCS2 (reversed).fasta mapped to 283 using Bowtie2
+283,2,1 read from E_tarda_TCS7.fasta mapped to 283 using Bowtie2
+284,28,27 reads from B_frag_TCS2.fasta mapped to 284 using Bowtie2
+284,2,1 read from E_tarda_TCS7.fasta mapped to 284 using Bowtie2
+284,2,1 read from pCR24 PCR Product.fasta mapped to 284 using Bowtie2
+285,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 285 using Bowtie2
+285,44,43 reads from C_rodentium_TCS8.fasta mapped to 285 using Bowtie2
+286,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 286 using Bowtie2
+286,54,53 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 286 using Bowtie2
+287,4,3 reads from E_faecalis_TCS3 (reversed).fasta mapped to 287 using Bowtie2
+288,61,60 reads from C_rodentium_TCS9 (reversed).fasta mapped to 288 using Bowtie2
+288,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 288 using Bowtie2
+288,2,1 read from pCR16  PCR Product.fasta mapped to 288 using Bowtie2
+288,2,1 read from S_enterica_TCS4.fasta mapped to 288 using Bowtie2
+289,2,1 read from C_rodentium_TCS1.fasta mapped to 289 using Bowtie2
+289,33,32 reads from L_plantarum_TCS2.fasta mapped to 289 using Bowtie2
+290,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 290 using Bowtie2
+290,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 290 using Bowtie2
+290,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 290 using Bowtie2
+290,2,1 read from pCR16  PCR Product.fasta mapped to 290 using Bowtie2
+290,2,1 read from pCR21 PCR Product.fasta mapped to 290 using Bowtie2
+290,2,1 read from pCR22  PCR Product.fasta mapped to 290 using Bowtie2
+290,2,1 read from pCR24 PCR Product.fasta mapped to 290 using Bowtie2
+290,3,2 reads from S_enterica_TCS4.fasta mapped to 290 using Bowtie2
+291,118,117 reads from C_rodentium_TCS3.fasta mapped to 291 using Bowtie2
+292,2,1 read from B_caccae_TCS5 (reversed).fasta mapped to 292 using Bowtie2
+292,78,77 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 292 using Bowtie2
+292,3,2 reads from pCR15  PCR Product.fasta mapped to 292 using Bowtie2
+292,2,1 read from pCR16  PCR Product.fasta mapped to 292 using Bowtie2
+293,2,1 read from E_tarda_TCS7.fasta mapped to 293 using Bowtie2
+293,2,1 read from pCR21 PCR Product.fasta mapped to 293 using Bowtie2
+293,37,36 reads from V_cholera_TCS2 (reversed).fasta mapped to 293 using Bowtie2
+296,16,15 reads from L_gasseri_TCS1.fasta mapped to 296 using Bowtie2
+297,9,8 reads from E_faecalis_TCS2 (reversed).fasta mapped to 297 using Bowtie2
+298,2,1 read from C_rodentium_TCS1.fasta mapped to 298 using Bowtie2
+298,53,52 reads from C_rodentium_TCS6 (reversed).fasta mapped to 298 using Bowtie2
+298,2,1 read from pCR17 PCR Product.fasta mapped to 298 using Bowtie2
+299,10,9 reads from E_faecalis_TCS2 (reversed).fasta mapped to 299 using Bowtie2
+300,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 300 using Bowtie2
+300,27,26 reads from L_plantarum_TCS2.fasta mapped to 300 using Bowtie2
+301,60,59 reads from C_rodentium_TCS7 (reversed).fasta mapped to 301 using Bowtie2
+302,15,14 reads from C_rodentium_TCS10 (reversed).fasta mapped to 302 using Bowtie2
+302,2,1 read from K_pneumoniae_TCS10.fasta mapped to 302 using Bowtie2
+302,2,1 read from pCR18  PCR Product.fasta mapped to 302 using Bowtie2
+302,2,1 read from S_enterica_TCS3.fasta mapped to 302 using Bowtie2
+303,18,17 reads from L_plantarum_TCS2.fasta mapped to 303 using Bowtie2
+303,2,1 read from pCR23  PCR Product.fasta mapped to 303 using Bowtie2
+304,21,20 reads from E_faecalis_TCS2 (reversed).fasta mapped to 304 using Bowtie2
+305,72,71 reads from E_tarda_TCS6.fasta mapped to 305 using Bowtie2
+305,2,1 read from pCR21 PCR Product.fasta mapped to 305 using Bowtie2
+306,25,24 reads from C_rodentium_TCS10 (reversed).fasta mapped to 306 using Bowtie2
+306,2,1 read from pCR15  PCR Product.fasta mapped to 306 using Bowtie2
+306,3,2 reads from S_enterica_TCS3.fasta mapped to 306 using Bowtie2
+307,38,37 reads from E_tarda_TCS7.fasta mapped to 307 using Bowtie2
+307,2,1 read from V_cholera_TCS4.fasta mapped to 307 using Bowtie2
+308,11,10 reads from C_rodentium_TCS8.fasta mapped to 308 using Bowtie2
+308,2,1 read from pCR16  PCR Product.fasta mapped to 308 using Bowtie2
+308,2,1 read from pCR24 PCR Product.fasta mapped to 308 using Bowtie2
+309,9,8 reads from L_gasseri_TCS1.fasta mapped to 309 using Bowtie2
+310,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 310 using Bowtie2
+310,2,1 read from K_pneumoniae_TCS10.fasta mapped to 310 using Bowtie2
+310,62,61 reads from Y_enterocolitica_TCS3.fasta mapped to 310 using Bowtie2
+311,12,11 reads from L_gasseri_TCS1.fasta mapped to 311 using Bowtie2
+312,2,1 read from pCR16  PCR Product.fasta mapped to 312 using Bowtie2
+312,57,56 reads from V_cholera_TCS4.fasta mapped to 312 using Bowtie2
+313,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 313 using Bowtie2
+313,98,97 reads from E_tarda_TCS6.fasta mapped to 313 using Bowtie2
+313,2,1 read from pCR16  PCR Product.fasta mapped to 313 using Bowtie2
+314,8,7 reads from B_producta_TCS16 (reversed).fasta mapped to 314 using Bowtie2
+315,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 315 using Bowtie2
+315,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 315 using Bowtie2
+315,31,30 reads from K_pneumoniae_TCS10.fasta mapped to 315 using Bowtie2
+316,41,40 reads from C_rodentium_TCS10 (reversed).fasta mapped to 316 using Bowtie2
+316,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 316 using Bowtie2
+316,2,1 read from pCR15  PCR Product.fasta mapped to 316 using Bowtie2
+316,2,1 read from pCR22  PCR Product.fasta mapped to 316 using Bowtie2
+316,2,1 read from S_enterica_TCS3.fasta mapped to 316 using Bowtie2
+317,10,9 reads from L_gasseri_TCS1.fasta mapped to 317 using Bowtie2
+318,48,47 reads from C_rodentium_TCS10 (reversed).fasta mapped to 318 using Bowtie2
+318,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 318 using Bowtie2
+318,2,1 read from K_pneumonia_TCS5.fasta mapped to 318 using Bowtie2
+318,2,1 read from K_pneumoniae_TCS10.fasta mapped to 318 using Bowtie2
+318,2,1 read from pCR15  PCR Product.fasta mapped to 318 using Bowtie2
+318,2,1 read from pCR16  PCR Product.fasta mapped to 318 using Bowtie2
+319,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 319 using Bowtie2
+319,2,1 read from pCR18  PCR Product.fasta mapped to 319 using Bowtie2
+319,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 319 using Bowtie2
+319,51,50 reads from V_cholera_TCS4.fasta mapped to 319 using Bowtie2
+320,14,13 reads from C_rodentium_TCS8.fasta mapped to 320 using Bowtie2
+320,2,1 read from pCR15  PCR Product.fasta mapped to 320 using Bowtie2
+321,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 321 using Bowtie2
+321,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 321 using Bowtie2
+321,91,90 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 321 using Bowtie2
+321,2,1 read from pCR15  PCR Product.fasta mapped to 321 using Bowtie2
+321,2,1 read from pCR17 PCR Product.fasta mapped to 321 using Bowtie2
+321,2,1 read from pCR18  PCR Product.fasta mapped to 321 using Bowtie2
+321,2,1 read from pCR21 PCR Product.fasta mapped to 321 using Bowtie2
+322,77,76 reads from C_rodentium_TCS10 (reversed).fasta mapped to 322 using Bowtie2
+322,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 322 using Bowtie2
+322,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 322 using Bowtie2
+322,2,1 read from pCR15  PCR Product.fasta mapped to 322 using Bowtie2
+322,2,1 read from pCR18  PCR Product.fasta mapped to 322 using Bowtie2
+322,2,1 read from pCR23  PCR Product.fasta mapped to 322 using Bowtie2
+322,2,1 read from pCR24 PCR Product.fasta mapped to 322 using Bowtie2
+322,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 322 using Bowtie2
+323,4,3 reads from E_faecalis_TCS2 (reversed).fasta mapped to 323 using Bowtie2
+324,26,25 reads from C_rodentium_TCS4.fasta mapped to 324 using Bowtie2
+325,53,52 reads from C_rodentium_TCS9 (reversed).fasta mapped to 325 using Bowtie2
+325,3,2 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 325 using Bowtie2
+325,2,1 read from pCR23  PCR Product.fasta mapped to 325 using Bowtie2
+325,3,2 reads from S_enterica_TCS4.fasta mapped to 325 using Bowtie2
+326,12,11 reads from B_frag_TCS3.fasta mapped to 326 using Bowtie2
+326,2,1 read from pCR15  PCR Product.fasta mapped to 326 using Bowtie2
+327,3,2 reads from C_rodentium_TCS11 (reversed).fasta mapped to 327 using Bowtie2
+328,2,1 read from E_tarda_TCS4 (reversed).fasta mapped to 328 using Bowtie2
+328,6,5 reads from L_gasseri_TCS1.fasta mapped to 328 using Bowtie2
+329,90,89 reads from C_rodentium_TCS6 (reversed).fasta mapped to 329 using Bowtie2
+329,2,1 read from pCR16  PCR Product.fasta mapped to 329 using Bowtie2
+329,2,1 read from pCR17 PCR Product.fasta mapped to 329 using Bowtie2
+330,41,40 reads from E_tarda_TCS6.fasta mapped to 330 using Bowtie2
+330,2,1 read from pCR22  PCR Product.fasta mapped to 330 using Bowtie2
+331,52,51 reads from C_rodentium_TCS9 (reversed).fasta mapped to 331 using Bowtie2
+332,128,127 reads from E_tarda_TCS7.fasta mapped to 332 using Bowtie2
+332,2,1 read from pCR16  PCR Product.fasta mapped to 332 using Bowtie2
+333,64,63 reads from C_rodentium_TCS6 (reversed).fasta mapped to 333 using Bowtie2
+333,2,1 read from E_tarda_TCS7.fasta mapped to 333 using Bowtie2
+333,2,1 read from pCR17 PCR Product.fasta mapped to 333 using Bowtie2
+334,18,17 reads from L_gasseri_TCS1.fasta mapped to 334 using Bowtie2
+335,33,32 reads from C_rodentium_TCS9 (reversed).fasta mapped to 335 using Bowtie2
+335,3,2 reads from S_enterica_TCS4.fasta mapped to 335 using Bowtie2
+336,24,23 reads from K_pneumonia_TCS7.fasta mapped to 336 using Bowtie2
+336,2,1 read from pCR22  PCR Product.fasta mapped to 336 using Bowtie2
+337,32,31 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 337 using Bowtie2
+337,2,1 read from K_pneumoniae_TCS10.fasta mapped to 337 using Bowtie2
+337,2,1 read from pCR16  PCR Product.fasta mapped to 337 using Bowtie2
+338,84,83 reads from C_rodentium_TCS6 (reversed).fasta mapped to 338 using Bowtie2
+339,27,26 reads from Y_enterocolitica_TCS5.fasta mapped to 339 using Bowtie2
+340,25,24 reads from C_rodentium_TCS1.fasta mapped to 340 using Bowtie2
+341,64,63 reads from C_rodentium_TCS6 (reversed).fasta mapped to 341 using Bowtie2
+341,2,1 read from S_enterica_TCS3.fasta mapped to 341 using Bowtie2
+342,5,4 reads from V_cholera_TCS3 (reversed).fasta mapped to 342 using Bowtie2
+343,126,125 reads from C_rodentium_TCS1.fasta mapped to 343 using Bowtie2
+343,2,1 read from C_rodentium_TCS3.fasta mapped to 343 using Bowtie2
+343,2,1 read from C_rodentium_TCS8.fasta mapped to 343 using Bowtie2
+343,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 343 using Bowtie2
+343,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 343 using Bowtie2
+343,2,1 read from pCR21 PCR Product.fasta mapped to 343 using Bowtie2
+344,7,6 reads from C_rodentium_TCS8.fasta mapped to 344 using Bowtie2
+345,30,29 reads from E_tarda_TCS7.fasta mapped to 345 using Bowtie2
+345,2,1 read from pCR18  PCR Product.fasta mapped to 345 using Bowtie2
+346,5,4 reads from E_faecalis_TCS2 (reversed).fasta mapped to 346 using Bowtie2
+346,2,1 read from pCR15  PCR Product.fasta mapped to 346 using Bowtie2
+347,32,31 reads from E_tarda_TCS7.fasta mapped to 347 using Bowtie2
+348,18,17 reads from B_frag_TCS2.fasta mapped to 348 using Bowtie2
+349,51,50 reads from C_rodentium_TCS10 (reversed).fasta mapped to 349 using Bowtie2
+349,5,4 reads from K_pneumoniae_TCS10.fasta mapped to 349 using Bowtie2
+349,2,1 read from pCR15  PCR Product.fasta mapped to 349 using Bowtie2
+349,2,1 read from pCR18  PCR Product.fasta mapped to 349 using Bowtie2
+349,2,1 read from pCR21 PCR Product.fasta mapped to 349 using Bowtie2
+349,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 349 using Bowtie2
+350,3,2 reads from V_cholera_TCS3 (reversed).fasta mapped to 350 using Bowtie2
+351,2,1 read from C_rodentium_TCS8.fasta mapped to 351 using Bowtie2
+351,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 351 using Bowtie2
+351,29,28 reads from E_tarda_TCS6.fasta mapped to 351 using Bowtie2
+352,25,24 reads from C_rodentium_TCS9 (reversed).fasta mapped to 352 using Bowtie2
+352,2,1 read from S_enterica_TCS4.fasta mapped to 352 using Bowtie2
+353,2,1 read from E_tarda_TCS7.fasta mapped to 353 using Bowtie2
+353,2,1 read from K_pneumonia_TCS7.fasta mapped to 353 using Bowtie2
+353,2,1 read from L_gasseri_TCS1.fasta mapped to 353 using Bowtie2
+353,4,3 reads from pCR16  PCR Product.fasta mapped to 353 using Bowtie2
+353,3,2 reads from pCR17 PCR Product.fasta mapped to 353 using Bowtie2
+353,3,2 reads from pCR18  PCR Product.fasta mapped to 353 using Bowtie2
+353,3,2 reads from pCR21 PCR Product.fasta mapped to 353 using Bowtie2
+353,2,1 read from pCR24 PCR Product.fasta mapped to 353 using Bowtie2
+353,3,2 reads from V_cholera_TCS4.fasta mapped to 353 using Bowtie2
+354,12,11 reads from B_caccae_TCS5 (reversed).fasta mapped to 354 using Bowtie2
+355,2,1 read from C_rodentium_TCS4.fasta mapped to 355 using Bowtie2
+355,38,37 reads from C_rodentium_TCS10 (reversed).fasta mapped to 355 using Bowtie2
+355,2,1 read from K_pneumoniae_TCS10.fasta mapped to 355 using Bowtie2
+356,2,1 read from C_rodentium_TCS5 (reversed).fasta mapped to 356 using Bowtie2
+356,14,13 reads from E_faecalis_TCS2 (reversed).fasta mapped to 356 using Bowtie2
+357,27,26 reads from B_frag_TCS2.fasta mapped to 357 using Bowtie2
+357,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 357 using Bowtie2
+358,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 358 using Bowtie2
+358,61,60 reads from K_pneumoniae_TCS10.fasta mapped to 358 using Bowtie2
+358,2,1 read from L_plantarum_TCS2.fasta mapped to 358 using Bowtie2
+360,2,1 read from pCR15  PCR Product.fasta mapped to 360 using Bowtie2
+360,2,1 read from pCR23  PCR Product.fasta mapped to 360 using Bowtie2
+360,24,23 reads from Y_enterocolitica_TCS3.fasta mapped to 360 using Bowtie2
+361,4,3 reads from B_caccae_TCS4 (reversed).fasta mapped to 361 using Bowtie2
+362,13,12 reads from C_rodentium_TCS9 (reversed).fasta mapped to 362 using Bowtie2
+362,3,2 reads from S_enterica_TCS4.fasta mapped to 362 using Bowtie2
+363,34,33 reads from C_rodentium_TCS6 (reversed).fasta mapped to 363 using Bowtie2
+364,47,46 reads from C_rodentium_TCS9 (reversed).fasta mapped to 364 using Bowtie2
+364,4,3 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 364 using Bowtie2
+364,2,1 read from pCR23  PCR Product.fasta mapped to 364 using Bowtie2
+365,27,26 reads from B_producta_TCS6.fasta mapped to 365 using Bowtie2
+366,8,7 reads from C_rodentium_TCS8.fasta mapped to 366 using Bowtie2
+366,2,1 read from E_tarda_TCS7.fasta mapped to 366 using Bowtie2
+366,2,1 read from pCR22  PCR Product.fasta mapped to 366 using Bowtie2
+367,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 367 using Bowtie2
+367,15,14 reads from E_faecalis_TCS2 (reversed).fasta mapped to 367 using Bowtie2
+367,2,1 read from pCR16  PCR Product.fasta mapped to 367 using Bowtie2
+368,50,49 reads from C_rodentium_TCS9 (reversed).fasta mapped to 368 using Bowtie2
+368,3,2 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 368 using Bowtie2
+369,2,1 read from B_producta_TCS1.fasta mapped to 369 using Bowtie2
+370,6,5 reads from E_faecalis_TCS2 (reversed).fasta mapped to 370 using Bowtie2
+371,35,34 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 371 using Bowtie2
+372,26,25 reads from E_tarda_TCS7.fasta mapped to 372 using Bowtie2
+373,12,11 reads from C_rodentium_TCS2 (reversed).fasta mapped to 373 using Bowtie2
+374,13,12 reads from B_frag_TCS2.fasta mapped to 374 using Bowtie2
+374,2,1 read from pCR21 PCR Product.fasta mapped to 374 using Bowtie2
+375,23,22 reads from E_faecalis_TCS2 (reversed).fasta mapped to 375 using Bowtie2
+376,47,46 reads from K_pneumonia_TCS5.fasta mapped to 376 using Bowtie2
+377,2,1 read from B_producta_TCS6.fasta mapped to 377 using Bowtie2
+377,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 377 using Bowtie2
+377,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 377 using Bowtie2
+377,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 377 using Bowtie2
+377,3,2 reads from pCR15  PCR Product.fasta mapped to 377 using Bowtie2
+377,2,1 read from pCR17 PCR Product.fasta mapped to 377 using Bowtie2
+377,2,1 read from pCR18  PCR Product.fasta mapped to 377 using Bowtie2
+377,3,2 reads from pCR24 PCR Product.fasta mapped to 377 using Bowtie2
+377,2,1 read from R_gnavus_TCS5 (reversed).fasta mapped to 377 using Bowtie2
+378,2,1 read from C_rodentium_TCS1.fasta mapped to 378 using Bowtie2
+378,62,61 reads from C_rodentium_TCS6 (reversed).fasta mapped to 378 using Bowtie2
+380,3,2 reads from E_faecalis_TCS3 (reversed).fasta mapped to 380 using Bowtie2
+381,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 381 using Bowtie2
+382,3,2 reads from C_rodentium_TCS6 (reversed).fasta mapped to 382 using Bowtie2
+382,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 382 using Bowtie2
+382,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 382 using Bowtie2
+382,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 382 using Bowtie2
+382,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 382 using Bowtie2
+382,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 382 using Bowtie2
+382,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 382 using Bowtie2
+382,2,1 read from K_pneumonia_TCS5.fasta mapped to 382 using Bowtie2
+382,2,1 read from K_pneumonia_TCS9 (reversed).fasta mapped to 382 using Bowtie2
+382,2,1 read from L_gasseri_TCS1.fasta mapped to 382 using Bowtie2
+382,2,1 read from L_plantarum_TCS2.fasta mapped to 382 using Bowtie2
+382,4,3 reads from pCR15  PCR Product.fasta mapped to 382 using Bowtie2
+382,2,1 read from pCR16  PCR Product.fasta mapped to 382 using Bowtie2
+382,2,1 read from pCR17 PCR Product.fasta mapped to 382 using Bowtie2
+382,4,3 reads from pCR18  PCR Product.fasta mapped to 382 using Bowtie2
+382,7,6 reads from pCR21 PCR Product.fasta mapped to 382 using Bowtie2
+382,2,1 read from pCR22  PCR Product.fasta mapped to 382 using Bowtie2
+382,3,2 reads from pCR23  PCR Product.fasta mapped to 382 using Bowtie2
+382,2,1 read from pCR24 PCR Product.fasta mapped to 382 using Bowtie2
+382,3,2 reads from V_cholera_TCS4.fasta mapped to 382 using Bowtie2
+382,2,1 read from Y_enterocolitica_TCS1 (reversed).fasta mapped to 382 using Bowtie2
+383,38,37 reads from K_pneumonia_TCS4.fasta mapped to 383 using Bowtie2
+383,2,1 read from pCR15  PCR Product.fasta mapped to 383 using Bowtie2
+384,52,51 reads from C_rodentium_TCS1.fasta mapped to 384 using Bowtie2
+385,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 385 using Bowtie2
+386,50,49 reads from C_rodentium_TCS10 (reversed).fasta mapped to 386 using Bowtie2
+386,2,1 read from E_tarda_TCS7.fasta mapped to 386 using Bowtie2
+386,2,1 read from K_pneumoniae_TCS10.fasta mapped to 386 using Bowtie2
+386,2,1 read from pCR15  PCR Product.fasta mapped to 386 using Bowtie2
+386,2,1 read from pCR17 PCR Product.fasta mapped to 386 using Bowtie2
+386,2,1 read from pCR18  PCR Product.fasta mapped to 386 using Bowtie2
+386,2,1 read from pCR21 PCR Product.fasta mapped to 386 using Bowtie2
+386,2,1 read from S_enterica_TCS3.fasta mapped to 386 using Bowtie2
+387,44,43 reads from C_rodentium_TCS7 (reversed).fasta mapped to 387 using Bowtie2
+387,2,1 read from pCR23  PCR Product.fasta mapped to 387 using Bowtie2
+388,18,17 reads from B_producta_TCS6.fasta mapped to 388 using Bowtie2
+389,2,1 read from pCR15  PCR Product.fasta mapped to 389 using Bowtie2
+389,2,1 read from pCR18  PCR Product.fasta mapped to 389 using Bowtie2
+389,2,1 read from S_enterica_TCS4.fasta mapped to 389 using Bowtie2
+389,28,27 reads from Y_enterocolitica_TCS3.fasta mapped to 389 using Bowtie2
+390,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 390 using Bowtie2
+390,38,37 reads from K_pneumoniae_TCS10.fasta mapped to 390 using Bowtie2
+390,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 390 using Bowtie2
+391,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 391 using Bowtie2
+391,48,47 reads from E_tarda_TCS5 (reversed).fasta mapped to 391 using Bowtie2
+392,57,56 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 392 using Bowtie2
+392,2,1 read from pCR15  PCR Product.fasta mapped to 392 using Bowtie2
+392,2,1 read from pCR18  PCR Product.fasta mapped to 392 using Bowtie2
+392,2,1 read from pCR21 PCR Product.fasta mapped to 392 using Bowtie2
+393,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 393 using Bowtie2
+393,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 393 using Bowtie2
+393,30,29 reads from K_pneumoniae_TCS10.fasta mapped to 393 using Bowtie2
+393,2,1 read from pCR18  PCR Product.fasta mapped to 393 using Bowtie2
+394,2,1 read from B_producta_TCS1.fasta mapped to 394 using Bowtie2
+395,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 395 using Bowtie2
+395,50,49 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 395 using Bowtie2
+395,2,1 read from pCR21 PCR Product.fasta mapped to 395 using Bowtie2
+395,2,1 read from pCR24 PCR Product.fasta mapped to 395 using Bowtie2
+396,28,27 reads from K_pneumonia_TCS5.fasta mapped to 396 using Bowtie2
+396,2,1 read from pCR17 PCR Product.fasta mapped to 396 using Bowtie2
+397,31,30 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 397 using Bowtie2
+397,2,1 read from pCR23  PCR Product.fasta mapped to 397 using Bowtie2
+397,2,1 read from pCR24 PCR Product.fasta mapped to 397 using Bowtie2
+398,3,2 reads from E_faecalis_TCS3 (reversed).fasta mapped to 398 using Bowtie2
+399,34,33 reads from C_rodentium_TCS6 (reversed).fasta mapped to 399 using Bowtie2
+400,7,6 reads from L_plantarum_TCS2.fasta mapped to 400 using Bowtie2
+401,4,3 reads from E_faecalis_TCS3 (reversed).fasta mapped to 401 using Bowtie2
+402,42,41 reads from C_rodentium_TCS1.fasta mapped to 402 using Bowtie2
+403,54,53 reads from C_rodentium_TCS3.fasta mapped to 403 using Bowtie2
+403,2,1 read from pCR17 PCR Product.fasta mapped to 403 using Bowtie2
+403,2,1 read from pCR23  PCR Product.fasta mapped to 403 using Bowtie2
+404,11,10 reads from C_rodentium_TCS8.fasta mapped to 404 using Bowtie2
+405,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 405 using Bowtie2
+405,19,18 reads from K_pneumoniae_TCS10.fasta mapped to 405 using Bowtie2
+406,41,40 reads from K_pneumonia_TCS8 (reversed).fasta mapped to 406 using Bowtie2
+407,25,24 reads from C_rodentium_TCS10 (reversed).fasta mapped to 407 using Bowtie2
+407,2,1 read from K_pneumoniae_TCS10.fasta mapped to 407 using Bowtie2
+407,2,1 read from pCR15  PCR Product.fasta mapped to 407 using Bowtie2
+407,2,1 read from pCR17 PCR Product.fasta mapped to 407 using Bowtie2
+407,2,1 read from pCR23  PCR Product.fasta mapped to 407 using Bowtie2
+408,9,8 reads from L_gasseri_TCS1.fasta mapped to 408 using Bowtie2
+411,20,19 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 411 using Bowtie2
+412,22,21 reads from E_tarda_TCS6.fasta mapped to 412 using Bowtie2
+413,66,65 reads from C_rodentium_TCS6 (reversed).fasta mapped to 413 using Bowtie2
+413,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 413 using Bowtie2
+413,2,1 read from K_pneumoniae_TCS10.fasta mapped to 413 using Bowtie2
+414,8,7 reads from K_pneumonia_TCS7.fasta mapped to 414 using Bowtie2
+415,11,10 reads from B_producta_TCS16 (reversed).fasta mapped to 415 using Bowtie2
+416,10,9 reads from Y_enterocolitica_TCS2.fasta mapped to 416 using Bowtie2
+417,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 417 using Bowtie2
+417,2,1 read from pCR16  PCR Product.fasta mapped to 417 using Bowtie2
+417,2,1 read from pCR21 PCR Product.fasta mapped to 417 using Bowtie2
+417,2,1 read from pCR23  PCR Product.fasta mapped to 417 using Bowtie2
+418,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 418 using Bowtie2
+418,29,28 reads from K_oxytoca_TCS1 (reversed).fasta mapped to 418 using Bowtie2
+419,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 419 using Bowtie2
+420,14,13 reads from B_producta_TCS6.fasta mapped to 420 using Bowtie2
+421,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 421 using Bowtie2
+421,2,1 read from E_tarda_TCS5 (reversed).fasta mapped to 421 using Bowtie2
+421,72,71 reads from K_pneumoniae_TCS10.fasta mapped to 421 using Bowtie2
+421,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 421 using Bowtie2
+422,7,6 reads from B_frag_TCS3.fasta mapped to 422 using Bowtie2
+423,2,1 read from pCR21 PCR Product.fasta mapped to 423 using Bowtie2
+423,20,19 reads from V_cholera_TCS4.fasta mapped to 423 using Bowtie2
+424,2,1 read from C_rodentium_TCS4.fasta mapped to 424 using Bowtie2
+424,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 424 using Bowtie2
+424,2,1 read from C_rodentium_TCS8.fasta mapped to 424 using Bowtie2
+424,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 424 using Bowtie2
+424,2,1 read from E_tarda_TCS4 (reversed).fasta mapped to 424 using Bowtie2
+424,2,1 read from E_tarda_TCS7.fasta mapped to 424 using Bowtie2
+424,5,4 reads from pCR15  PCR Product.fasta mapped to 424 using Bowtie2
+424,2,1 read from pCR16  PCR Product.fasta mapped to 424 using Bowtie2
+424,3,2 reads from pCR18  PCR Product.fasta mapped to 424 using Bowtie2
+424,4,3 reads from pCR21 PCR Product.fasta mapped to 424 using Bowtie2
+424,2,1 read from pCR23  PCR Product.fasta mapped to 424 using Bowtie2
+424,2,1 read from pCR24 PCR Product.fasta mapped to 424 using Bowtie2
+425,6,5 reads from B_caccae_TCS5 (reversed).fasta mapped to 425 using Bowtie2
+426,26,25 reads from C_rodentium_TCS9 (reversed).fasta mapped to 426 using Bowtie2
+426,2,1 read from S_enterica_TCS4.fasta mapped to 426 using Bowtie2
+427,5,4 reads from C_rodentium_TCS8.fasta mapped to 427 using Bowtie2
+428,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 428 using Bowtie2
+428,3,2 reads from L_gasseri_TCS1.fasta mapped to 428 using Bowtie2
+429,2,1 read from B_frag_TCS3.fasta mapped to 429 using Bowtie2
+430,26,25 reads from B_producta_TCS6.fasta mapped to 430 using Bowtie2
+430,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 430 using Bowtie2
+431,9,8 reads from B_frag_TCS3.fasta mapped to 431 using Bowtie2
+432,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 432 using Bowtie2
+433,23,22 reads from C_rodentium_TCS6 (reversed).fasta mapped to 433 using Bowtie2
+434,31,30 reads from E_tarda_TCS7.fasta mapped to 434 using Bowtie2
+434,2,1 read from S_enterica_TCS3.fasta mapped to 434 using Bowtie2
+435,9,8 reads from E_tarda_TCS2 (reversed).fasta mapped to 435 using Bowtie2
+436,31,30 reads from C_rodentium_TCS10 (reversed).fasta mapped to 436 using Bowtie2
+436,2,1 read from pCR24 PCR Product.fasta mapped to 436 using Bowtie2
+437,12,11 reads from E_tarda_TCS4 (reversed).fasta mapped to 437 using Bowtie2
+438,19,18 reads from E_tarda_TCS6.fasta mapped to 438 using Bowtie2
+439,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 439 using Bowtie2
+439,21,20 reads from K_pneumoniae_TCS10.fasta mapped to 439 using Bowtie2
+440,36,35 reads from E_tarda_TCS7.fasta mapped to 440 using Bowtie2
+440,2,1 read from pCR23  PCR Product.fasta mapped to 440 using Bowtie2
+441,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 441 using Bowtie2
+441,20,19 reads from C_rodentium_TCS7 (reversed).fasta mapped to 441 using Bowtie2
+442,36,35 reads from E_tarda_TCS7.fasta mapped to 442 using Bowtie2
+443,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 443 using Bowtie2
+443,42,41 reads from K_pneumoniae_TCS10.fasta mapped to 443 using Bowtie2
+444,8,7 reads from L_gasseri_TCS1.fasta mapped to 444 using Bowtie2
+445,13,12 reads from R_gnavus_TCS5 (reversed).fasta mapped to 445 using Bowtie2
+446,8,7 reads from E_faecalis_TCS2 (reversed).fasta mapped to 446 using Bowtie2
+447,17,16 reads from B_producta_TCS6.fasta mapped to 447 using Bowtie2
+447,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 447 using Bowtie2
+447,2,1 read from K_pneumoniae_TCS10.fasta mapped to 447 using Bowtie2
+448,4,3 reads from E_faecalis_TCS2 (reversed).fasta mapped to 448 using Bowtie2
+450,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 450 using Bowtie2
+450,2,1 read from pCR16  PCR Product.fasta mapped to 450 using Bowtie2
+451,25,24 reads from V_cholera_TCS4.fasta mapped to 451 using Bowtie2
+452,18,17 reads from C_rodentium_TCS1.fasta mapped to 452 using Bowtie2
+453,2,1 read from pCR15  PCR Product.fasta mapped to 453 using Bowtie2
+453,3,2 reads from pCR16  PCR Product.fasta mapped to 453 using Bowtie2
+453,2,1 read from pCR17 PCR Product.fasta mapped to 453 using Bowtie2
+453,3,2 reads from pCR21 PCR Product.fasta mapped to 453 using Bowtie2
+454,10,9 reads from E_faecalis_TCS2 (reversed).fasta mapped to 454 using Bowtie2
+455,46,45 reads from C_rodentium_TCS6 (reversed).fasta mapped to 455 using Bowtie2
+455,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 455 using Bowtie2
+455,2,1 read from pCR15  PCR Product.fasta mapped to 455 using Bowtie2
+455,2,1 read from V_cholera_TCS4.fasta mapped to 455 using Bowtie2
+456,25,24 reads from C_rodentium_TCS10 (reversed).fasta mapped to 456 using Bowtie2
+456,2,1 read from pCR22  PCR Product.fasta mapped to 456 using Bowtie2
+458,11,10 reads from C_rodentium_TCS2 (reversed).fasta mapped to 458 using Bowtie2
+458,2,1 read from C_rodentium_TCS8.fasta mapped to 458 using Bowtie2
+459,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 459 using Bowtie2
+459,13,12 reads from C_rodentium_TCS10 (reversed).fasta mapped to 459 using Bowtie2
+459,2,1 read from pCR17 PCR Product.fasta mapped to 459 using Bowtie2
+459,2,1 read from pCR23  PCR Product.fasta mapped to 459 using Bowtie2
+460,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 460 using Bowtie2
+460,17,16 reads from E_tarda_TCS5 (reversed).fasta mapped to 460 using Bowtie2
+460,2,1 read from E_tarda_TCS7.fasta mapped to 460 using Bowtie2
+461,2,1 read from E_tarda_TCS7.fasta mapped to 461 using Bowtie2
+461,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 461 using Bowtie2
+461,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 461 using Bowtie2
+461,2,1 read from K_pneumonia_TCS7.fasta mapped to 461 using Bowtie2
+461,2,1 read from pCR16  PCR Product.fasta mapped to 461 using Bowtie2
+462,21,20 reads from C_rodentium_TCS6 (reversed).fasta mapped to 462 using Bowtie2
+462,2,1 read from V_cholera_TCS2 (reversed).fasta mapped to 462 using Bowtie2
+464,25,24 reads from E_tarda_TCS6.fasta mapped to 464 using Bowtie2
+464,2,1 read from pCR23  PCR Product.fasta mapped to 464 using Bowtie2
+466,2,1 read from B_producta_TCS1.fasta mapped to 466 using Bowtie2
+467,11,10 reads from E_tarda_TCS7.fasta mapped to 467 using Bowtie2
+468,6,5 reads from L_gasseri_TCS1.fasta mapped to 468 using Bowtie2
+470,34,33 reads from C_rodentium_TCS6 (reversed).fasta mapped to 470 using Bowtie2
+470,2,1 read from C_rodentium_TCS8.fasta mapped to 470 using Bowtie2
+471,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 471 using Bowtie2
+472,16,15 reads from E_tarda_TCS6.fasta mapped to 472 using Bowtie2
+473,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 473 using Bowtie2
+473,6,5 reads from K_pneumonia_TCS5.fasta mapped to 473 using Bowtie2
+474,2,1 read from E_tarda_TCS7.fasta mapped to 474 using Bowtie2
+474,19,18 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 474 using Bowtie2
+474,2,1 read from pCR15  PCR Product.fasta mapped to 474 using Bowtie2
+475,19,18 reads from C_rodentium_TCS2 (reversed).fasta mapped to 475 using Bowtie2
+475,2,1 read from pCR21 PCR Product.fasta mapped to 475 using Bowtie2
+476,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 476 using Bowtie2
+477,23,22 reads from C_rodentium_TCS9 (reversed).fasta mapped to 477 using Bowtie2
+477,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 477 using Bowtie2
+477,2,1 read from pCR16  PCR Product.fasta mapped to 477 using Bowtie2
+478,10,9 reads from C_rodentium_TCS2 (reversed).fasta mapped to 478 using Bowtie2
+479,2,1 read from pCR22  PCR Product.fasta mapped to 479 using Bowtie2
+479,24,23 reads from V_cholera_TCS4.fasta mapped to 479 using Bowtie2
+480,2,1 read from E_tarda_TCS6.fasta mapped to 480 using Bowtie2
+480,18,17 reads from R_gnavus_TCS5 (reversed).fasta mapped to 480 using Bowtie2
+481,10,9 reads from B_caccae_TCS5 (reversed).fasta mapped to 481 using Bowtie2
+482,20,19 reads from C_rodentium_TCS10 (reversed).fasta mapped to 482 using Bowtie2
+482,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 482 using Bowtie2
+482,2,1 read from S_enterica_TCS3.fasta mapped to 482 using Bowtie2
+483,7,6 reads from L_gasseri_TCS1.fasta mapped to 483 using Bowtie2
+484,7,6 reads from L_gasseri_TCS1.fasta mapped to 484 using Bowtie2
+485,6,5 reads from E_faecalis_TCS2 (reversed).fasta mapped to 485 using Bowtie2
+486,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 486 using Bowtie2
+486,26,25 reads from C_rodentium_TCS9 (reversed).fasta mapped to 486 using Bowtie2
+487,8,7 reads from K_pneumonia_TCS7.fasta mapped to 487 using Bowtie2
+488,2,1 read from E_tarda_TCS6.fasta mapped to 488 using Bowtie2
+488,58,57 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 488 using Bowtie2
+488,2,1 read from pCR21 PCR Product.fasta mapped to 488 using Bowtie2
+488,2,1 read from S_enterica_TCS4.fasta mapped to 488 using Bowtie2
+489,22,21 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 489 using Bowtie2
+490,7,6 reads from B_producta_TCS13 (reversed).fasta mapped to 490 using Bowtie2
+491,6,5 reads from L_gasseri_TCS1.fasta mapped to 491 using Bowtie2
+492,12,11 reads from B_theta_TCS2.fasta mapped to 492 using Bowtie2
+492,2,1 read from pCR17 PCR Product.fasta mapped to 492 using Bowtie2
+493,24,23 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 493 using Bowtie2
+493,2,1 read from pCR24 PCR Product.fasta mapped to 493 using Bowtie2
+494,33,32 reads from C_rodentium_TCS7 (reversed).fasta mapped to 494 using Bowtie2
+495,19,18 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 495 using Bowtie2
+496,8,7 reads from B_producta_TCS6.fasta mapped to 496 using Bowtie2
+497,40,39 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 497 using Bowtie2
+497,2,1 read from pCR15  PCR Product.fasta mapped to 497 using Bowtie2
+497,2,1 read from pCR23  PCR Product.fasta mapped to 497 using Bowtie2
+498,44,43 reads from E_tarda_TCS6.fasta mapped to 498 using Bowtie2
+498,2,1 read from pCR18  PCR Product.fasta mapped to 498 using Bowtie2
+499,3,2 reads from E_faecalis_TCS3 (reversed).fasta mapped to 499 using Bowtie2
+500,4,3 reads from E_faecalis_TCS3 (reversed).fasta mapped to 500 using Bowtie2
+501,14,13 reads from R_gnavus_TCS3 (reversed).fasta mapped to 501 using Bowtie2
+503,9,8 reads from C_rodentium_TCS9 (reversed).fasta mapped to 503 using Bowtie2
+504,14,13 reads from E_tarda_TCS2 (reversed).fasta mapped to 504 using Bowtie2
+505,4,3 reads from B_producta_TCS13 (reversed).fasta mapped to 505 using Bowtie2
+506,20,19 reads from C_rodentium_TCS2 (reversed).fasta mapped to 506 using Bowtie2
+508,24,23 reads from E_tarda_TCS6.fasta mapped to 508 using Bowtie2
+509,24,23 reads from C_rodentium_TCS10 (reversed).fasta mapped to 509 using Bowtie2
+509,2,1 read from K_pneumoniae_TCS10.fasta mapped to 509 using Bowtie2
+510,50,49 reads from C_rodentium_TCS6 (reversed).fasta mapped to 510 using Bowtie2
+510,2,1 read from K_pneumonia_TCS7.fasta mapped to 510 using Bowtie2
+511,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 511 using Bowtie2
+511,29,28 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 511 using Bowtie2
+511,2,1 read from pCR16  PCR Product.fasta mapped to 511 using Bowtie2
+512,10,9 reads from E_tarda_TCS7.fasta mapped to 512 using Bowtie2
+513,25,24 reads from E_tarda_TCS7.fasta mapped to 513 using Bowtie2
+513,2,1 read from pCR16  PCR Product.fasta mapped to 513 using Bowtie2
+514,5,4 reads from E_tarda_TCS6.fasta mapped to 514 using Bowtie2
+515,14,13 reads from R_gnavus_TCS3 (reversed).fasta mapped to 515 using Bowtie2
+517,28,27 reads from C_rodentium_TCS9 (reversed).fasta mapped to 517 using Bowtie2
+517,2,1 read from pCR16  PCR Product.fasta mapped to 517 using Bowtie2
+517,2,1 read from pCR23  PCR Product.fasta mapped to 517 using Bowtie2
+518,15,14 reads from E_faecalis_TCS2 (reversed).fasta mapped to 518 using Bowtie2
+519,3,2 reads from C_rodentium_TCS10 (reversed).fasta mapped to 519 using Bowtie2
+519,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 519 using Bowtie2
+519,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 519 using Bowtie2
+520,13,12 reads from C_rodentium_TCS1.fasta mapped to 520 using Bowtie2
+521,4,3 reads from E_tarda_TCS4 (reversed).fasta mapped to 521 using Bowtie2
+522,24,23 reads from E_tarda_TCS6.fasta mapped to 522 using Bowtie2
+523,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 523 using Bowtie2
+523,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 523 using Bowtie2
+523,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 523 using Bowtie2
+523,2,1 read from E_tarda_TCS6.fasta mapped to 523 using Bowtie2
+523,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 523 using Bowtie2
+523,2,1 read from K_pneumonia_TCS8 (reversed).fasta mapped to 523 using Bowtie2
+523,3,2 reads from pCR15  PCR Product.fasta mapped to 523 using Bowtie2
+523,2,1 read from pCR16  PCR Product.fasta mapped to 523 using Bowtie2
+523,2,1 read from pCR17 PCR Product.fasta mapped to 523 using Bowtie2
+524,9,8 reads from E_tarda_TCS7.fasta mapped to 524 using Bowtie2
+525,17,16 reads from Y_enterocolitica_TCS5.fasta mapped to 525 using Bowtie2
+526,7,6 reads from B_producta_TCS12.fasta mapped to 526 using Bowtie2
+527,21,20 reads from K_pneumonia_TCS5.fasta mapped to 527 using Bowtie2
+528,9,8 reads from B_theta_TCS2.fasta mapped to 528 using Bowtie2
+530,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 530 using Bowtie2
+530,23,22 reads from K_pneumoniae_TCS10.fasta mapped to 530 using Bowtie2
+530,2,1 read from pCR16  PCR Product.fasta mapped to 530 using Bowtie2
+531,6,5 reads from L_gasseri_TCS1.fasta mapped to 531 using Bowtie2
+532,10,9 reads from C_rodentium_TCS8.fasta mapped to 532 using Bowtie2
+532,2,1 read from pCR15  PCR Product.fasta mapped to 532 using Bowtie2
+533,17,16 reads from C_rodentium_TCS6 (reversed).fasta mapped to 533 using Bowtie2
+534,11,10 reads from E_tarda_TCS6.fasta mapped to 534 using Bowtie2
+535,17,16 reads from E_tarda_TCS5 (reversed).fasta mapped to 535 using Bowtie2
+535,2,1 read from pCR24 PCR Product.fasta mapped to 535 using Bowtie2
+536,2,1 read from L_gasseri_TCS1.fasta mapped to 536 using Bowtie2
+539,41,40 reads from C_rodentium_TCS7 (reversed).fasta mapped to 539 using Bowtie2
+540,9,8 reads from C_rodentium_TCS2 (reversed).fasta mapped to 540 using Bowtie2
+540,2,1 read from pCR24 PCR Product.fasta mapped to 540 using Bowtie2
+541,5,4 reads from L_plantarum_TCS2.fasta mapped to 541 using Bowtie2
+542,15,14 reads from C_rodentium_TCS10 (reversed).fasta mapped to 542 using Bowtie2
+542,2,1 read from pCR21 PCR Product.fasta mapped to 542 using Bowtie2
+543,2,1 read from B_frag_TCS3.fasta mapped to 543 using Bowtie2
+543,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 543 using Bowtie2
+543,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 543 using Bowtie2
+543,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 543 using Bowtie2
+543,4,3 reads from E_tarda_TCS7.fasta mapped to 543 using Bowtie2
+543,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 543 using Bowtie2
+543,2,1 read from pCR16  PCR Product.fasta mapped to 543 using Bowtie2
+543,3,2 reads from pCR21 PCR Product.fasta mapped to 543 using Bowtie2
+543,2,1 read from pCR22  PCR Product.fasta mapped to 543 using Bowtie2
+543,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 543 using Bowtie2
+544,11,10 reads from K_pneumonia_TCS5.fasta mapped to 544 using Bowtie2
+545,12,11 reads from E_tarda_TCS5 (reversed).fasta mapped to 545 using Bowtie2
+548,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 548 using Bowtie2
+548,21,20 reads from C_rodentium_TCS10 (reversed).fasta mapped to 548 using Bowtie2
+548,2,1 read from pCR16  PCR Product.fasta mapped to 548 using Bowtie2
+548,2,1 read from pCR18  PCR Product.fasta mapped to 548 using Bowtie2
+548,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 548 using Bowtie2
+549,8,7 reads from V_cholera_TCS4.fasta mapped to 549 using Bowtie2
+550,10,9 reads from L_plantarum_TCS2.fasta mapped to 550 using Bowtie2
+551,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 551 using Bowtie2
+552,2,1 read from C_rodentium_TCS6 (reversed).fasta mapped to 552 using Bowtie2
+552,9,8 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 552 using Bowtie2
+553,20,19 reads from C_rodentium_TCS7 (reversed).fasta mapped to 553 using Bowtie2
+556,4,3 reads from B_producta_TCS12.fasta mapped to 556 using Bowtie2
+558,15,14 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 558 using Bowtie2
+559,8,7 reads from B_producta_TCS6.fasta mapped to 559 using Bowtie2
+559,2,1 read from pCR24 PCR Product.fasta mapped to 559 using Bowtie2
+561,2,1 read from B_frag_TCS2.fasta mapped to 561 using Bowtie2
+561,4,3 reads from B_frag_TCS3.fasta mapped to 561 using Bowtie2
+562,6,5 reads from B_producta_TCS6.fasta mapped to 562 using Bowtie2
+563,2,1 read from E_tarda_TCS7.fasta mapped to 563 using Bowtie2
+563,14,13 reads from Y_enterocolitica_TCS1 (reversed).fasta mapped to 563 using Bowtie2
+564,3,2 reads from pCR18  PCR Product.fasta mapped to 564 using Bowtie2
+565,11,10 reads from R_gnavus_TCS5 (reversed).fasta mapped to 565 using Bowtie2
+566,2,1 read from pCR16  PCR Product.fasta mapped to 566 using Bowtie2
+566,8,7 reads from Y_enterocolitica_TCS2.fasta mapped to 566 using Bowtie2
+567,6,5 reads from B_producta_TCS6.fasta mapped to 567 using Bowtie2
+568,3,2 reads from E_tarda_TCS6.fasta mapped to 568 using Bowtie2
+569,37,36 reads from E_tarda_TCS7.fasta mapped to 569 using Bowtie2
+569,2,1 read from pCR16  PCR Product.fasta mapped to 569 using Bowtie2
+569,2,1 read from pCR23  PCR Product.fasta mapped to 569 using Bowtie2
+570,8,7 reads from B_producta_TCS13 (reversed).fasta mapped to 570 using Bowtie2
+571,4,3 reads from E_faecalis_TCS2 (reversed).fasta mapped to 571 using Bowtie2
+571,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 571 using Bowtie2
+573,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 573 using Bowtie2
+573,2,1 read from pCR24 PCR Product.fasta mapped to 573 using Bowtie2
+574,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 574 using Bowtie2
+575,9,8 reads from K_pneumonia_TCS8 (reversed).fasta mapped to 575 using Bowtie2
+576,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 576 using Bowtie2
+577,2,1 read from pCR18  PCR Product.fasta mapped to 577 using Bowtie2
+577,10,9 reads from V_cholera_TCS2 (reversed).fasta mapped to 577 using Bowtie2
+578,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 578 using Bowtie2
+579,5,4 reads from L_gasseri_TCS1.fasta mapped to 579 using Bowtie2
+581,3,2 reads from L_gasseri_TCS1.fasta mapped to 581 using Bowtie2
+582,2,1 read from C_rodentium_TCS4.fasta mapped to 582 using Bowtie2
+583,8,7 reads from E_tarda_TCS6.fasta mapped to 583 using Bowtie2
+585,21,20 reads from C_rodentium_TCS6 (reversed).fasta mapped to 585 using Bowtie2
+585,2,1 read from pCR15  PCR Product.fasta mapped to 585 using Bowtie2
+585,2,1 read from pCR21 PCR Product.fasta mapped to 585 using Bowtie2
+586,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 586 using Bowtie2
+586,20,19 reads from K_pneumoniae_TCS10.fasta mapped to 586 using Bowtie2
+588,6,5 reads from C_rodentium_TCS2 (reversed).fasta mapped to 588 using Bowtie2
+589,25,24 reads from K_pneumoniae_TCS10.fasta mapped to 589 using Bowtie2
+590,6,5 reads from L_gasseri_TCS1.fasta mapped to 590 using Bowtie2
+591,5,4 reads from E_tarda_TCS6.fasta mapped to 591 using Bowtie2
+592,4,3 reads from B_producta_TCS13 (reversed).fasta mapped to 592 using Bowtie2
+594,3,2 reads from B_producta_TCS12.fasta mapped to 594 using Bowtie2
+595,11,10 reads from C_rodentium_TCS10 (reversed).fasta mapped to 595 using Bowtie2
+595,2,1 read from K_pneumoniae_TCS10.fasta mapped to 595 using Bowtie2
+595,2,1 read from S_enterica_TCS3.fasta mapped to 595 using Bowtie2
+596,7,6 reads from C_rodentium_TCS10 (reversed).fasta mapped to 596 using Bowtie2
+597,2,1 read from B_producta_TCS17 (reversed).fasta mapped to 597 using Bowtie2
+598,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 598 using Bowtie2
+598,30,29 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 598 using Bowtie2
+599,2,1 read from V_cholera_TCS3 (reversed).fasta mapped to 599 using Bowtie2
+600,3,2 reads from C_rodentium_TCS7 (reversed).fasta mapped to 600 using Bowtie2
+602,2,1 read from B_dorei_TCS1.fasta mapped to 602 using Bowtie2
+603,17,16 reads from C_rodentium_TCS2 (reversed).fasta mapped to 603 using Bowtie2
+605,14,13 reads from E_tarda_TCS6.fasta mapped to 605 using Bowtie2
+607,4,3 reads from E_faecalis_TCS3 (reversed).fasta mapped to 607 using Bowtie2
+609,11,10 reads from E_tarda_TCS6.fasta mapped to 609 using Bowtie2
+610,8,7 reads from E_tarda_TCS6.fasta mapped to 610 using Bowtie2
+610,2,1 read from pCR16  PCR Product.fasta mapped to 610 using Bowtie2
+611,7,6 reads from C_rodentium_TCS8.fasta mapped to 611 using Bowtie2
+613,10,9 reads from C_rodentium_TCS2 (reversed).fasta mapped to 613 using Bowtie2
+614,9,8 reads from Y_enterocolitica_TCS5.fasta mapped to 614 using Bowtie2
+616,9,8 reads from C_rodentium_TCS6 (reversed).fasta mapped to 616 using Bowtie2
+617,14,13 reads from C_rodentium_TCS6 (reversed).fasta mapped to 617 using Bowtie2
+618,6,5 reads from C_rodentium_TCS6 (reversed).fasta mapped to 618 using Bowtie2
+619,3,2 reads from R_gnavus_TCS5 (reversed).fasta mapped to 619 using Bowtie2
+620,5,4 reads from E_tarda_TCS6.fasta mapped to 620 using Bowtie2
+621,7,6 reads from C_rodentium_TCS1.fasta mapped to 621 using Bowtie2
+623,8,7 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 623 using Bowtie2
+624,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 624 using Bowtie2
+624,12,11 reads from V_cholera_TCS4.fasta mapped to 624 using Bowtie2
+625,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 625 using Bowtie2
+625,5,4 reads from L_plantarum_TCS2.fasta mapped to 625 using Bowtie2
+628,13,12 reads from K_pneumoniae_TCS10.fasta mapped to 628 using Bowtie2
+629,6,5 reads from E_faecalis_TCS2 (reversed).fasta mapped to 629 using Bowtie2
+630,5,4 reads from C_rodentium_TCS2 (reversed).fasta mapped to 630 using Bowtie2
+632,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 632 using Bowtie2
+633,6,5 reads from V_cholera_TCS2 (reversed).fasta mapped to 633 using Bowtie2
+634,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 634 using Bowtie2
+634,2,1 read from pCR18  PCR Product.fasta mapped to 634 using Bowtie2
+634,2,1 read from pCR22  PCR Product.fasta mapped to 634 using Bowtie2
+635,14,13 reads from E_tarda_TCS6.fasta mapped to 635 using Bowtie2
+636,2,1 read from B_frag_TCS3.fasta mapped to 636 using Bowtie2
+638,3,2 reads from C_rodentium_TCS3.fasta mapped to 638 using Bowtie2
+639,2,1 read from C_rodentium_TCS3.fasta mapped to 639 using Bowtie2
+639,2,1 read from pCR16  PCR Product.fasta mapped to 639 using Bowtie2
+639,2,1 read from pCR18  PCR Product.fasta mapped to 639 using Bowtie2
+639,2,1 read from pCR21 PCR Product.fasta mapped to 639 using Bowtie2
+639,2,1 read from pCR23  PCR Product.fasta mapped to 639 using Bowtie2
+640,3,2 reads from B_producta_TCS12.fasta mapped to 640 using Bowtie2
+641,2,1 read from C_rodentium_TCS1.fasta mapped to 641 using Bowtie2
+642,21,20 reads from C_rodentium_TCS6 (reversed).fasta mapped to 642 using Bowtie2
+643,6,5 reads from C_rodentium_TCS9 (reversed).fasta mapped to 643 using Bowtie2
+645,5,4 reads from E_faecalis_TCS2 (reversed).fasta mapped to 645 using Bowtie2
+647,7,6 reads from C_rodentium_TCS10 (reversed).fasta mapped to 647 using Bowtie2
+648,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 648 using Bowtie2
+648,2,1 read from C_rodentium_TCS8.fasta mapped to 648 using Bowtie2
+649,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 649 using Bowtie2
+652,2,1 read from B_frag_TCS3.fasta mapped to 652 using Bowtie2
+652,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 652 using Bowtie2
+652,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 652 using Bowtie2
+655,2,1 read from K_pneumoniae_TCS10.fasta mapped to 655 using Bowtie2
+656,2,1 read from L_gasseri_TCS1.fasta mapped to 656 using Bowtie2
+662,2,1 read from K_pneumoniae_TCS10.fasta mapped to 662 using Bowtie2
+663,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 663 using Bowtie2
+664,9,8 reads from K_pneumonia_TCS5.fasta mapped to 664 using Bowtie2
+665,10,9 reads from C_rodentium_TCS9 (reversed).fasta mapped to 665 using Bowtie2
+665,2,1 read from pCR16  PCR Product.fasta mapped to 665 using Bowtie2
+666,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 666 using Bowtie2
+667,9,8 reads from C_rodentium_TCS8.fasta mapped to 667 using Bowtie2
+667,2,1 read from pCR23  PCR Product.fasta mapped to 667 using Bowtie2
+667,2,1 read from pCR24 PCR Product.fasta mapped to 667 using Bowtie2
+668,5,4 reads from R_gnavus_TCS5 (reversed).fasta mapped to 668 using Bowtie2
+669,2,1 read from R_gnavus_TCS5 (reversed).fasta mapped to 669 using Bowtie2
+673,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 673 using Bowtie2
+673,2,1 read from pCR22  PCR Product.fasta mapped to 673 using Bowtie2
+674,6,5 reads from R_gnavus_TCS5 (reversed).fasta mapped to 674 using Bowtie2
+675,4,3 reads from K_pneumonia_TCS5.fasta mapped to 675 using Bowtie2
+676,5,4 reads from B_frag_TCS6.fasta mapped to 676 using Bowtie2
+677,2,1 read from E_tarda_TCS7.fasta mapped to 677 using Bowtie2
+678,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 678 using Bowtie2
+680,6,5 reads from E_tarda_TCS6.fasta mapped to 680 using Bowtie2
+682,2,1 read from B_producta_TCS12.fasta mapped to 682 using Bowtie2
+683,5,4 reads from B_frag_TCS6.fasta mapped to 683 using Bowtie2
+684,5,4 reads from E_tarda_TCS4 (reversed).fasta mapped to 684 using Bowtie2
+685,4,3 reads from B_frag_TCS6.fasta mapped to 685 using Bowtie2
+688,6,5 reads from R_gnavus_TCS5 (reversed).fasta mapped to 688 using Bowtie2
+691,6,5 reads from C_rodentium_TCS10 (reversed).fasta mapped to 691 using Bowtie2
+692,5,4 reads from B_frag_TCS2.fasta mapped to 692 using Bowtie2
+693,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 693 using Bowtie2
+695,3,2 reads from C_rodentium_TCS7 (reversed).fasta mapped to 695 using Bowtie2
+696,4,3 reads from C_rodentium_TCS2 (reversed).fasta mapped to 696 using Bowtie2
+697,5,4 reads from L_plantarum_TCS2.fasta mapped to 697 using Bowtie2
+698,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 698 using Bowtie2
+698,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 698 using Bowtie2
+698,139,138 reads from E_tarda_TCS6.fasta mapped to 698 using Bowtie2
+698,2,1 read from pCR16  PCR Product.fasta mapped to 698 using Bowtie2
+698,2,1 read from pCR21 PCR Product.fasta mapped to 698 using Bowtie2
+699,2,1 read from V_cholera_TCS3 (reversed).fasta mapped to 699 using Bowtie2
+700,2,1 read from E_faecalis_TCS3 (reversed).fasta mapped to 700 using Bowtie2
+703,3,2 reads from E_faecalis_TCS2 (reversed).fasta mapped to 703 using Bowtie2
+704,5,4 reads from B_producta_TCS6.fasta mapped to 704 using Bowtie2
+707,2,1 read from C_rodentium_TCS8.fasta mapped to 707 using Bowtie2
+708,4,3 reads from B_caccae_TCS5 (reversed).fasta mapped to 708 using Bowtie2
+711,2,1 read from C_rodentium_TCS10 (reversed).fasta mapped to 711 using Bowtie2
+711,4,3 reads from Y_enterocolitica_TCS3.fasta mapped to 711 using Bowtie2
+713,6,5 reads from E_tarda_TCS6.fasta mapped to 713 using Bowtie2
+714,4,3 reads from B_frag_TCS6.fasta mapped to 714 using Bowtie2
+719,3,2 reads from L_gasseri_TCS1.fasta mapped to 719 using Bowtie2
+722,5,4 reads from E_tarda_TCS6.fasta mapped to 722 using Bowtie2
+723,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 723 using Bowtie2
+723,2,1 read from K_pneumoniae_TCS10.fasta mapped to 723 using Bowtie2
+726,3,2 reads from C_rodentium_TCS5 (reversed).fasta mapped to 726 using Bowtie2
+728,4,3 reads from E_tarda_TCS6.fasta mapped to 728 using Bowtie2
+731,5,4 reads from E_tarda_TCS6.fasta mapped to 731 using Bowtie2
+734,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 734 using Bowtie2
+735,2,1 read from B_producta_TCS13 (reversed).fasta mapped to 735 using Bowtie2
+736,2,1 read from E_faecalis_TCS1.fasta mapped to 736 using Bowtie2
+739,4,3 reads from E_tarda_TCS5 (reversed).fasta mapped to 739 using Bowtie2
+742,4,3 reads from C_rodentium_TCS6 (reversed).fasta mapped to 742 using Bowtie2
+745,4,3 reads from C_diff_TCS5.fasta mapped to 745 using Bowtie2
+748,2,1 read from S_enterica_TCS4.fasta mapped to 748 using Bowtie2
+749,3,2 reads from E_faecalis_TCS1.fasta mapped to 749 using Bowtie2
+750,3,2 reads from R_gnavus_TCS5 (reversed).fasta mapped to 750 using Bowtie2
+754,2,1 read from pCR22  PCR Product.fasta mapped to 754 using Bowtie2
+758,2,1 read from C_rodentium_TCS11 (reversed).fasta mapped to 758 using Bowtie2
+763,2,1 read from pCR18  PCR Product.fasta mapped to 763 using Bowtie2
+766,2,1 read from C_rodentium_TCS3.fasta mapped to 766 using Bowtie2
+766,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 766 using Bowtie2
+766,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 766 using Bowtie2
+766,270,269 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 766 using Bowtie2
+766,2,1 read from K_pneumoniae_TCS10.fasta mapped to 766 using Bowtie2
+766,3,2 reads from pCR18  PCR Product.fasta mapped to 766 using Bowtie2
+766,3,2 reads from pCR21 PCR Product.fasta mapped to 766 using Bowtie2
+766,2,1 read from Y_enterocolitica_TCS5.fasta mapped to 766 using Bowtie2
+767,67,66 reads from B_theta_TCS2.fasta mapped to 767 using Bowtie2
+767,2,1 read from C_rodentium_TCS9 (reversed).fasta mapped to 767 using Bowtie2
+767,2,1 read from E_tarda_TCS7.fasta mapped to 767 using Bowtie2
+769,2,1 read from pCR21 PCR Product.fasta mapped to 769 using Bowtie2
+770,13,12 reads from C_rodentium_TCS6 (reversed).fasta mapped to 770 using Bowtie2
+770,2,1 read from C_rodentium_TCS8.fasta mapped to 770 using Bowtie2
+774,3,2 reads from B_caccae_TCS4 (reversed).fasta mapped to 774 using Bowtie2
+775,3,2 reads from B_frag_TCS3.fasta mapped to 775 using Bowtie2
+775,2,1 read from B_producta_TCS16 (reversed).fasta mapped to 775 using Bowtie2
+775,4,3 reads from C_rodentium_TCS3.fasta mapped to 775 using Bowtie2
+775,3,2 reads from C_rodentium_TCS7 (reversed).fasta mapped to 775 using Bowtie2
+775,3,2 reads from C_rodentium_TCS9 (reversed).fasta mapped to 775 using Bowtie2
+775,4,3 reads from C_rodentium_TCS10 (reversed).fasta mapped to 775 using Bowtie2
+775,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 775 using Bowtie2
+775,3,2 reads from E_tarda_TCS5 (reversed).fasta mapped to 775 using Bowtie2
+775,2,1 read from E_tarda_TCS6.fasta mapped to 775 using Bowtie2
+775,2,1 read from E_tarda_TCS7.fasta mapped to 775 using Bowtie2
+775,4,3 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 775 using Bowtie2
+775,2,1 read from K_pneumoniae_TCS10.fasta mapped to 775 using Bowtie2
+775,472,471 reads from pCR15  PCR Product.fasta mapped to 775 using Bowtie2
+775,4457,"4,456 reads from pCR16  PCR Product.fasta mapped to 775 using Bowtie2"
+775,2,1 read from pCR17 PCR Product.fasta mapped to 775 using Bowtie2
+775,5,4 reads from pCR18  PCR Product.fasta mapped to 775 using Bowtie2
+775,17,16 reads from pCR21 PCR Product.fasta mapped to 775 using Bowtie2
+775,4,3 reads from pCR22  PCR Product.fasta mapped to 775 using Bowtie2
+775,2,1 read from pCR23  PCR Product.fasta mapped to 775 using Bowtie2
+775,6,5 reads from pCR24 PCR Product.fasta mapped to 775 using Bowtie2
+775,2,1 read from V_cholera_TCS4.fasta mapped to 775 using Bowtie2
+775,2,1 read from Y_enterocolitica_TCS3.fasta mapped to 775 using Bowtie2
+777,2,1 read from C_rodentium_TCS1.fasta mapped to 777 using Bowtie2
+778,3,2 reads from E_faecalis_TCS1.fasta mapped to 778 using Bowtie2
+780,2,1 read from C_rodentium_TCS7 (reversed).fasta mapped to 780 using Bowtie2
+782,29,28 reads from K_pneumonia_TCS4.fasta mapped to 782 using Bowtie2
+785,2,1 read from E_faecalis_TCS1.fasta mapped to 785 using Bowtie2
+786,5,4 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 786 using Bowtie2
+787,2,1 read from E_faecalis_TCS1.fasta mapped to 787 using Bowtie2
+791,2,1 read from C_rodentium_TCS3.fasta mapped to 791 using Bowtie2
+791,115,114 reads from C_rodentium_TCS10 (reversed).fasta mapped to 791 using Bowtie2
+791,2,1 read from E_tarda_TCS7.fasta mapped to 791 using Bowtie2
+791,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 791 using Bowtie2
+791,3,2 reads from K_pneumoniae_TCS10.fasta mapped to 791 using Bowtie2
+791,3,2 reads from pCR16  PCR Product.fasta mapped to 791 using Bowtie2
+791,2,1 read from pCR22  PCR Product.fasta mapped to 791 using Bowtie2
+791,2,1 read from pCR23  PCR Product.fasta mapped to 791 using Bowtie2
+791,2,1 read from S_enterica_TCS3.fasta mapped to 791 using Bowtie2
+791,2,1 read from V_cholera_TCS4.fasta mapped to 791 using Bowtie2
+798,46,45 reads from C_rodentium_TCS9 (reversed).fasta mapped to 798 using Bowtie2
+798,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 798 using Bowtie2
+798,2,1 read from pCR17 PCR Product.fasta mapped to 798 using Bowtie2
+798,2,1 read from S_enterica_TCS4.fasta mapped to 798 using Bowtie2
+800,2,1 read from E_tarda_TCS6.fasta mapped to 800 using Bowtie2
+802,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 802 using Bowtie2
+807,12,11 reads from V_cholera_TCS3 (reversed).fasta mapped to 807 using Bowtie2
+813,4,3 reads from E_tarda_TCS7.fasta mapped to 813 using Bowtie2
+820,3,2 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 820 using Bowtie2
+821,2,1 read from E_faecalis_TCS1.fasta mapped to 821 using Bowtie2
+827,33,32 reads from R_gnavus_TCS5 (reversed).fasta mapped to 827 using Bowtie2
+845,2,1 read from B_frag_TCS3.fasta mapped to 845 using Bowtie2
+845,2,1 read from B_producta_TCS6.fasta mapped to 845 using Bowtie2
+845,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 845 using Bowtie2
+845,2,1 read from C_rodentium_TCS3.fasta mapped to 845 using Bowtie2
+845,3,2 reads from C_rodentium_TCS5 (reversed).fasta mapped to 845 using Bowtie2
+845,5,4 reads from C_rodentium_TCS10 (reversed).fasta mapped to 845 using Bowtie2
+845,2,1 read from E_faecalis_TCS2 (reversed).fasta mapped to 845 using Bowtie2
+845,3,2 reads from E_tarda_TCS7.fasta mapped to 845 using Bowtie2
+845,2,1 read from K_oxytoca_TCS1 (reversed).fasta mapped to 845 using Bowtie2
+845,1008,"1,007 reads from K_pneumonia_TCS3 (reversed).fasta mapped to 845 using Bowtie2"
+845,4,3 reads from pCR15  PCR Product.fasta mapped to 845 using Bowtie2
+845,5,4 reads from pCR16  PCR Product.fasta mapped to 845 using Bowtie2
+845,2,1 read from pCR17 PCR Product.fasta mapped to 845 using Bowtie2
+845,7,6 reads from pCR18  PCR Product.fasta mapped to 845 using Bowtie2
+845,2,1 read from pCR21 PCR Product.fasta mapped to 845 using Bowtie2
+845,2,1 read from pCR22  PCR Product.fasta mapped to 845 using Bowtie2
+845,2,1 read from pCR23  PCR Product.fasta mapped to 845 using Bowtie2
+845,3,2 reads from pCR24 PCR Product.fasta mapped to 845 using Bowtie2
+845,3,2 reads from Y_enterocolitica_TCS3.fasta mapped to 845 using Bowtie2
+846,9,8 reads from L_gasseri_TCS1.fasta mapped to 846 using Bowtie2
+847,8,7 reads from B_frag_TCS3.fasta mapped to 847 using Bowtie2
+849,2,1 read from B_producta_TCS6.fasta mapped to 849 using Bowtie2
+849,2,1 read from C_rodentium_TCS4.fasta mapped to 849 using Bowtie2
+849,65,64 reads from K_pneumonia_TCS7.fasta mapped to 849 using Bowtie2
+849,2,1 read from K_pneumoniae_TCS10.fasta mapped to 849 using Bowtie2
+850,64,63 reads from E_tarda_TCS7.fasta mapped to 850 using Bowtie2
+850,2,1 read from K_pneumonia_TCS3 (reversed).fasta mapped to 850 using Bowtie2
+851,231,230 reads from B_frag_TCS3.fasta mapped to 851 using Bowtie2
+851,2,1 read from C_rodentium_TCS2 (reversed).fasta mapped to 851 using Bowtie2
+851,2,1 read from E_tarda_TCS2 (reversed).fasta mapped to 851 using Bowtie2
+851,2,1 read from pCR15  PCR Product.fasta mapped to 851 using Bowtie2
+851,2,1 read from pCR22  PCR Product.fasta mapped to 851 using Bowtie2
