@@ -1,4 +1,4 @@
-# Data & Code Repo for A discovery platform to identify inducible synthetic circuitry from varied microbial sources.
+# Code Repo for A discovery platform to identify inducible synthetic circuitry from varied microbial sources.
 
 Relevent data & code for "A discovery platform to identify inducible synthetic circuitry from varied microbial sources."
 
