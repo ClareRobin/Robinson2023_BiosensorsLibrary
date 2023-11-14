@@ -1,4 +1,4 @@
-# Data & Code Repo for A discovery platform to identify inducible synthetic circuitry from varied microbial sources.
+# Code Repo for A discovery platform to identify inducible synthetic circuitry from varied microbial sources.
 
 Relevent data & code for "A discovery platform to identify inducible synthetic circuitry from varied microbial sources."
 Raw sequencing data is not available on this github repo, it is deposited in and should be downloaded from ENA under project number: PRJEB66358. 
