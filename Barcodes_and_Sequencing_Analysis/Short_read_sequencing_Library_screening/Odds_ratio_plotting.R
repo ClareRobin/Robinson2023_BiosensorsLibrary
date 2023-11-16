@@ -108,15 +108,7 @@ odds_ratio <- function(positive_bcs,sample_codes_csv,assigned_bcs) {
     dplyr::mutate_if(is.numeric, ~tidyr::replace_na(.,0))%>% #set NA values (NA reads) to 0 reads. 
     dplyr::mutate(odds_ratio = fabR_normed_reads_spec/fabR_normed_reads_none)%>% #calculate odds ratio
     rename(none = fabR_normed_reads_none,
-           spec = fabR_normed_reads_spec)%>%
-    filter(.,Long_sample_name !='Aerobic_LB')%>%
-    filter(.,Long_sample_name !='Aerobic_SOC')%>%
-    filter(.,Long_sample_name !='Aerobic_M9_HOCl')%>%
-    filter(.,Long_sample_name !='Aerobic_M9_LimPO')%>%
-    filter(.,Long_sample_name !='Aerobic_M9_NaCl')%>%
-    filter(.,Long_sample_name !='Aerobic_M9_pH5')%>%
-    filter(.,Long_sample_name !='Aerobic_M9_Sucrose')%>%
-    filter(.,Long_sample_name !='Anaerobic_M9_Epi_50uM')
+           spec = fabR_normed_reads_spec)
   
   return (Sample_data)
 }
@@ -599,258 +591,6 @@ Ave_n_reads_plot <- ggplot(data = Ave_n_reads, mapping=aes(x=bc,y=reads_none))+
         panel.background = element_rect(fill='white'))
 Ave_n_reads_plot
 
-
-######### Summary plotting all sensors LB009 ############
-Sample_data <- QC_passing_data
-for (i in list_of_sensors) {
-  
-  output_dir<-'odds_ratio_plots/LB009_compiled/'
-  if (!dir.exists(output_dir)) {dir.create(output_dir)}
-  
-  sensor_df <- Sample_data[which(Sample_data$sensor == i &Sample_data$Experiment == 'LB009'),] 
-  
-  sensor_df["odds_ratio"][sensor_df["odds_ratio"] <= 0.001] <- 0.001
-  
-  #summary plot 
-  odds_ratio_plot <- ggplot()+
-    geom_boxplot(sensor_df, mapping=aes(x=Long_sample_name,y=odds_ratio, colour='All Sensors'), colour='black',outlier.shape = NA)+
-    ggbeeswarm::geom_quasirandom(sensor_df, mapping=aes(x=Long_sample_name,y=odds_ratio,colour=bc),alpha=0.7)+
-    scale_y_log10( labels = function(none) ifelse(none == 0.001, "0", format(none, scientific = FALSE)), limits=c(0.001,10), breaks=c(0.001,0.01,0.1,1,10))+
-    #scale_x_log10( labels = function(spec) ifelse(spec == 0.001, "0", format(spec, scientific = FALSE)), limits=c(0.001,1000), breaks=c(0.001,0.01,0.1,1,10,100))+
-    ggtitle(gsub('_',' ',i))+
-    xlab('Condition')+
-    ylab('Odds Ratio')+
-    theme_bw()+
-    labs(color = NULL)+
-    theme(panel.border = element_blank(),
-          panel.grid.major = element_blank(), 
-          panel.grid.minor = element_blank(),
-          panel.background = element_rect(fill='white'),
-          text = element_text(size = 20),
-          axis.line = element_line(colour = "black"),
-          axis.text.x = element_text(angle = 45, hjust = 1),
-          plot.title = element_text(family = "Helvetica", size = 10, face = "bold"),
-          axis.title = element_text(family = "Helvetica", size = 10),
-          axis.text = element_text(family = "Helvetica", size = 10),
-          legend.text = element_text(family = "Helvetica", size = 10),
-          legend.title = element_text(family = "Helvetica", size = 10), 
-          legend.position='none')
-  odds_ratio_plot
-  ggsave(odds_ratio_plot, file=paste('odds_ratio_plots/LB009_compiled/',i,'.pdf', sep=''),
-         width = (210-30)/1, height = (297-30)/3, units = 'mm', dpi=300)
-  
-}
-
-######### Diagonal plotting all sensors LB009 for a specific condition ############
-condition <- 'Anaerobic_M9_HOCl'
-for (i in list_of_sensors) {
-#  i<-'E_tarda_TCS7'
-  sensor_df <- Sample_data[which(Sample_data$sensor == i & Sample_data$Experiment == 'LB009' & Sample_data$Long_sample_name == condition ),] 
-  
-  sensor_df["odds_ratio"][sensor_df["odds_ratio"] <= 0.001] <- 0.001
-  sensor_df["none"][sensor_df["none"] <= 0.001] <- 0.001
-  sensor_df["spec"][sensor_df["spec"] <= 0.001] <- 0.001
-  
-  Sample_data["none"][Sample_data["none"] <= 0.001] <- 0.001
-  Sample_data["spec"][Sample_data["spec"] <= 0.001] <- 0.001
-  
-  #diagonal plot
-  odds_ratio_plot <- ggplot()+
-    geom_point(Sample_data[which(Sample_data$Experiment == 'LB009' & Sample_data$Long_sample_name == condition),], mapping=aes(x=none,y=spec), colour='grey',alpha=0.5,size=1)+
-    geom_point(sensor_df, mapping=aes(x=none,y=spec),colour='black', size=3)+
-    scale_y_log10( labels = function(none) ifelse(none == 0.001, "0", format(none, scientific = FALSE)), limits=c(0.001,100000), breaks=c(0.001,0.01,1,100))+
-    scale_x_log10( labels = function(spec) ifelse(spec == 0.001, "0", format(spec, scientific = FALSE)), limits=c(0.001,100000), breaks=c(0.001,0.01,1,100))+
-    ggtitle('Aerobic M9')+
-    xlab('-SPEC Normed Reads')+
-    ylab('+SPEC Normed Reads')+
-    theme_bw()+
-    geom_abline(slope=1, linetype = 'dashed')+
-    labs(color = NULL)+
-    theme(panel.border = element_blank(),
-          panel.grid.major = element_blank(), 
-          panel.grid.minor = element_blank(),
-          panel.background = element_rect(fill='white'),
-          text = element_text(size = 20),
-          axis.line = element_line(colour = "black"),
-          axis.text.x = element_text(angle = 45, hjust = 1),
-          legend.position = "none",
-          plot.title = element_text(family = "Helvetica", size = 10, face = "bold"),
-          axis.title = element_text(family = "Helvetica", size = 10),
-          axis.text = element_text(family = "Helvetica", size = 10),
-          legend.text = element_text(family = "Helvetica", size = 10),
-          legend.title = element_text(family = "Helvetica", size = 10))
-  odds_ratio_plot
-  ggsave(odds_ratio_plot, file=paste('odds_ratio_plots/LB009_Diagonal_by_sensor/',i,condition,'.png', sep=''),
-         width = (210-30)/2, height = (297-30)/3, units = 'mm', dpi=300)
-  
-}
-######### Summary plotting all sensors ME6 #########
-Sample_data <- QC_passing_data
-for (i in list_of_sensors) {
-  
-  output_dir<-'odds_ratio_plots/ME6_compiled/'
-  if (!dir.exists(output_dir)) {dir.create(output_dir)}
-  
-  sensor_df <- Sample_data[which(Sample_data$sensor == i & Sample_data$Experiment == 'ME6'&(Sample_data$Group == 'gavage'|Sample_data$Group == '5 mg strep')),] %>%
-    dplyr::mutate(Group = forcats::fct_relevel(Group,'gavage','Control','5 mg strep', 'DSS','DSS Recovery'))
-  
-  sensor_df["odds_ratio"][sensor_df["odds_ratio"] <= 0.01] <- 0.01
-  
-  Days <- c(1,2)
-  for (j in Days) {
-    if (dim(sensor_df[which(sensor_df$Day == 0|sensor_df$Day == j),])[1]>=1){
-      sensorplot <- ggplot()+
-        geom_boxplot(sensor_df[which(sensor_df$Day == 0|sensor_df$Day == j),], mapping=aes(x=Group,y=odds_ratio), outlier.shape = NA)+
-        #geom_quasirandom(odds_ratio_calculated_sorted, mapping=aes(x=group_mouse_F,y=odds_ratio), colour='light grey',size=0.1)+
-        ggbeeswarm::geom_quasirandom(sensor_df[which(sensor_df$Day == 0|sensor_df$Day == j),], mapping=aes(x=Group,y=odds_ratio),size=1, alpha=0.7)+
-        scale_x_discrete(guide = guide_axis(angle = 60)) +
-        scale_y_log10(limits=c(0.01,10),  labels = function(odds_ratio) ifelse(odds_ratio == 0.01, "0", format(odds_ratio, scientific = FALSE)))+
-        ylab("Odds ratio")+
-        ggtitle(paste(gsub("_",' ',i),'Day',j))+
-        theme_bw()+
-        theme(panel.border = element_blank(),
-              panel.grid.major = element_blank(), 
-              panel.grid.minor = element_blank(),
-              panel.background = element_rect(fill='white'),
-              text = element_text(size = 20),
-              axis.line = element_line(colour = "black"),
-              axis.text.x = element_text(angle = 45, hjust = 1),
-              legend.position = "none",
-              plot.title = element_text(family = "Helvetica", size = 6, face = "bold"),
-              axis.title = element_text(family = "Helvetica", size = 10),
-              axis.text = element_text(family = "Helvetica", size = 10),
-              legend.text = element_text(family = "Helvetica", size = 10),
-              legend.title = element_text(family = "Helvetica", size = 6))
-      sensorplot
-      ggsave(sensorplot, file=paste('odds_ratio_plots/ME6_compiled/',i,'Day',j,'.pdf', sep=''),
-             width = (210-30)/4, height = (297-30)/4, units = 'mm', dpi=300)
-    }
-  }
-}
-
-######### Diagonal plotting all sensors ME6 for a specific condition ############
-Sample_data <- QC_passing_data
-condition <- 'Gavage'
-for (i in list_of_sensors) {
-  
-  sensor_df <- Sample_data[which(Sample_data$sensor == i & Sample_data$Experiment == 'ME6' & Sample_data$Long_sample_name == condition ),] 
-  
-  sensor_df["odds_ratio"][sensor_df["odds_ratio"] <= 0.01] <- 0.01
-  sensor_df["none"][sensor_df["none"] <= 0.001] <- 0.001
-  sensor_df["spec"][sensor_df["spec"] <= 0.001] <- 0.001
-  
-  Sample_data["none"][Sample_data["none"] <= 0.001] <- 0.001
-  Sample_data["spec"][Sample_data["spec"] <= 0.001] <- 0.001
-  
-  #diagonal plot
-  odds_ratio_plot <- ggplot()+
-    geom_point(Sample_data[which(Sample_data$Experiment == 'ME6' & Sample_data$Long_sample_name == condition),], mapping=aes(x=none,y=spec), colour='grey',alpha=0.5,size=1)+
-    geom_point(sensor_df, mapping=aes(x=none,y=spec), colour='black', size=2)+
-    scale_y_log10( labels = function(none) ifelse(none == 0.001, "0", fancy_scientific(none)), limits=c(0.001,100), breaks=c(0.001,0.01,0.1,1,10,100))+
-    scale_x_log10( labels = function(spec) ifelse(spec == 0.001, "0", fancy_scientific(spec)), limits=c(0.001,100), breaks=c(0.001,0.01,0.1,1,10,100),)+
-    #ggtitle(gsub('_',' ',i))+
-    xlab('-SPEC Reads')+
-    ylab('+SPEC Reads')+
-    theme_bw()+
-    geom_abline(slope=1, linetype = 'dashed')+
-    labs(color = NULL)+
-    theme(panel.border = element_blank(),
-          panel.grid.major = element_blank(), 
-          panel.grid.minor = element_blank(),
-          panel.background = element_rect(fill='white'),
-          text = element_text(size = 8),
-          axis.line = element_line(colour = "black"),
-          axis.text.x = element_text(angle = 45, hjust = 1),
-          plot.title = element_text(family = "Helvetica", size = 10, face = "bold"),
-          axis.title = element_text(family = "Helvetica", size = 8),
-          axis.text = element_text(family = "Helvetica", size = 8),
-          legend.text = element_text(family = "Helvetica", size = 10),
-          legend.title = element_text(family = "Helvetica", size = 10))
-  odds_ratio_plot
-  ggsave(odds_ratio_plot, file=paste('odds_ratio_plots/ME6_Diagonal_new_bcs/',i,'.png', sep=''),
-         width = (210-30)/4, height = (297-30)/6, units = 'mm', dpi=300)
-  
-}
-
-
-
-
-
-
-######### Checking for growth advantage in LB (justification for use of LBPS) ######
-sensor_df <- Sample_data[which(Sample_data$Experiment == 'LB009' & (Sample_data$Long_sample_name =='Aerobic_LB'|Sample_data$Long_sample_name =='Aerobic_M9')),] %>%
-  select(-c(odds_ratio,spec))%>%
-  tidyr::pivot_wider(names_from = Long_sample_name, values_from=none)
-
-ON_sensors <- unique(Mean_odds_ratio[which(Mean_odds_ratio$Long_sample_name =='Aerobic_M9' & Mean_odds_ratio$odds_ratio >=0.9),]$sensor)
-OFF_sensor <- unique(Mean_odds_ratio[which(Mean_odds_ratio$Long_sample_name =='Aerobic_M9' & Mean_odds_ratio$odds_ratio <0.9),]$sensor)
-
-sensor_df$growth_advantage <- sensor_df$Aerobic_LB/sensor_df$Aerobic_M9
-sensor_df$type <- ifelse(sensor_df$sensor %in% ON_sensors, "ON Sensor", "OFF sensor")
-
-growth_inspection_plot <- ggplot()+
-  geom_point(sensor_df, mapping=aes(x=Aerobic_M9,y=Aerobic_LB, colour=type))+
-  scale_y_log10()+
-  scale_x_log10()+
-  theme_bw()+
-  xlab('M9 normalised growth')+
-  ylab('LB normalised growth')+
-  ggtitle('Effect of Lactose on outgrowth ON sensor bias')+
-  geom_abline(slope=1, linetype = 'dashed')+
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank())
-sensorplot
-ggsave(growth_inspection_plot, file='odds_ratio_plots/Lactose_outgrowth_bias.png')
-
-
-sensor_df <- QC_passing_data%>%
-  filter(Long_sample_name == 'Aerobic_M9_Tet_100uM'|Long_sample_name == 'Aerobic_M9')%>%
-  group_by(Long_sample_name) %>%
-  mutate(tot_normed_reads_none = reads_none/sum(reads_none)) %>%
-  mutate(tot_normed_reads_spec = reads_spec/sum(reads_spec)) %>%
-  filter(sensor=='S_enterica_TCS5'|sensor=='C_rodentium_TCS8') %>%
-  select(c(Long_sample_name,bc,sensor,tot_normed_reads_none))%>%
-  tidyr::pivot_wider(names_from = Long_sample_name, values_from=tot_normed_reads_none)
-
-growth_inspection_plot <- ggplot()+
-  geom_point(sensor_df, mapping=aes(x=Aerobic_M9,y=Aerobic_M9_Tet_100uM, colour=sensor))+
-  scale_y_log10()+
-  scale_x_log10()+
-  theme_bw()+
-  xlab('M9 normalised growth -SPEC')+
-  ylab('M9 100 uM Tetrathionate normalised growth -SPEC')+
-  ggtitle('Effect of Lactose on outgrowth ON sensor bias')+
-  geom_abline(slope=1, linetype = 'dashed')+
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank())
-growth_inspection_plot
-ggsave(growth_inspection_plot, file='relative_abundance_NoSPEC_samples_100.png')
-
-
-sensor_df <- QC_passing_data%>%
-  filter(Long_sample_name == 'Gavage'|Long_sample_name == 'D12_G2M0')%>%
-  group_by(Long_sample_name) %>%
-  mutate(tot_normed_reads_none = reads_none/sum(reads_none)) %>%
-  mutate(tot_normed_reads_spec = reads_spec/sum(reads_spec)) %>%
-  filter(sensor=='S_enterica_TCS5'|sensor=='C_rodentium_TCS8') %>%
-  select(c(Long_sample_name,bc,sensor,tot_normed_reads_none))%>%
-  tidyr::pivot_wider(names_from = Long_sample_name, values_from=tot_normed_reads_none)
-
-growth_inspection_plot <- ggplot()+
-  geom_point(sensor_df, mapping=aes(x=Gavage,y=D12_G2M0, colour=sensor))+
-  scale_y_log10()+
-  scale_x_log10()+
-  theme_bw()+
-  xlab('Gavage normalised growth -SPEC')+
-  ylab('G2 Mouse 1 normalised growth -SPEC')+
-  ggtitle('Effect of Lactose on outgrowth ON sensor bias')+
-  geom_abline(slope=1, linetype = 'dashed')+
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank())
-growth_inspection_plot
-ggsave(growth_inspection_plot, file='D12_G2M0.png')
-
-
 ######### Plotting reads per barcode ######### 
 
 #import csv of dada2 barcodes & barcode read counts
@@ -924,7 +664,7 @@ ggsave(reads_per_bc_plot, file=paste('reads_per_bc_plot_assignment.pdf'),
        width = (210-30)*(2/3), height = (297-30)/6, units = 'mm', dpi=300)
 
 
-######### Trying T tests #######
+######### T tests #######
 
 #create list to store kruskal test vals. 
 Kruskal_test_lists <- vector("list", length = length(list_of_sensors))
@@ -932,16 +672,6 @@ Kruskal_test_lists <- vector("list", length = length(list_of_sensors))
 Sample_data <- QC_passing_data
 #do T test between gavage and 5 mg strep groups for each sensor
 for (i in list_of_sensors) {
-  #i<-'S_enterica_TCS1'
-  #i<-'C_rodentium_TCS2'
-  #i<-'C_rodentium_TCS9'
-  #i<-'C_rodentium_TCS7'
-  #i<-'K_pneumonia_TCS7'
-  #i<-'ynfE15'
-  #i<-'Y_enterocolitica_TCS1'
-  #i<-'V_cholera_TCS4'
-  #i<-'E_faecalis_TCS2'
-  
   sensor_df <- Sample_data[which(Sample_data$sensor == i & Sample_data$Experiment == 'ME6'&
                                    (Sample_data$Day == 0|Sample_data$Day == 2)&
                                    (Sample_data$Group == 'gavage'|Sample_data$Group == '5 mg strep')),] %>%
@@ -980,7 +710,6 @@ off_sensors <- unique(off_sensors$sensor)
 #filter T tests for those with p<0.05 (with multiple test comparison correction)
 T_test_lists3<- T_test_lists2[which(T_test_lists2$sensor %in% off_sensors),] %>%
   filter(as.numeric(V1)<=0.05/(63)) #multiple test correction
-
 
 
 
