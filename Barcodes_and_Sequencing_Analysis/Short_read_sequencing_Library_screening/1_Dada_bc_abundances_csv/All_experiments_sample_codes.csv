@@ -1,0 +1,353 @@
+﻿Long_sample_name,Sample,Antibiotic,Experiment,Day,Group,Mouse
+Aerobic_SOC2,Aerobic,none,LB012,None,None,None
+Aerobic_SOC2,Aerobic_SPEC,spec,LB012,None,None,None
+Anaerobic_SOC_Nit_Tet,Anaerobic_Nit_Tet,none,LB012,None,None,None
+Anaerobic_SOC_Nit_Tet,Anaerobic_Nit_Tet_SPEC,spec,LB012,None,None,None
+Aerobic_LB,ALB,none,LB009,None,None,None
+Aerobic_SOC,ASOC,none,LB009,None,None,None
+Aerobic_M9,AM9,none,LB009,None,None,None
+Aerobic_M9_Tet_1uM,AM9Tet1uM,none,LB009,None,None,None
+Aerobic_M9_Tet_10uM,AM9Tet10uM,none,LB009,None,None,None
+Aerobic_M9_Tet_100uM,AM9Tet100uM,none,LB009,None,None,None
+Aerobic_M9_Nit_2mM,AM9Nit2mM,none,LB009,None,None,None
+Aerobic_M9_Nit_20mM,AM9Nit20mM,none,LB009,None,None,None
+Aerobic_M9_Epi_50uM,AM9Epi50uM,none,LB009,None,None,None
+Aerobic_M9_HOCl,AM9HOCl1mM,none,LB009,None,None,None
+Aerobic_M9_NaCl,AM9NaCl100mM,none,LB009,None,None,None
+Aerobic_M9_Sucrose,AM9Suc8pct,none,LB009,None,None,None
+Aerobic_M9_pH5,AM9pH5,none,LB009,None,None,None
+Aerobic_M9_LimPO,AM9POLim,none,LB009,None,None,None
+Aerobic_M9_LimK,AM9KLim,none,LB009,None,None,None
+Aerobic_M9_Cit_50mM,AM9Cit50mM,none,LB009,None,None,None
+Aerobic_M9_Fum_20mM,AM9Fum20mM,none,LB009,None,None,None
+Aerobic_LB,ASLB,spec,LB009,None,None,None
+Aerobic_SOC,ASSOC,spec,LB009,None,None,None
+Aerobic_M9,ASM9,spec,LB009,None,None,None
+Aerobic_M9_Tet_1uM,ASM9Tet1uM,spec,LB009,None,None,None
+Aerobic_M9_Tet_10uM,ASM9Tet10uM,spec,LB009,None,None,None
+Aerobic_M9_Tet_100uM,ASM9Tet100uM,spec,LB009,None,None,None
+Aerobic_M9_Nit_2mM,ASM9Nit2mM,spec,LB009,None,None,None
+Aerobic_M9_Nit_20mM,ASM9Nit20mM,spec,LB009,None,None,None
+Aerobic_M9_Epi_50uM,ASM9Epi50uM,spec,LB009,None,None,None
+Aerobic_M9_HOCl,ASM9HOCl1mM,spec,LB009,None,None,None
+Aerobic_M9_NaCl,ASM9NaCl100mM,spec,LB009,None,None,None
+Aerobic_M9_Sucrose,ASM9Suc8pct,spec,LB009,None,None,None
+Aerobic_M9_pH5,ASM9pH5,spec,LB009,None,None,None
+Aerobic_M9_LimPO,ASM9POLim,spec,LB009,None,None,None
+Aerobic_M9_LimK,ASM9KLim,spec,LB009,None,None,None
+Aerobic_M9_Cit_50mM,ASM9Cit50mM,spec,LB009,None,None,None
+Aerobic_M9_Fum_20mM,ASM9Fum20mM,spec,LB009,None,None,None
+Anaerobic_SOC,ANSOC,none,LB009,None,None,None
+Anaerobic_M9,ANM9,none,LB009,None,None,None
+Anaerobic_M9_Tet_1uM,ANM9Tet1uM,none,LB009,None,None,None
+Anaerobic_M9_Tet_10uM,ANM9Tet10uM,none,LB009,None,None,None
+Anaerobic_M9_Tet_100uM,ANM9Tet100uM,none,LB009,None,None,None
+Anaerobic_M9_Nit_2mM,ANM9Nit2mM,none,LB009,None,None,None
+Anaerobic_M9_Nit_20mM,ANM9Nit20mM,none,LB009,None,None,None
+Anaerobic_M9_Epi_50uM,ANM9Epi50uM,none,LB009,None,None,None
+Anaerobic_M9_HOCl,ANM9HOCl1mM,none,LB009,None,None,None
+Anaerobic_M9_NaCl,ANM9NaCl100mM,none,LB009,None,None,None
+Anaerobic_M9_Sucrose,ANM9Suc8pct,none,LB009,None,None,None
+Anaerobic_M9_pH5,ANM9pH5,none,LB009,None,None,None
+Anaerobic_M9_LimPO,ANM9POLim,none,LB009,None,None,None
+Anaerobic_M9_LimK,ANM9KLim,none,LB009,None,None,None
+Anaerobic_M9_Cit_50mM,ANM9Cit50mM,none,LB009,None,None,None
+Anaerobic_M9_Fum_20mM,ANM9Fum20mM,none,LB009,None,None,None
+Anaerobic_SOC,ANSSOC,spec,LB009,None,None,None
+Anaerobic_M9,ANSM9,spec,LB009,None,None,None
+Anaerobic_M9_Tet_1uM,ANSM9Tet1uM,spec,LB009,None,None,None
+Anaerobic_M9_Tet_10uM,ANSM9Tet10uM,spec,LB009,None,None,None
+Anaerobic_M9_Tet_100uM,ANSM9Tet100uM,spec,LB009,None,None,None
+Anaerobic_M9_Nit_2mM,ANSM9Nit2mM,spec,LB009,None,None,None
+Anaerobic_M9_Nit_20mM,ANSM9Nit20mM,spec,LB009,None,None,None
+Anaerobic_M9_Epi_50uM,ANSM9Epi50uM,spec,LB009,None,None,None
+Anaerobic_M9_HOCl,ANSM9HOCl1mM,spec,LB009,None,None,None
+Anaerobic_M9_NaCl,ANSM9NaCl100mM,spec,LB009,None,None,None
+Anaerobic_M9_Sucrose,ANSM9Suc8pct,spec,LB009,None,None,None
+Anaerobic_M9_pH5,ANSM9pH5,spec,LB009,None,None,None
+Anaerobic_M9_LimPO,ANSM9POLim,spec,LB009,None,None,None
+Anaerobic_M9_LimK,ANSM9KLim,spec,LB009,None,None,None
+Anaerobic_M9_Cit_50mM,ANSM9Cit50mM,spec,LB009,None,None,None
+Anaerobic_M9_Fum_20mM,ANSM9Fum20mM,spec,LB009,None,None,None
+D7_C1,IGF122898,none,ME1,1,Control,1
+D7_C1,IGF122899,spec,ME1,1,Control,1
+D7_C2,IGF122900,none,ME1,1,Control,2
+D7_C2,IGF122901,spec,ME1,1,Control,2
+D7_C3,IGF122902,none,ME1,1,Control,3
+D7_C3,IGF122903,spec,ME1,1,Control,3
+D7_T1,IGF122904,none,ME1,1,DSS,1
+D7_T1,IGF122905,spec,ME1,1,DSS,1
+D7_T2,IGF122906,none,ME1,1,DSS,2
+D7_T2,IGF122907,spec,ME1,1,DSS,2
+D7_T3,IGF122908,none,ME1,1,DSS,3
+D7_T3,IGF122909,spec,ME1,1,DSS,3
+D8_C1,IGF122910,none,ME1,2,Control,1
+D8_C1,IGF122911,spec,ME1,2,Control,1
+D8_C2,IGF122912,none,ME1,2,Control,2
+D8_C2,IGF122913,spec,ME1,2,Control,2
+D8_C3,IGF122914,none,ME1,2,Control,3
+D8_C3,IGF122915,spec,ME1,2,Control,3
+D10_C2,IGF122916,none,ME1,4,Control,2
+D10_C2,IGF122917,spec,ME1,4,Control,2
+D12_C2,IGF122918,none,ME1,6,Control,2
+D12_C2,IGF122919,spec,ME1,6,Control,2
+D14_C2,IGF122922,none,ME1,8,Control,2
+D14_C2,IGF122923,spec,ME1,8,Control,2
+ME1_gavage,IGF122926,none,ME1,0,gavage,None
+ME1_gavage,IGF122927,spec,ME1,0,gavage,None
+ME4_D12_G10,ME4_D12_G10,none,ME4,12,5 mg strep,1
+ME4_D12_G11,ME4_D12_G11,none,ME4,12,5 mg strep,2
+ME4_D2_G10,ME4_D2_G10,none,ME4,2,5 mg strep,1
+ME4_D2_G11,ME4_D2_G11,none,ME4,2,5 mg strep,2
+ME4_D2_G20,ME4_D2_G20,none,ME4,2,1 mg strep,1
+ME4_D2_G21,ME4_D2_G21,none,ME4,2,1 mg strep,2
+ME4_D2_G30,ME4_D2_G30,none,ME4,2,0 mg strep,1
+ME4_D2_G31,ME4_D2_G31,none,ME4,2,0 mg strep,2
+ME4_D4_G10,ME4_D4_G10,none,ME4,4,5 mg strep,1
+ME4_D4_G11,ME4_D4_G11,none,ME4,4,5 mg strep,2
+ME4_D7_G10,ME4_D7_G10,none,ME4,7,5 mg strep,1
+ME4_D7_G11,ME4_D7_G11,none,ME4,7,5 mg strep,2
+ME4_gavage,ME4_gavage,none,ME4,0,gavage,None
+D11_G1M0,D11_G1M0,none,ME6,1,Control,1
+D11_G1M0,D11_G1M0_Spec,spec,ME6,1,Control,1
+D11_G1M1,D11_G1M1,none,ME6,1,Control,2
+D11_G1M1,D11_G1M1_Spec,spec,ME6,1,Control,2
+D11_G1M2,D11_G1M2,none,ME6,1,Control,3
+D11_G1M2,D11_G1M2_Spec,spec,ME6,1,Control,3
+D11_G1M3,D11_G1M3,none,ME6,1,Control,4
+D11_G1M3,D11_G1M3_Spec,spec,ME6,1,Control,4
+D11_G2M0,D11_G2M0,none,ME6,1,5 mg strep,1
+D11_G2M0,D11_G2M0_Spec,spec,ME6,1,5 mg strep,1
+D11_G2M1,D11_G2M1,none,ME6,1,5 mg strep,2
+D11_G2M1,D11_G2M1_Spec,spec,ME6,1,5 mg strep,2
+D11_G2M2,D11_G2M2,none,ME6,1,5 mg strep,3
+D11_G2M2,D11_G2M2_Spec,spec,ME6,1,5 mg strep,3
+D11_G2M3,D11_G2M3,none,ME6,1,5 mg strep,4
+D11_G2M3,D11_G2M3_Spec,spec,ME6,1,5 mg strep,4
+D11_G3M0,D11_G3M0,none,ME6,1,DSS,1
+D11_G3M0,D11_G3M0_Spec,spec,ME6,1,DSS,1
+D11_G3M1,D11_G3M1,none,ME6,1,DSS,2
+D11_G3M1,D11_G3M1_Spec,spec,ME6,1,DSS,2
+D11_G3M2,D11_G3M2,none,ME6,1,DSS,3
+D11_G3M2,D11_G3M2_Spec,spec,ME6,1,DSS,3
+D11_G3M3,D11_G3M3,none,ME6,1,DSS,4
+D11_G3M3,D11_G3M3_Spec,spec,ME6,1,DSS,4
+D11_G4M0,D11_G4M0,none,ME6,1,DSS Recovery,1
+D11_G4M0,D11_G4M0_Spec,spec,ME6,1,DSS Recovery,1
+D11_G4M1,D11_G4M1,none,ME6,1,DSS Recovery,2
+D11_G4M1,D11_G4M1_Spec,spec,ME6,1,DSS Recovery,2
+D11_G4M2,D11_G4M2,none,ME6,1,DSS Recovery,3
+D11_G4M2,D11_G4M2_Spec,spec,ME6,1,DSS Recovery,3
+D11_G4M3,D11_G4M3,none,ME6,1,DSS Recovery,4
+D11_G4M3,D11_G4M3_Spec,spec,ME6,1,DSS Recovery,4
+D12_G1M0,D12_G1M0,none,ME6,2,Control,1
+D12_G1M0,D12_G1M0_Spec,spec,ME6,2,Control,1
+D12_G1M1,D12_G1M1,none,ME6,2,Control,2
+D12_G1M1,D12_G1M1_Spec,spec,ME6,2,Control,2
+D12_G1M2,D12_G1M2,none,ME6,2,Control,3
+D12_G1M2,D12_G1M2_Spec,spec,ME6,2,Control,3
+D12_G1M3,D12_G1M3,none,ME6,2,Control,4
+D12_G1M3,D12_G1M3_Spec,spec,ME6,2,Control,4
+D12_G2M0,D12_G2M0,none,ME6,2,5 mg strep,1
+D12_G2M0,D12_G2M0_Spec,spec,ME6,2,5 mg strep,1
+D12_G2M1,D12_G2M1,none,ME6,2,5 mg strep,2
+D12_G2M1,D12_G2M1_Spec,spec,ME6,2,5 mg strep,2
+D12_G2M2,D12_G2M2,none,ME6,2,5 mg strep,3
+D12_G2M2,D12_G2M2_Spec,spec,ME6,2,5 mg strep,3
+D12_G2M3,D12_G2M3,none,ME6,2,5 mg strep,4
+D12_G2M3,D12_G2M3_Spec,spec,ME6,2,5 mg strep,4
+D12_G3M0,D12_G3M0,none,ME6,2,DSS,1
+D12_G3M0,D12_G3M0_Spec,spec,ME6,2,DSS,1
+D12_G3M1,D12_G3M1,none,ME6,2,DSS,2
+D12_G3M1,D12_G3M1_Spec,spec,ME6,2,DSS,2
+D12_G3M2,D12_G3M2,none,ME6,2,DSS,3
+D12_G3M2,D12_G3M2_Spec,spec,ME6,2,DSS,3
+D12_G3M3,D12_G3M3,none,ME6,2,DSS,4
+D12_G3M3,D12_G3M3_Spec,spec,ME6,2,DSS,4
+D12_G4M0,D12_G4M0,none,ME6,2,DSS Recovery,1
+D12_G4M0,D12_G4M0_Spec,spec,ME6,2,DSS Recovery,1
+D12_G4M1,D12_G4M1,none,ME6,2,DSS Recovery,2
+D12_G4M1,D12_G4M1_Spec,spec,ME6,2,DSS Recovery,2
+D12_G4M2,D12_G4M2,spec,ME6,2,DSS Recovery,3
+D12_G4M2,D12_G4M2_Spec,none,ME6,2,DSS Recovery,3
+D12_G4M3,D12_G4M3,none,ME6,2,DSS Recovery,4
+D12_G4M3,D12_G4M3_Spec,spec,ME6,2,DSS Recovery,4
+Gavage,Gavage,none,ME6,0,gavage,None
+Gavage,Gavage_Spec,spec,ME6,0,gavage,None
+PC10,PC10,none,ME9,2,Control_PC,1
+PC11,PC11,none,ME9,2,Control_PC,2
+PC12,PC12,none,ME9,2,Control_PC,3
+PC13,PC13,none,ME9,2,Control_PC,4
+PC20,PC20,none,ME9,2,DSS_PC,1
+PC21,PC21,none,ME9,2,DSS_PC,2
+PC22,PC22,none,ME9,2,DSS_PC,3
+PC23,PC23,none,ME9,2,DSS_PC,4
+PC10,PC10S,spec,ME9,2,Control_PC,1
+PC11,PC11S,spec,ME9,2,Control_PC,2
+PC12,PC12S,spec,ME9,2,Control_PC,3
+PC13,PC13S,spec,ME9,2,Control_PC,4
+PC20,PC20S,spec,ME9,2,DSS_PC,1
+PC21,PC21S,spec,ME9,2,DSS_PC,2
+PC22,PC22S,spec,ME9,2,DSS_PC,3
+PC23,PC23S,spec,ME9,2,DSS_PC,4
+C10,C10,none,ME9,2,Control_C,1
+C11,C11,none,ME9,2,Control_C,2
+C12,C12,none,ME9,2,Control_C,3
+C13,C13,none,ME9,2,Control_C,4
+C20,C20,none,ME9,2,DSS_C,1
+C21,C21,none,ME9,2,DSS_C,2
+C22,C22,none,ME9,2,DSS_C,3
+C23,C23,none,ME9,2,DSS_C,4
+C10,C10S,spec,ME9,2,Control_C,1
+C11,C11S,spec,ME9,2,Control_C,2
+C12,C12S,spec,ME9,2,Control_C,3
+C13,C13S,spec,ME9,2,Control_C,4
+C20,C20S,spec,ME9,2,DSS_C,1
+C21,C21S,spec,ME9,2,DSS_C,2
+C22,C22S,spec,ME9,2,DSS_C,3
+C23,C23S,spec,ME9,2,DSS_C,4
+SI10,SI10,none,ME9,2,Control_SI,1
+SI11,SI11,none,ME9,2,Control_SI,2
+SI12,SI12,none,ME9,2,Control_SI,3
+SI13,SI13,none,ME9,2,Control_SI,4
+SI20,SI20,none,ME9,2,DSS_SI,1
+SI21,SI21,none,ME9,2,DSS_SI,2
+SI22,SI22,none,ME9,2,DSS_SI,3
+SI23,SI23,none,ME9,2,DSS_SI,4
+SI10,SI10S,spec,ME9,2,Control_SI,1
+SI11,SI11S,spec,ME9,2,Control_SI,2
+SI12,SI12S,spec,ME9,2,Control_SI,3
+SI13,SI13S,spec,ME9,2,Control_SI,4
+SI20,SI20S,spec,ME9,2,DSS_SI,1
+SI21,SI21S,spec,ME9,2,DSS_SI,2
+SI22,SI22S,spec,ME9,2,DSS_SI,3
+SI23,SI23S,spec,ME9,2,DSS_SI,4
+F10,F10,none,ME9,2,Control_F,1
+F11,F11,none,ME9,2,Control_F,2
+F12,F12,none,ME9,2,Control_F,3
+F13,F13,none,ME9,2,Control_F,4
+F20,F20,none,ME9,2,DSS_F,1
+F21,F21,none,ME9,2,DSS_F,2
+F22,F22,none,ME9,2,DSS_F,3
+F23,F23,none,ME9,2,DSS_F,4
+F10,F10S,spec,ME9,2,Control_F,1
+F11,F11S,spec,ME9,2,Control_F,2
+F12,F12S,spec,ME9,2,Control_F,3
+F13,F13S,spec,ME9,2,Control_F,4
+F20,F20S,spec,ME9,2,DSS_F,1
+F21,F21S,spec,ME9,2,DSS_F,2
+F22,F22S,spec,ME9,2,DSS_F,3
+F23,F23S,spec,ME9,2,DSS_F,4
+G,G,none,ME9,0,gavage,None
+G,GS,spec,ME9,0,gavage,None
+atc,atc,none,LB036,None,None,None
+atc,atcspec,spec,LB036,None,None,None
+c11,c11,none,MEX01,None,5 mg strep,1
+c11,c11spec,spec,MEX01,None,5 mg strep,1
+c12,c12,none,MEX01,None,5 mg strep,2
+c12,c12spec,spec,MEX01,None,5 mg strep,2
+c13,c13,none,MEX01,None,5 mg strep,3
+c13,c13spec,spec,MEX01,None,5 mg strep,3
+c20,c20,none,MEX01,None,DSS,1
+c20,c20spec,spec,MEX01,None,DSS,1
+c21,c21,none,MEX01,None,DSS,2
+c21,c21spec,spec,MEX01,None,DSS,2
+c22,c22,none,MEX01,None,DSS,3
+c22,c22spec,spec,MEX01,None,DSS,3
+c23,c23,none,MEX01,None,DSS,4
+c23,c23spec,spec,MEX01,None,DSS,4
+cit,cit,none,LB036,None,None,None
+cit,citspec,spec,LB036,None,None,None
+colelib2,colelib2,none,LB036,None,None,None
+colelib2sia,colelib2sia,none,LB036,None,None,None
+colelib2sia,colelib2siaspec,spec,LB036,None,None,None
+colelib2,colelib2spec,spec,LB036,None,None,None
+DC10,DC10,none,ME9,2,5 mg strep,1
+DC10,DC10S,spec,ME9,2,5 mg strep,1
+DC11,DC11,none,ME9,2,5 mg strep,2
+DC11,DC11S,spec,ME9,2,5 mg strep,2
+DC12,DC12,none,ME9,2,5 mg strep,3
+DC12,DC12S,spec,ME9,2,5 mg strep,3
+DC13,DC13,none,ME9,2,5 mg strep,4
+DC13,DC13S,spec,ME9,2,5 mg strep,4
+DC20,DC20,none,ME9,2,DSS,1
+DC20,DC20S,spec,ME9,2,DSS,1
+DC21,DC21,none,ME9,2,DSS,2
+DC21,DC21S,spec,ME9,2,DSS,2
+DC22,DC22,none,ME9,2,DSS,3
+DC22,DC22S,spec,ME9,2,DSS,3
+DC23,DC23,none,ME9,2,DSS,4
+DC23,DC23S,spec,ME9,2,DSS,4
+epi,epi,none,LB036,None,None,None
+epi,epispec,spec,LB036,None,None,None
+etoh,etoh,none,LB036,None,None,None
+etoh,etohspec,spec,LB036,None,None,None
+F110,F110,none,ME9,1,5 mg strep,1
+F110,F110S,spec,ME9,1,5 mg strep,1
+F111,F111,none,ME9,1,5 mg strep,2
+F111,F111S,spec,ME9,1,5 mg strep,2
+F112,F112,none,ME9,1,5 mg strep,3
+F112,F112S,spec,ME9,1,5 mg strep,3
+F113,F113,none,ME9,1,5 mg strep,4
+F113,F113S,spec,ME9,1,5 mg strep,4
+F120,F120,none,ME9,1,DSS,1
+F120,F120S,spec,ME9,1,DSS,1
+F121,F121,none,ME9,1,DSS,2
+F121,F121S,spec,ME9,1,DSS,2
+F122,F122,none,ME9,1,DSS,3
+F122,F122S,spec,ME9,1,DSS,3
+F123,F123,none,ME9,1,DSS,4
+F123,F123S,spec,ME9,1,DSS,4
+nit,nit,none,LB036,None,None,None
+nit,nitspec,spec,LB036,None,None,None
+socaer,socaer,none,LB036,None,None,None
+socaer,socaerspec,spec,LB036,None,None,None
+socan,socan,none,LB036,None,None,None
+socan,socanspec,spec,LB036,None,None,None
+tet,tet,none,LB036,None,None,None
+tet,tetspec,spec,LB036,None,None,None
+CuredB1,CuredB1,none,LB039,None,None,None
+CuredL2,CuredL2,spec,LB039,None,None,None
+CuredS1,CuredS1,none,LB039,None,None,None
+CuredS2,CuredS2,spec,LB039,None,None,None
+CuredS3,CuredS3,none,LB039,None,None,None
+D284,D284,spec,Schuur02,2,,
+D284,D284S,none,Schuur02,2,,
+D285,D285,spec,Schuur02,2,,
+D285,D285S,none,Schuur02,2,,
+D286,D286,spec,Schuur02,2,,
+D286,D286S,none,Schuur02,2,,
+D287,D287,spec,Schuur02,2,,
+D287,D287S,none,Schuur02,2,,
+D290,D290,spec,Schuur02,2,,
+D290,D290S,none,Schuur02,2,,
+D291,D291,spec,Schuur02,2,,
+D291,D291S,none,Schuur02,2,,
+D297,D297,spec,Schuur02,2,,
+D297,D297S,none,Schuur02,2,,
+D298,D298,spec,Schuur02,2,,
+D298,D298S,none,Schuur02,2,,
+D384,D384,spec,Schuur02,3,,
+D384,D384S,none,Schuur02,3,,
+D385,D385,spec,Schuur02,3,,
+D385,D385S,none,Schuur02,3,,
+D386,D386,spec,Schuur02,3,,
+D386,D386S,none,Schuur02,3,,
+D387,D387,spec,Schuur02,3,,
+D387,D387S,none,Schuur02,3,,
+D390,D390,spec,Schuur02,3,,
+D390,D390S,none,Schuur02,3,,
+D391,D391,spec,Schuur02,3,,
+D391,D391S,none,Schuur02,3,,
+D397,D397,spec,Schuur02,3,,
+D397,D397S,none,Schuur02,3,,
+D398,D398,spec,Schuur02,3,,
+D398,D398S,none,Schuur02,3,,
+PickedS1_S3,PickedS1_S3,none,LB039,None,None,None
+PlasmidB1,PlasmidB1,none,LB039,None,None,None
+PlasmidL2,PlasmidL2,none,LB039,None,None,None
+PlasmidS1,PlasmidS1,none,LB039,None,None,None
+PlasmidS2,PlasmidS2,none,LB039,None,None,None
+PlasmidS3,PlasmidS3,none,LB039,None,None,None
+SchuurG,SchuurG,none,Schuur02,0,,
+SchuurG,SchuurGS,spec,Schuur02,0,,
