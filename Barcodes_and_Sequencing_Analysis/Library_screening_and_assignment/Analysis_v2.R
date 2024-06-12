@@ -9,6 +9,27 @@ library(purrr)
 #For R Studio only: set working directory to location of script
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
+######### Combining short reads from all Dada2 runs ###########
+# This is used as a reference file against which long reads will be aligned. 
+#read all barcodes determined by dada2 from each run
+ME4_bcs <- read.csv('ME4/Barcode_abundances_ME4.csv')
+ME6_bcs <- read.csv('ME6/Barcode_abundances_ME6.csv')
+LB009_bcs <- read.csv('LB009/Barcode_abundances_LB009.csv')
+ME9_bcs <- read.csv('ME9/Barcode_abundances_ME9.csv')
+
+#make a list of all barcodes for all runs
+df_list <- list(subset(LB012_bcs, select=-X),
+                subset(ME1_bcs, select=-X),
+                subset(ME4_bcs, select=-X),
+                subset(ME6_bcs, select=-X),
+                subset(LB009_bcs, select=-X))
+
+#and combine all barcodes & barcodes with known assignment 
+combined_bcs <- df_list %>% purrr::reduce(dplyr::full_join, by='barcode')
+combined_bcs <- combined_bcs %>%
+  dplyr::select(sensor, everything()) #move sensor column to left side of df for easier viewing 
+write.csv(combined_bcs, 'combined_bcs.csv')
+
 ######### Long read assignment processing and clustering ###########
 
 #This only needs to be run once (not repeatedly for every short read library screening experiment)

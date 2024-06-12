@@ -13,15 +13,15 @@ The jupyter notebook file 'Example_Running_Sensor_Search.ipynb' can be run to us
 
 ### Barcodes and Sequencing Analysis
 All code and associated data to analyse sequencing results (note long read sequencing alignment was done in Geneious using Minimap software - alignment output data from geneious is included in this repository). Briefly sequencing analysis is done as follows: 
-1. All library screen samples are analysed for putative barcodes using Dada2 (Short_read_sequencing_Library_screening folder, LB009 corresponds to in vitro library screening, data processing Fig 1G + Fig 2H + Sup Fig 3. , ME4 corresponds to library colonisation experiment Sup. Fig. 4, ME6 corresponds to in vivo library screening Fig. 2)
-2. All inferred barcodes & barcode counts from all library screening experiments are combined & QCed (script: combining_all_barcodes.R, output: combined_bcs.csv)
-3. Minimap alignments of long read sequencing are exported from Geneious & trimmed use Minimap_TCS_alignments.ipynb to get the barcode region of the alignments, which are exported as trimmed_barcode_alignments.csv. These are processed using TCS_to_barcode_assignment.R, and confirmed assigned barcodes are saved as assigned_barcodes.csv. 
-4. assigned_barcodes.csv (from long read sequencing) and combined_bcs.csv (short read sequencing results from each library screen) are merged & processed to calculate odds ratios in Odds_ratio_plotting.R, which further performs QC & normalisation using positive controls. 
+1. All library screen samples are analysed for putative barcodes using Dada2 (Short_read_sequencing_Library_screening folder, LB009 corresponds to in vitro library screening, ME4 corresponds to library colonisation experiment, ME6 corresponds to in vivo Library 1 screening and ME9 corresponds to in vivo Library 2 screening)
+2. All inferred barcodes & barcode counts from all library screening experiments are combined (output: combined_bcs.csv)
+3. Long reads are aligned to known sensor regions using Minimap, and minimap alignments of long read sequencing are exported from Geneious & trimmed use Minimap_TCS_alignments.ipynb to get the barcode region of the alignments, which are exported as trimmed_barcode_alignments.csv. These are processed in R (Analysis_v2.R), and confirmed assigned barcodes are saved as assigned_bcs.csv. 
+4. assigned_barcodes.csv (from long read sequencing) and combined_bcs.csv (short read sequencing results from each library screen - note new library screens can be run using the code as long as barcode abundances are formatted with barcode sequences in one column and abundances for each sample in adjacent columns) are merged & processed (using sample_codes.csv to specify sample specifications i.e. With or without spectinomycin etc.) to calculate fractional odds ratios, and perform QC & normalisation using specified positive controls. Various output csv results will be saved including csv with QC details, calculated OR and FOR values. The script is also compatible with pooled barcode analysis. 
 
 #### Demo: 
-Once required dependencies are installed, all R scripts can be run to re-generate the results from barcode sequencing analysis. 
+Once required dependencies are installed, all R scripts can be run to re-generate the results from barcode sequencing analysis. Example lines to run analysis on experiment LB0012 are included in Analysis_v2.R script. 
 
-## Installation Guide: 
+#### Installation Guide: 
 Programing language information & Software Dependencies: 
 - SensorSearch functions are written in Python v3.8 or above, requires packages 'requests', 'pandas', 'Biopython', 'urllib3', 'reportlab' and 'os' 
 - DNA Sequencing analysis is written in R v4.2.2 or above, packages required are as listed in scripts. 
